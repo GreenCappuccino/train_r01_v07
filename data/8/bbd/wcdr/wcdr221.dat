@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr221.dat
+.SEGMENT TEXT 0-39 OK "ABC hasn't had much luck with shows featuring blacks in recent years, and the producers of one new arrival are a bit desperate."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0188.dat
+.SEGMENT TEXT 0-76 ? "at the corner of New York Blvd. and First Ave. Two blocks south of Mac Donald's"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1802.dat
+.SEGMENT TEXT 0-66 ? "Cupertino Florist Ford Sunnyvale El Camino Hospital Century 21"

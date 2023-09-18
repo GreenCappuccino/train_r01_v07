@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr113.dat
+.SEGMENT TEXT 0-38 OK "The agency, under his direction, bitterly fought a takeover attempt by WPP Group PLC of London before succumbing in May."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr110.dat
+.SEGMENT TEXT 0-39 OK "Among the 30 Dow industrials, they bought McDonald's, Coca-Cola Co. and Procter & Gamble and sold Aluminum Co. of America."

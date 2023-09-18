@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2496.dat
+.SEGMENT WORD 0-1 ? "pan"
+.SEGMENT WORD 2 ? "peace"
+.SEGMENT WORD 3-5 ? "personality"
+.SEGMENT WORD 6-9 ? "plate"

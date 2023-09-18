@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr611.dat
+.SEGMENT TEXT 0-39 OK "Jaguar's own defenses against a hostile bid are weakened, analysts add, because fewer than 3% of its shares are owned by employees and management."

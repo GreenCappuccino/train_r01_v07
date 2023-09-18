@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2977.dat
+.SEGMENT WORD 0-2 ? "dad"
+.SEGMENT WORD 3-11 ? "delicious"
+.SEGMENT WORD 12-17 ? "develop"
+.SEGMENT WORD 18-21 ? "dime"

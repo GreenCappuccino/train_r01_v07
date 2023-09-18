@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2304.dat
+.SEGMENT WORD 0-1 ? "begun"
+.SEGMENT WORD 2-4 ? "bite"
+.SEGMENT WORD 5-8 ? "books"

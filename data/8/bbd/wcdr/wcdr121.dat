@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr121.dat
+.SEGMENT TEXT 0-71 OK "Trading executives privately say that huge stock-index funds, which dwarf Wall Street firms in terms of the size of their program trades, will continue to launch big programs through the stock market."

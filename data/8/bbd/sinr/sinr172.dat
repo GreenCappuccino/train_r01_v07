@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr172.dat
+.SEGMENT TEXT 0-49 OK "@ OTHER Maryland National Bank - $267 million of securities backed by home-equity lines of credit through Merrill Lynch Capital Markets."

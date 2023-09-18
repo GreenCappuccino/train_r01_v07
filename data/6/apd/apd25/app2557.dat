@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd25/app2557.dat
+.SEGMENT WORD 0-1 ? "Since"
+.SEGMENT WORD 2 ? "each"
+.SEGMENT WORD 3 ? "person"
+.SEGMENT WORD 4-5 ? "involved"
+.SEGMENT WORD 6 ? "agrees"
+.SEGMENT WORD 10 ? "go"
+.SEGMENT WORD 11-12 ? "to"
+.SEGMENT WORD 13-14 ? "the"
+.SEGMENT WORD 15-18 ? "restaurant"

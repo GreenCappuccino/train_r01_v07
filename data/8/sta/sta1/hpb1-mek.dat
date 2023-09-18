@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-mek.dat
+.SEGMENT TEXT 0-41 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 42-77 OK "What a dirty trick !"
+.SEGMENT TEXT 154-179 OK "No one will see them ."
+.SEGMENT TEXT 362-403 OK "from the day when our fathers"
+.SEGMENT TEXT 440-475 OK "To be or not to be ;"

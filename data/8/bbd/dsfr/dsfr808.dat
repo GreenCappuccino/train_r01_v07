@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr808.dat
+.SEGMENT TEXT 0-51 OK "This meant returning to the golf course, where we watched a few French duffers maul the first tee while we sat under Cinzano umbrellas, me nursing an espresso and my ego."

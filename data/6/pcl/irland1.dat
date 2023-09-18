@@ -1,0 +1,20 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/irland1.dat
+.SEGMENT WORD 2-4 ? "coffee"
+.SEGMENT WORD 14-17 ? "carry"
+.SEGMENT WORD 29-31 ? "sailor"
+.SEGMENT WORD 32-34 ? "medal"
+.SEGMENT WORD 35-37 ? "hotel"
+.SEGMENT WORD 38-43 ? "junction"
+.SEGMENT WORD 49-51 ? "oversee"
+.SEGMENT WORD 60-62 ? "seepage"
+.SEGMENT WORD 67-69 ? "garden"
+.SEGMENT WORD 70-72 ? "called"
+.SEGMENT WORD 77-80 ? "argument"
+.SEGMENT WORD 88-90 ? "argue"
+.SEGMENT WORD 97-100 ? "arrive"
+.SEGMENT WORD 101-105 ? "cruise"
+.SEGMENT WORD 111-114 ? "overcame"
+.SEGMENT WORD 115-116 ? "array"
+.SEGMENT WORD 117-120 ? "butter"

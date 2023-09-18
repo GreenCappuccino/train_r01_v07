@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr546.dat
+.SEGMENT TEXT 0-47 OK "He reaped inflation along with rapid growth, no doubt validating Sir Alan's predictions in the Prime Minister's mind."

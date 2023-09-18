@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd24/app2449.dat
+.SEGMENT WORD 0-3 ? "How"
+.SEGMENT WORD 4-7 ? "much"
+.SEGMENT WORD 8-11 ? "more"
+.SEGMENT WORD 12-13 ? "do"
+.SEGMENT WORD 14-15 ? "we"

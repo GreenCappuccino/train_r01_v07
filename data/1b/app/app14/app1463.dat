@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app14/app1463.dat
+.SEGMENT CHARACTER 21 ? "S"

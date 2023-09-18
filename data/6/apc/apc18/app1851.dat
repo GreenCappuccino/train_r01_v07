@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1851.dat
+.SEGMENT WORD 5-10 ? "highly"
+.SEGMENT WORD 11-19 ? "hospital"
+.SEGMENT WORD 20-24 ? "however"

@@ -1,0 +1,18 @@
+.VERSION 1.0
+.INCLUDE pap/words22k.lex
+.INCLUDE pap/pap0.doc
+.INCLUDE pap/data/pap0/leo.dat
+.SEGMENT WORD 0-1 OK "adventure"
+.SEGMENT WORD 3-5 OK "anorak"
+.SEGMENT WORD 6-7 OK "assurance"
+.SEGMENT WORD 8 OK "bald"
+.SEGMENT WORD 9 OK "barn"
+.SEGMENT WORD 10 OK "belly"
+.SEGMENT WORD 17 OK "can"
+.SEGMENT WORD 18-20 OK "catch"
+.SEGMENT WORD 25 OK "coat"
+.SEGMENT WORD 27-28 OK "cousin"
+.SEGMENT WORD 40 OK "due"
+.SEGMENT WORD 43 OK "escape"
+.SEGMENT WORD 44-45 OK "event"
+.SEGMENT WORD 48 OK "farmhouse"

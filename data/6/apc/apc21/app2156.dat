@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2156.dat
+.SEGMENT WORD 0-12 ? "population"
+.SEGMENT WORD 13-17 ? "pot"
+.SEGMENT WORD 18-31 ? "primitive"
+.SEGMENT WORD 32-38 ? "puzzle"

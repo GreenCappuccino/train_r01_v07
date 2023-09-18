@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr252.dat
+.SEGMENT TEXT 0-62 OK "Since its founding in 1818, Brooks Brothers, the standard-bearer of the Ivy League look, has eschewed flashy sales promotions and fashion trends -- the rules that most retailers live by."

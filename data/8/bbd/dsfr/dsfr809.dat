@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr809.dat
+.SEGMENT TEXT 0-21 OK "A whole morning of ballooning and I had been off the ground barely 30 minutes."

@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/word/mgca/mgca0678.dat
+.SEGMENT WORD 0-4 ? "Postkarte"

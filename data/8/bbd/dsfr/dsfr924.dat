@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr924.dat
+.SEGMENT TEXT 0-60 OK "President Bush in June vetoed a measure passed by Congress and said he wouldn't accept any minimum-wage rise that went beyond limits he set early in this year's debate on the issue."

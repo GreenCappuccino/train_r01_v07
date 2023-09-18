@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr124.dat
+.SEGMENT TEXT 0-61 OK "In 1987, it sold a 2.5% stake in the Veslefrikk field to the Swedish national oil company, resulting in a $7 million after-tax gain."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2443.dat
+.SEGMENT WORD 0-3 ? "Pronoun"
+.SEGMENT WORD 4-8 ? "Quiet"
+.SEGMENT WORD 9-16 ? "Questions"
+.SEGMENT WORD 17-18 ? "Race"

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd25/app2564.dat
+.SEGMENT WORD 0 ? "Go"
+.SEGMENT WORD 1-2 ? "to"
+.SEGMENT WORD 3-7 ? "First"
+.SEGMENT WORD 10-13 ? "Turn"
+.SEGMENT WORD 14 ? "on"
+.SEGMENT WORD 15-16 ? "South"

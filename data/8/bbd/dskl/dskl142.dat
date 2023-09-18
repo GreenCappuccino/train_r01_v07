@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl142.dat
+.SEGMENT TEXT 0-61 OK "It seems to me we're not really going to get anywhere until we can take the criminality out of the drug business and the incentives for criminality out of it."

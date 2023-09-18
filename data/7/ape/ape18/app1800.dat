@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1800.dat
+.SEGMENT WORD 0-9 ? "Eastern"
+.SEGMENT WORD 10-21 ? "Furniture"
+.SEGMENT WORD 22-26 ? "Towne"
+.SEGMENT WORD 27-35 ? "Jewelers"
+.SEGMENT WORD 36-41 ? "Lock"
+.SEGMENT WORD 42-44 ? "Co."
+.SEGMENT WORD 45-53 ? "Budget"

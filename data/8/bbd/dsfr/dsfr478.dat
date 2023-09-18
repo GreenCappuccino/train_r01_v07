@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr478.dat
+.SEGMENT TEXT 0-16 OK "Now Mr. Broberg, a lawyer, claims he'd play for free."

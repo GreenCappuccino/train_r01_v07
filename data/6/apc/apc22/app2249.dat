@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2249.dat
+.SEGMENT WORD 0-2 ? "Gun"
+.SEGMENT WORD 3-10 ? "Happens"
+.SEGMENT WORD 11-19 ? "Heavens"
+.SEGMENT WORD 20-26 ? "Hello"

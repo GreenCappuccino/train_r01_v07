@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0212.dat
+.SEGMENT WORD 0 ? "The"
+.SEGMENT WORD 1-2 ? "Splendid"
+.SEGMENT WORD 3-7 ? "Feast"
+.SEGMENT WORD 8-11 ? "Yosh"
+.SEGMENT WORD 12 ? "for"
+.SEGMENT WORD 13-17 ? "Hair"
+.SEGMENT WORD 18-23 ? "National,"
+.SEGMENT WORD 24-27 ? "Glass,"
+.SEGMENT WORD 28-29 ? "Inc."
+.SEGMENT WORD 30-35 ? "Foothill"
+.SEGMENT WORD 36-42 ? "Lanscaping"

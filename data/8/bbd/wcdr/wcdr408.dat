@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr408.dat
+.SEGMENT TEXT 0-41 OK "Air & Water, which provides environmental services and systems, paid about 1.4 million of its shares for Falcon."

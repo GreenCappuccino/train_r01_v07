@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0843.dat
+.SEGMENT WORD 0-7 ? "Fabrizio"
+.SEGMENT WORD 8-11 ? "Fei"
+.SEGMENT WORD 12-13 ? "Kenn"
+.SEGMENT WORD 14-17 ? "Fran"
+.SEGMENT WORD 18-21 ? "Gabriele"

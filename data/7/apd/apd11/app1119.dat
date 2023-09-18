@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1119.dat
+.SEGMENT WORD 0 ? "manner"
+.SEGMENT WORD 1 ? "maybe"
+.SEGMENT WORD 2 ? "meal"
+.SEGMENT WORD 3-4 ? "metal"

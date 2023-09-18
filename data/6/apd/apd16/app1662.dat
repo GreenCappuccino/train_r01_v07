@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1662.dat
+.SEGMENT WORD 0-3 ? "Hold"
+.SEGMENT WORD 4 ? "on"
+.SEGMENT WORD 5-6 ? "to"
+.SEGMENT WORD 7-10 ? "your"
+.SEGMENT WORD 11-13 ? "stock"
+.SEGMENT WORD 14-17 ? "another"
+.SEGMENT WORD 18 ? "day"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr144.dat
+.SEGMENT TEXT 0-31 OK "Kraft recently agreed to spend an additional $3 million on similar programs through 1990."

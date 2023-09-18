@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr110.dat
+.SEGMENT TEXT 0-59 OK "\"Corporate profits are going to decrease faster than interest rates will fall, and the probability is that we'll see negative economic growth in the fourth quarter.\""

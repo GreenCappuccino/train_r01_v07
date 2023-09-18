@@ -1,0 +1,68 @@
+
+.VERSION 1.0
+
+.DATA_SOURCE    kai
+
+.DATA_ID        kai0
+
+.ALPHABET       "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+
+.ALPHABET_FREQ  1 1 1 1 1 1 1 1 1 1 1 1 1
+                1 1 1 1 1 1 1 1 1 1 1 1 1
+                1 1 1 1 1 1 1 1 1 1 1 1 1
+                1 1 1 1 1 1 1 1 1 1 1 1 1
+
+.HIERARCHY      CHARACTER   
+.COORD X Y
+
+.DATA_CONTACT 
+         Name:			Jae-Ook, Kwon
+         Affiliation:	AI Lab. Computer Science Department
+						Korea Advanced Institute of Science and Technology
+         Address:    	373-1 Kusong-Dong, Yusong-Gu,
+						Taejon, 305-701, Korea
+         Phone: 		+82-42-869-5557
+         Fax:   		+82-42-869-3510
+         Email: 		jokwon@gorai.kaist.ac.kr
+
+.SETUP   Site: NotePad Project, CAIR/KAIST, Korea
+         Time: Jul. 92 -- Aug. 93 
+         Writer population: 30
+         Writer motivation: paid/forced
+         Writer physical position:
+			students of univ. and graduate students
+         Instructions given to the writer:
+			write as you write it in notebook
+         Duration of one session:	about 2 hours
+         Recognizer feedback:		no
+         Form layout:				multiple boxes
+
+.DATA_INFO    
+         Set type:
+         Alphabet:				English alphabets
+         Lexicon:				English alphabets
+         Label distribution:
+         Quantity:				17627 characters
+         Quality:				cleaning
+         Number of Writer(s):	30
+         Writing Style:			printed/cursive separately
+         Segmentation:			discrete characters
+
+.X_DIM	94
+.Y_DIM	129
+
+.X_POINTS_PER_INCH	500
+.Y_POINTS_PER_INCH	500
+.POINTS_PER_SECOND	9600
+
+.PAD
+	Machine name:	WACOM SD-510C
+	Brand:		Wacom
+	Type:		SU-510
+	Serial Nr.:	1D2JB0297
+	Pen:		Untethered pen with tip switch and side button
+	Driver:		X-window mouse emulation with pen, home made
+	Display:	19 inch color monitor

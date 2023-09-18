@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1365.dat
+.SEGMENT WORD 0-4 ? "nature"
+.SEGMENT WORD 5-10 ? "needed"
+.SEGMENT WORD 11-15 ? "nine"
+.SEGMENT WORD 16-25 ? "notebook"

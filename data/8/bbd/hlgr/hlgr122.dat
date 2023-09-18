@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr122.dat
+.SEGMENT TEXT 0-50 OK "The Dow Jones Industrial Average climbed 41.60 to 2645.08 even though some late selling caused the market to retreat from session highs."

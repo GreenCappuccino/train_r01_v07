@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2000.dat
+.SEGMENT WORD 0-3 ? "Eat"
+.SEGMENT WORD 4-10 ? "Element"
+.SEGMENT WORD 11-18 ? "Entire"
+.SEGMENT WORD 19-24 ? "Escape"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0511154.dat
+.SEGMENT TEXT 20-35 ? "return cp + 1 ;"
+.SEGMENT TEXT 69-88 ? "version of fscanf"
+.SEGMENT TEXT 89-107 ? "version of fscanf"

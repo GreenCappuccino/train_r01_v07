@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1005.dat
+.SEGMENT WORD 0-10 ? "President"
+.SEGMENT WORD 11-22 ? "Assistant"
+.SEGMENT WORD 23-28 ? "Broker"
+.SEGMENT WORD 29-32 ? "Art"
+.SEGMENT WORD 33-42 ? "Director"

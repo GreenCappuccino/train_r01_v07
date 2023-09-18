@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Patel.dat
+.SEGMENT TEXT 0-74 ? "Patient sufferred moderate trauma ."
+.SEGMENT TEXT 75-173 ? "His condition is stable and vital signs are good ."
+.SEGMENT TEXT 283-377 ? "Lacerations and abraisions are present on both arms and legs ."
+.SEGMENT TEXT 378-488 ? "X-ray shows possible damage to cartiledge in knee-joint ."
+.SEGMENT TEXT 705-771 ? "Pupil dilation appears equal in both eyes ."
+.SEGMENT TEXT 831-879 ? "No traction is required ."
+.SEGMENT TEXT 880-988 ? "Closure of laceration above left elbow took ten stiches ."
+.SEGMENT TEXT 1241-1335 ? "Patient was admitted to hospital for observation ."
+.SEGMENT TEXT 1336-1422 ? "If dizzyness persists , schedule some skull X-rays ."

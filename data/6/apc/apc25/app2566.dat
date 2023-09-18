@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2566.dat
+.SEGMENT WORD 0-4 ? "Israel"
+.SEGMENT WORD 10-12 ? "January"
+.SEGMENT WORD 13-16 ? "Japan"

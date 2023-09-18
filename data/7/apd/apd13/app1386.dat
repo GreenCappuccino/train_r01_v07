@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1386.dat
+.SEGMENT WORD 0-5 ? "Joseph"
+.SEGMENT WORD 6-14 ? "Jupiter"
+.SEGMENT WORD 15-19 ? "Maria"
+.SEGMENT WORD 20-27 ? "Napoleon"

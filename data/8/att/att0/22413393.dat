@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22413393.dat
+.SEGMENT TEXT 0-15 ? "\" % d \" , & a ) ; f 1scanf ( fp ,"
+.SEGMENT TEXT 16-32 ? "\" % d \" , & a ) ; f 1scanf ( fp ,"
+.SEGMENT TEXT 33-48 ? "\" % d \" , & b ) ; Also ,"
+.SEGMENT TEXT 49-63 ? "\" % d \" , & b ) ; Also ,"

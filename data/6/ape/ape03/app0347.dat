@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0347.dat
+.SEGMENT WORD 0-3 ? "Ken"
+.SEGMENT WORD 4-6 ? "can"
+.SEGMENT WORD 7-8 ? "be"
+.SEGMENT WORD 9-14 ? "found"
+.SEGMENT WORD 15-20 ? "with"
+.SEGMENT WORD 21-24 ? "his"

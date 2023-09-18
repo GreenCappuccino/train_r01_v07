@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd28/app2856.dat
+.SEGMENT WORD 0-14 ? "President"
+.SEGMENT WORD 15-26 ? "Assistant"
+.SEGMENT WORD 27-36 ? "Broker"
+.SEGMENT WORD 37-41 ? "Art"
+.SEGMENT WORD 42-52 ? "Director"

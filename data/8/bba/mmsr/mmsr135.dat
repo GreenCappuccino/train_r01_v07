@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/mmsr/mmsr135.dat
+.SEGMENT TEXT 0-49 OK "The estimates of real gross national product prepared by the Bureau of Economic Analysis in the Department of Commerce significantly understate the rate of economic growth."

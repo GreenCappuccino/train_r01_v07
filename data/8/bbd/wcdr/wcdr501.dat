@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr501.dat
+.SEGMENT TEXT 0-38 OK "Although bulk-chemical prices have begun falling in the U.S., they are generally stable in Europe, Mr. Bergsma said."

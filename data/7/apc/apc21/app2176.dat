@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2176.dat
+.SEGMENT WORD 0-7 ? "federal"
+.SEGMENT WORD 8-17 ? "finding"
+.SEGMENT WORD 18-22 ? "from"
+.SEGMENT WORD 23-29 ? "float"

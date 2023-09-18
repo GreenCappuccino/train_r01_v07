@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr384.dat
+.SEGMENT TEXT 0-49 OK "The offering is backed by Freddie Mac's 10% issue with a weighted average term to maturity of 29.583 months."

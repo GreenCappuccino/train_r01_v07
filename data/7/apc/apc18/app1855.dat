@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1855.dat
+.SEGMENT WORD 0-6 ? "Junior"
+.SEGMENT WORD 7-15 ? "Keeping"
+.SEGMENT WORD 16-22 ? "Kick"
+.SEGMENT WORD 23-29 ? "Knock"

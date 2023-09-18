@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr402.dat
+.SEGMENT TEXT 0-92 OK "germany's 7% bond due october 1999 was unchanged at 99.35 to yield 7.09% while the 6 3/4% notes due july 1994 rose 0.025 point to 97.275 to yield 7.445%."

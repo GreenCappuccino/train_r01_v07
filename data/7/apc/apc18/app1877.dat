@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1877.dat
+.SEGMENT WORD 0-3 ? "Lose"
+.SEGMENT WORD 4-6 ? "Lag"
+.SEGMENT WORD 7-19 ? "Manufacture"

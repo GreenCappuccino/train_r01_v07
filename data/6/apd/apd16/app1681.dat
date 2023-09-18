@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1681.dat
+.SEGMENT WORD 0-2 ? "travel"
+.SEGMENT WORD 6-7 ? "miles"
+.SEGMENT WORD 8 ? "due"
+.SEGMENT WORD 11-12 ? "then"
+.SEGMENT WORD 13-15 ? "turn"
+.SEGMENT WORD 16-17 ? "right"

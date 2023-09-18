@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr259.dat
+.SEGMENT TEXT 0-28 OK "The message is loud and clear: This is not your father's Brooks Brothers."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0511.dat
+.SEGMENT WORD 0-1 ? "RI"
+.SEGMENT WORD 2-6 ? "NJ"
+.SEGMENT WORD 7-8 ? "MO"
+.SEGMENT WORD 9-12 ? "PA"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2282.dat
+.SEGMENT WORD 0-4 ? "clues"
+.SEGMENT WORD 5-13 ? "concerned"
+.SEGMENT WORD 14-17 ? "crew"
+.SEGMENT WORD 18-20 ? "cap"

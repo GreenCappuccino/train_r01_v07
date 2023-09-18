@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr735.dat
+.SEGMENT TEXT 0-31 OK "The South Korean government had been projecting a 5% consumer price increase for the entire year."

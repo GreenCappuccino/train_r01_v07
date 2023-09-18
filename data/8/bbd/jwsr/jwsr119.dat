@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr119.dat
+.SEGMENT TEXT 0-40 OK "Stock prices surged as a multibillion-dollar takeover proposal helped restore market players' confidence about the prospects for further deal-making."

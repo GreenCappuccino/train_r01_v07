@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr201.dat
+.SEGMENT TEXT 0-56 OK "In composite trading on the New York Stock Exchange Friday, Crossland closed at $5.25, down $1.875, a 26% decline."

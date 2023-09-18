@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr140.dat
+.SEGMENT TEXT 0-35 OK "Would I have done all those things successively if I didn't think he was the right guy?\""

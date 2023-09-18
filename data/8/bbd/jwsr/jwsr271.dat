@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr271.dat
+.SEGMENT TEXT 0-55 OK "Indeed, Mr. Phelan said that if stock-market volatility persists, the U.S. may lose its edge as being the best place to raise capital."

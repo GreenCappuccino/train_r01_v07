@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr218.dat
+.SEGMENT TEXT 0-19 OK "Does the tyke have a good mind about to be wasted?"

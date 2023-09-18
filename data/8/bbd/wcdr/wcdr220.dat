@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr220.dat
+.SEGMENT TEXT 0-38 OK "No, but he's endangered all the same: His new sitcom on ABC needs a following to stay on the air."

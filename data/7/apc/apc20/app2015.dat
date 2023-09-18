@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2015.dat
+.SEGMENT WORD 0-5 ? "Joke"
+.SEGMENT WORD 6-11 ? "Keeps"
+.SEGMENT WORD 12-15 ? "Kid"
+.SEGMENT WORD 16-20 ? "Know"

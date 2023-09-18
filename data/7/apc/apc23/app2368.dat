@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2368.dat
+.SEGMENT WORD 0-1 ? "call"
+.SEGMENT WORD 2-5 ? "cake"
+.SEGMENT WORD 6-7 ? "cellar"
+.SEGMENT WORD 8 ? "cheer"

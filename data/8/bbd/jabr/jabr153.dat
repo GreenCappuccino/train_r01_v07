@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr153.dat
+.SEGMENT TEXT 0-22 OK "The government will penalize offenders, but won't confiscate property."

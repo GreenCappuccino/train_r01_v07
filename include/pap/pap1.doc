@@ -1,0 +1,206 @@
+.VERSION 1.0
+.DATA_SOURCE    Papyrus Associates
+.DATA_ID        pap1
+
+.DATA_CONTACT
+ *******************************************************************
+ *
+ *                          DATA_CONTACT
+ *
+ *******************************************************************
+
+ Name:          Brian Mottershead
+ Affiliation:   Papyrus Associates   
+ Address:       2, Allee de la Cagne, 06270 Villeneuve-Loubet, France
+ Phone:         +33 93.73.44.80
+ Fax:           +33 93.65.44.01
+ Email:         100115.3211@compuserve.com
+
+.SETUP   
+ *******************************************************************
+ *
+ *                             SETUP
+ *
+ *******************************************************************
+ 
+ The writers were volunteers recruited from amongst the family and
+ circle of the development team members, visitors to the 
+ Papyrus offices, and other occupants of the office building.  
+ The writers were for the most part not computer professionals. 
+ The samples were collected over a period of 18 months.  For about 
+ 75% of the writers, the sessions were scheduled in advance.  The 
+ remainder of the writers were recruited "on the spot".
+
+ The sessions lasted aproximately 30 minutes.  Writers wrote on a back-lit
+ LCD tablet (Wacom PL100V), seated at a normal desk.
+ 
+ The samples are printing within a comb. Writers were instructed to keep 
+ the letters within the comb but permitted to add marks at any time 
+ after the letter had been written.  (In fact, the system was not 
+ strict about the  letters being within the boxes, and about 20% of the 
+ samples have at least one letter that crosses partly into a neighboring 
+ box.) The writer had the ability to adjust the height and width of 
+ the boxes, including during the test.
+ 
+ The test conditions can be described generally as "cooperative walk-up".
+ At the start of a session, the test supervisor demonstrated the 
+ input system and wrote a few examples. Subjects were asked to use 
+ their "natural style" but to make a  "reasonable effort" to write 
+ "neatly".  The writers were then presented with 15 "practice" words, 
+ which were repeated up to 4 times until recognized. This allowed the 
+ user to become accustomed to the pen and tablet. The practice words 
+ were not recorded. During the practice, the test supervisor commented 
+ on writing habits that might present problems for the recognizer and 
+ repeated the instructions to write "neatly" and "to form each letter".
+ 
+ After the practice, which normally lasted 5 to 10 minutes, the writers 
+ were presented with one of 5 standard sets of 100 words to write.   
+ The test sets were chosen so that all letters and the most common 
+ digrams and trigrams were represented. 
+ 
+ The system presented the words one at a time. The test supervisor 
+ asked the writer to retry in the case of a "false start" or mis-spelling.
+ The system also did not permit ink-on-ink corrections, and when the 
+ test supervisor noticed that the user had attempted this, the word 
+ was also retried.
+
+ During the practice and testing, the recognizer was turned on.  
+ Alternates as well as the the highest-ranked word were displayed.  
+ Most writers studied the results, and discussed some failures briefly with 
+ the test supervisor, especially when the result was remote from the 
+ test word.
+ 
+ Recognition began at the end of the word, after a  two-second timeout, 
+ allowing the writer time to add marks (dots on i's, bars on t's, 
+ accent marks, etc). During the test, the system showed the number of 
+ words recognized so far (with and without retries).   Writers were 
+ told that the average was 80% to 90%, and were encouraged to try 
+ to achieve a "high score".
+
+ In some cases, especially where the writer had a computer science
+ background, the writer had to be asked not to attempt to "challenge" or
+ "experiment with" the recognizer and to make a "reasonable effort" 
+ to have the words be recognized, "as if you have spent $1000 
+ on a pen computer and are motivated to be able to use it to enter data."  
+ For about 3% of the writers, the session was terminated early 
+ because the writer would not cooperate.  These writers are not 
+ represented in the UNIPEN data.
+
+ If the subject used a letter model which the test supervisor knew the 
+ recognizer had not been trained for, the subject was informed and asked to
+ continue to use it for several words.   When the supervisor was 
+ satisfied that several examples of the model had been collected, the 
+ subject would be asked to try to form that letter in a different way, 
+ especially if the letter was a common one.   Most writers were not 
+ capable of doing this consistently.  On the other hand, it was obvious 
+ that under these test conditions, many writers were slightly altering 
+ their normal method of writing in order to achieve "better results".  
+ Indeed, this was the intent of the test design. Some writers seemed 
+ to do this unconsciously, and commented that the recognizer was 
+ "learning" their style.  In fact, this was not the case. 
+
+ During the 18 month period of data collection, both the recognizer and 
+ the test protocol evolved somewhat.  While each set of writer samples is
+ homogenous, the test conditions and the characteristics of the recognizer 
+ (and therefore the recognizer feedback) varied somewhat between writers.
+
+.DATA_INFO
+ *******************************************************************
+ *
+ *                          DATA_INFO
+ *
+ *******************************************************************
+
+ Set type:          Test
+ Alphabet:          English keyboard alphanumerics and symbols
+                    from the ASCII set
+ 
+ Lexicon:           None
+                    
+ Distribution:      Words selected to contain all letters, common digrams
+                    and trigrams, and problem situations for the recognizer.
+ 
+ Quantity:          100 words per writer.
+ 
+ Quality:           Cleaned
+ 
+ Number of Writers:  
+ 
+ Writing Style:     Printing in Combs
+ 
+ Segmentation:      Word
+
+.PAD
+ *******************************************************************
+ *
+ *                          PAD
+ *
+ *******************************************************************
+ 
+ Machine name:      WACOM PL100-V
+ 
+ Brand:             Wacom
+ 
+ Type:              PL-100V
+ 
+ Serial Nr.:        
+
+ Sensor:            Electromagnetic, wireless pen
+ 
+ Pen:               Untethered Pen, tip switch and side button.
+                    Tip switch used for PenUp/PenDown determination.
+ 
+ Driver:            Custom-made routine, calling GetPenHwData, under
+                    MS Windows for Pen Computing V1.0 (PENWIN.DLL),
+
+ Sampling mode:     Equidistant in time, during PenUp & PenDown
+                    (continuous sampling)
+ 
+ Sample rate:       100            [Hz]
+ Resolution:        0.02           [mm/unit]
+ Accuracy:          0.1            [mm]
+ Width:             192            [mm]
+ Height:            143            [mm]
+
+ Display:           Wacom PL-100V, backlit LCD screen (VGA, 640x480)
+                    for the writer and a 14" CRT monitor for the
+                    supervisor.
+ 
+ Inking:            Graphically emulated; black on white; 1 pixel thick.
+
+.COMMENT 
+ *******************************************************************
+ *
+ *                          DATA LAYOUT
+ *
+ *******************************************************************
+
+.ALPHABET           "0" "1" "2" "3" "4" "5" "6" "7" "8" "9"
+                    "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                    "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+                    "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                    "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+                    "!" "$" "%" "&" "*" "(" ")" "-" "+" "/" "=" "?" ":" 
+                    "," "." ";" "'" "`" 
+
+.ALPHABET_FREQ      1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 1 1 1 1 1 1 1 1
+                    1 1 1 1 1 
+
+.HIERARCHY          WORD
+.X_POINTS_PER_MM    50
+.Y_POINTS_PER_MM    50
+.POINTS_PER_SECOND  205
+.COORD              X Y
+.X_DIM              4000
+.Y_DIM              2000
+
+.COMMENT 
+
+ The .HLINE values are the baseline and the x-height line.
+ The .VLINE values are the box separator lines.
+

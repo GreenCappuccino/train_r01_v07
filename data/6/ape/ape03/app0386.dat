@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0386.dat
+.SEGMENT WORD 0-3 ? "call"
+.SEGMENT WORD 13-20 ? "schedule"
+.SEGMENT WORD 21-27 ? "their"
+.SEGMENT WORD 28-36 ? "meeting"
+.SEGMENT WORD 37-47 ? "tonight"

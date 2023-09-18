@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2948.dat
+.SEGMENT WORD 0-8 ? "interior"
+.SEGMENT WORD 9-12 ? "jaws"
+.SEGMENT WORD 13-18 ? "joint"
+.SEGMENT WORD 19-22 ? "jump"

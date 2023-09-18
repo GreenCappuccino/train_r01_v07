@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0348.dat
+.SEGMENT WORD 0-6 ? "Stock"
+.SEGMENT WORD 7-14 ? "prices"
+.SEGMENT WORD 15-22 ? "rising"
+.SEGMENT WORD 23-33 ? "steadily					"

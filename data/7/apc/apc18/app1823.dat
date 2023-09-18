@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1823.dat
+.SEGMENT WORD 0-11 ? "Settlement"
+.SEGMENT WORD 12-16 ? "Shut"
+.SEGMENT WORD 17-25 ? "Somewhat"
+.SEGMENT WORD 26-32 ? "Suddenly"

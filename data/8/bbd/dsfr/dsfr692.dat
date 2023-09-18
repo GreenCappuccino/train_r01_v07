@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr692.dat
+.SEGMENT TEXT 0-59 OK "But although the golden share has been waived, a hostile bidder for Jaguar would still have to alter the British concern's articles of association which ban shareholdings of more than 15%."

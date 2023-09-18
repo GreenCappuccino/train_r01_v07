@@ -1,0 +1,18 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Barsottelli.dat
+.SEGMENT TEXT 102-130 ? "Besides , Jackson is better on natural turf ."
+.SEGMENT TEXT 205-231 ? "Houston leads the league in interseptions ."
+.SEGMENT TEXT 232-268 ? "When they played Cleveland in November , Walker rushed for one hundred forty yards ."
+.SEGMENT TEXT 341-375 ? "Half of their offensive line is on injured reserve ."
+.SEGMENT TEXT 510-544 ? "A win against Houston will clinch a playoff spot for us ."
+.SEGMENT TEXT 545-575 ? "This is a quick evaluation of the damage ."
+.SEGMENT TEXT 654-678 ? "The upstairs needs a new paint job ."
+.SEGMENT TEXT 679-701 ? "The basement seems to be O.K ."
+.SEGMENT TEXT 777-805 ? "The fire was caused by the woodburning stove ."
+.SEGMENT TEXT 825-847 ? "Most of the valuables were rescued from the blaze ."
+.SEGMENT TEXT 848-862 ? "We have asked for estimates ."
+.SEGMENT TEXT 863-883 ? "Their insurance policy should cover everything ."
+.SEGMENT TEXT 884-902 ? "The deductible doesn't apply here ."
+.SEGMENT TEXT 903-965 ? "I'm guessing it will cost between thirty thousand dollars and forty five thousand dollars ."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1730.dat
+.SEGMENT WORD 6-7 ? "system"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd08/app0846.dat
+.SEGMENT WORD 0-8 ? "Thorton"
+.SEGMENT WORD 9-20 ? "Wilkinson"
+.SEGMENT WORD 21-28 ? "York"
+.SEGMENT WORD 29-34 ? "Zimmer"

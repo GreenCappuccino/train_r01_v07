@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu2/abn28.dat
+.SEGMENT TEXT 0 ? "Der Feldberg liegt im Schwarzwald"

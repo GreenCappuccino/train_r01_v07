@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr154.dat
+.SEGMENT TEXT 0-56 OK "Rhone-Poulenc S.A., Paris, said it completed the purchase of the specialty chemicals operation of RTZ Corp., a British mining and industrial group."

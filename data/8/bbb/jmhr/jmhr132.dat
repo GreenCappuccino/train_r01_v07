@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr132.dat
+.SEGMENT TEXT 0-41 OK "Studies show, the consultants say, that people absorb information better and remember it longer if they receive it visually."

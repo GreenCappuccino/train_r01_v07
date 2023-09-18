@@ -1,0 +1,21 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0411274.dat
+.SEGMENT WORD 7-17 ? "modified"
+.SEGMENT WORD 36-43 ? "version"
+.SEGMENT WORD 44-46 ? "of"
+.SEGMENT WORD 47-54 ? "fscanf"
+.SEGMENT WORD 120-128 ? "comments"
+.SEGMENT WORD 129-133 ? "start"
+.SEGMENT WORD 148-152 ? "with"
+.SEGMENT WORD 153-153 ? "a"
+.SEGMENT WORD 154-157 ? "hash"
+.SEGMENT WORD 181-183 ? "and"
+.SEGMENT WORD 184-186 ? "run"
+.SEGMENT WORD 187-188 ? "to"
+.SEGMENT WORD 189-191 ? "the"
+.SEGMENT WORD 203-205 ? "end"
+.SEGMENT WORD 206-208 ? "of"
+.SEGMENT WORD 209-211 ? "the"
+.SEGMENT WORD 212-216 ? "line"

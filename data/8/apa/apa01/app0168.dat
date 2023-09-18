@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa01/app0168.dat
+.SEGMENT TEXT 0-18 ? "[(1) (2) (3) (4) (5)]"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl105.dat
+.SEGMENT TEXT 0-47 OK "HUD has no paper work whatsoever on 30 of the projects, none of the others has been approved and not a single congressional hearing has been held on any of them."

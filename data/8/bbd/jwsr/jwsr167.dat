@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr167.dat
+.SEGMENT TEXT 0-72 OK "separately, cilcorp said it plans to purchase as many as 1.4 million shares, or 10% of its common stock outstanding from time to time on the open market and through privately negotiated transactions."

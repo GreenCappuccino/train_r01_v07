@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr750.dat
+.SEGMENT TEXT 0-26 OK "The average three-month issue rose to 8.05% from 7.77%."

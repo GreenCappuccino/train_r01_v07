@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr109.dat
+.SEGMENT TEXT 0-35 OK "On the other hand, investors beat a clear path yesterday to blue-chip issues with proven earnings growth records."

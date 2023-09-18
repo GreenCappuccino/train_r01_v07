@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr402.dat
+.SEGMENT TEXT 0-57 OK "Late last week, representatives of Dow Jones and Telerate began negotiations about the terms of the offer, but those talks didn't result in any changes in the offer."

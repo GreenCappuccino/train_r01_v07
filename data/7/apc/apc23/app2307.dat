@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2307.dat
+.SEGMENT WORD 0 ? "oh"
+.SEGMENT WORD 1-2 ? "opens"
+.SEGMENT WORD 3 ? "ore"
+.SEGMENT WORD 4-5 ? "outer"

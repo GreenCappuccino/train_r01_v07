@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0824.dat
+.SEGMENT WORD 0-4 ? "Dear"
+.SEGMENT WORD 11-17 ? "please"
+.SEGMENT WORD 18-25 ? "announce"
+.SEGMENT WORD 35-45 ? "promotion"
+.SEGMENT WORD 46-48 ? "at"
+.SEGMENT WORD 49-52 ? "the"

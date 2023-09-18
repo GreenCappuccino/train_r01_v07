@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr642.dat
+.SEGMENT TEXT 0-35 OK "The 45-year-old Mr. Kuehn, who has a background in crisis management, succeeds Alan D. Rubendall, 45."

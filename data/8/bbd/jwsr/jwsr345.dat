@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr345.dat
+.SEGMENT TEXT 0-52 OK "The last time IBM tapped the corporate debt market was in April 1988, when it offered $500 million of debt securities."

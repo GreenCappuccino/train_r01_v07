@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2094.dat
+.SEGMENT WORD 0-3 ? "Glow"
+.SEGMENT WORD 4-7 ? "Gods"
+.SEGMENT WORD 8-12 ? "Green"
+.SEGMENT WORD 13-16 ? "Grow"

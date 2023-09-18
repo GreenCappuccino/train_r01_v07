@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr124.dat
+.SEGMENT TEXT 0-60 OK "Phillips Petroleum's third-quarter earnings slid 60%, to $87 million, or 36 cents a share, from $215 million, or 89 cents a share."

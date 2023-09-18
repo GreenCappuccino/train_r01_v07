@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr764.dat
+.SEGMENT TEXT 0-36 OK "Still, on average, the major California banks have the highest yields on CDs, according to Banxquote."

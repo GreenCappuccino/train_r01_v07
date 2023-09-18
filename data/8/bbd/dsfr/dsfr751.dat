@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr751.dat
+.SEGMENT TEXT 0-60 OK "Typically, banks offer CD yields higher than those on Treasury bills, which are considered the safest short-term investments; banks need a competitive edge to sell their products."

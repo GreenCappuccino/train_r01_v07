@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0489.dat
+.SEGMENT TEXT 0-25 ? "Aaron Adam Calvin C.J."

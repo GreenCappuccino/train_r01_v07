@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr585.dat
+.SEGMENT TEXT 0-65 OK "British-born, the 24-year Ogilvy veteran was named last week to succeed Kenneth Roman, who is leaving by year's end to take a top post at American Express, an Ogilvy client."

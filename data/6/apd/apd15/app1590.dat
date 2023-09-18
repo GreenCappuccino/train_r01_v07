@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd15/app1590.dat
+.SEGMENT WORD 0 ? "Busy"
+.SEGMENT WORD 1-3 ? "airport"
+.SEGMENT WORD 4 ? "agents"
+.SEGMENT WORD 5-7 ? "will"
+.SEGMENT WORD 8-9 ? "find"
+.SEGMENT WORD 10-12 ? "Nora"
+.SEGMENT WORD 13 ? "later"

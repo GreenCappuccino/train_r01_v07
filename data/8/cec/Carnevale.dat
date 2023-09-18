@@ -1,0 +1,24 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Carnevale.dat
+.SEGMENT TEXT 53-95 ? "Vince Young , our first-string QB , has an ankle injury ."
+.SEGMENT TEXT 96-122 ? "Besides , Jackson is better on natural turf ."
+.SEGMENT TEXT 236-276 ? "When they played Cleveland in November , Walker rushed for 140 yards ."
+.SEGMENT TEXT 277-331 ? "If he keeps playing like that , he'll make it to the Pro-Bowl ."
+.SEGMENT TEXT 332-356 ? "Our defense should use the blitz quite frequently ."
+.SEGMENT TEXT 415-445 ? "The weather could either work for us or against us ."
+.SEGMENT TEXT 446-476 ? "We would have the advantage in blizzard conditions ."
+.SEGMENT TEXT 477-521 ? "If it's windy , we will have to make some adjustments ."
+.SEGMENT TEXT 522-560 ? "A win against Houston will clinch a playoff spot for us ."
+.SEGMENT TEXT 561-589 ? "This is a quick evaluation of the damage ."
+.SEGMENT TEXT 774-802 ? "The family has to move out during repairs ."
+.SEGMENT TEXT 830-854 ? "Be grateful that nobody was hurt ."
+.SEGMENT TEXT 882-900 ? "We have asked for estimates ."
+.SEGMENT TEXT 947-1003 ? "I'm guessing that it will cost between $30,000 and $45,000 ."
+.SEGMENT TEXT 1015-1031 ? "How are you and Susan ?"
+.SEGMENT TEXT 1100-1146 ? "Not to rub it in , but the sun is simply glorious ."
+.SEGMENT TEXT 1147-1161 ? "We are enjoying ourselves thoroughly ."
+.SEGMENT TEXT 1162-1194 ? "It is also a good break for little David ."
+.SEGMENT TEXT 1238-1260 ? "The month has gone by very quickly ."
+.SEGMENT TEXT 1372-1408 ? "Did you want us to get you anything special ?"

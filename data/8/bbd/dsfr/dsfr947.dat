@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr947.dat
+.SEGMENT TEXT 0-18 OK "Gerald F. Seib contributed to this article."

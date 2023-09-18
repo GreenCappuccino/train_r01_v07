@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd09/app0905.dat
+.SEGMENT WORD 0-4 ? "Salt"
+.SEGMENT WORD 5-9 ? "Lake"
+.SEGMENT WORD 10-16 ? "City"
+.SEGMENT WORD 17-19 ? "San"
+.SEGMENT WORD 20-26 ? "Diego"
+.SEGMENT WORD 27-32 ? "London"
+.SEGMENT WORD 33-39 ? "Madrid"

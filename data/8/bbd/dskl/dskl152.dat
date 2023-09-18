@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl152.dat
+.SEGMENT TEXT 0-29 OK "I know that I'm shouting into the breeze here as far as what we're doing now."

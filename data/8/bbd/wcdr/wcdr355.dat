@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr355.dat
+.SEGMENT TEXT 0-55 OK "Judge Harold C. Abramson raised the possibility after talks to end a feud between two major creditors failed and all three reorganization plans in the case ran into roadblocks."

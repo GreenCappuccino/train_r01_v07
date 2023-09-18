@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr680.dat
+.SEGMENT TEXT 0-57 OK "In London, prices finished at intraday peaks, comforted by a reassuring early performance on Wall Street and news that the British government will waive its golden share in auto maker Jaguar."

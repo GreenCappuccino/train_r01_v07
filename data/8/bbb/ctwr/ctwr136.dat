@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr136.dat
+.SEGMENT TEXT 0-29 OK "Mr. Roman comes across as a low-key executive; Mr. Phillips has a flashier personality."

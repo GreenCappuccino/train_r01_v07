@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr161.dat
+.SEGMENT TEXT 0-33 OK "Net income was down from a year ago, when a gain from the restructuring of a retirement plan boosted earnings."

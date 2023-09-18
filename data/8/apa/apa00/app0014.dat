@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa00/app0014.dat
+.SEGMENT TEXT 0-32 ? "judge jury jailer jinx jazz"

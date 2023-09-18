@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd41/app4114.dat
+.SEGMENT WORD 0-4 ? "Drake"
+.SEGMENT WORD 5-11 ? "England"
+.SEGMENT WORD 12-18 ? "Field"
+.SEGMENT WORD 19-28 ? "Fernandez"

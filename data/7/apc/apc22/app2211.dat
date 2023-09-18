@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2211.dat
+.SEGMENT WORD 0-5 ? "chair"
+.SEGMENT WORD 6-11 ? "cherry"
+.SEGMENT WORD 12-16 ? "cloud"
+.SEGMENT WORD 17-24 ? "commonly"

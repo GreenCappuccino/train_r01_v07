@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr818.dat
+.SEGMENT TEXT 0-69 OK "Mr. Mulford, responding to critics of intervention, also said intervention is \"highly visible,\" is taken seriously by financial markets and works better than \"was recognized some time ago.\""

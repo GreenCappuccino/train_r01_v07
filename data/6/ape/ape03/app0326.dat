@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0326.dat
+.SEGMENT WORD 0-1 ? "CA"
+.SEGMENT WORD 2-3 ? "UT"
+.SEGMENT WORD 4 ? "Ma"
+.SEGMENT WORD 5-7 ? "FL"

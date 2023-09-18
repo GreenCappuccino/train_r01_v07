@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr135.dat
+.SEGMENT TEXT 0-35 OK "@ Provident Life $.76 $.65 (3) $.69 (7) 16.92"

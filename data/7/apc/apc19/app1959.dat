@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1959.dat
+.SEGMENT WORD 0-4 ? "fuel"
+.SEGMENT WORD 5-10 ? "garage"
+.SEGMENT WORD 11-17 ? "gentle"
+.SEGMENT WORD 18-23 ? "gives"

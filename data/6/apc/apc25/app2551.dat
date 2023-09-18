@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2551.dat
+.SEGMENT WORD 0-1 ? "Rear"
+.SEGMENT WORD 2-8 ? "Running"
+.SEGMENT WORD 9-12 ? "Sailor"
+.SEGMENT WORD 13-15 ? "Scales"

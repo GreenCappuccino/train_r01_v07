@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr936.dat
+.SEGMENT TEXT 0-81 OK "With congressional elections next year, GOP leaders have worried about opposing a minimum-wage rise for low-paid workers at a time when Congress is moving toward a capital-gains tax cut that would directly benefit wealthier taxpayers."

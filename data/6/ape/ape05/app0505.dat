@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0505.dat
+.SEGMENT WORD 0-11 ? "Rosenberg"
+.SEGMENT WORD 12-24 ? "Frichette"
+.SEGMENT WORD 25-35 ? "Fritsch"
+.SEGMENT WORD 36-44 ? "Cohen"
+.SEGMENT WORD 45-52 ? "Ghini"

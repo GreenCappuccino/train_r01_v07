@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr146.dat
+.SEGMENT TEXT 0-24 OK "@ Tellabs Inc .04 ... .21 (6) 80.95"

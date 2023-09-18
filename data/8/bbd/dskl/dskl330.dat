@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl330.dat
+.SEGMENT TEXT 0-68 OK "But it said that its consumer banks in Oregon, California, Nevada and Washington performed well during the quarter and that nonperforming assets at these banks declined by 14% over the year-ago period."

@@ -1,0 +1,123 @@
+.VERSION 1.0
+
+.LEXICON_SOURCE 	Laval_University
+
+.LEXICON_ID     ranlex
+
+.LEXICON_CONTACT
+	Name: 		Marc Parizeau
+	Affiliation: 	Electrical Engineering Department
+			Laval University
+	Address:	Ste-Foy, Quebec, G1K 7P4, Canada
+	Phone: 		(418) 656-7912
+	Fax: 		(418) 656-3159
+	Email: 		parizeau@gel.ulaval.ca
+
+.LEXICON_INFO
+         Source:        randomly generated
+         Purpose:       compare system performance with human performance
+         Language:      none
+         Label distribution: respect letter frequency of a 32,000 word
+                             French dictionary
+
+.LEXICON
+"aaitst"
+"aeenp"
+"amleiie"
+"aoidrlp"
+"auett"
+"bgoiaav"
+"cdlipnl"
+"ceairta"
+"ceeardf"
+"ceeej"
+"cnmcr"
+"cpsoa"
+"creryaa"
+"cvsbrrc"
+"dqgffum"
+"dutcnnr"
+"eaben"
+"eaosdea"
+"eaotsm"
+"eeeio"
+"eennul"
+"eiaeeo"
+"eiutbd"
+"emcsiu"
+"emnma"
+"entrmet"
+"eogfpss"
+"erfmnf"
+"ernbena"
+"esglvte"
+"etimne"
+"euoeia"
+"faaun"
+"fnbnrre"
+"gannxd"
+"guerib"
+"hgnsut"
+"hpbusm"
+"iammptd"
+"idiaal"
+"ieipo"
+"iepeaeo"
+"ifetsi"
+"iiouela"
+"imsgu"
+"iponeir"
+"isnllar"
+"kdrnnr"
+"laeqt"
+"lpmas"
+"lrtel"
+"lrudp"
+"lusarp"
+"lustd"
+"mirpa"
+"mmaeelc"
+"mssot"
+"mtepn"
+"mtettrp"
+"naqns"
+"nlohsg"
+"nnane"
+"nntrao"
+"npiosi"
+"ntecr"
+"ntsabla"
+"nuebv"
+"oeeuddr"
+"ogeip"
+"onrohpe"
+"ortef"
+"otaerc"
+"ouaeen"
+"ptiatr"
+"qeitlna"
+"rcomehe"
+"renie"
+"rereie"
+"rmdamr"
+"roeesin"
+"rplrdem"
+"rrunptr"
+"rtmduru"
+"sesbice"
+"siiaret"
+"sltatnv"
+"smraior"
+"tdcrde"
+"tdonn"
+"teeel"
+"teufnes"
+"tfiturr"
+"tglicet"
+"tpgsnof"
+"tsnettc"
+"tttsuie"
+"uicnvi"
+"utstet"
+"uuant"
+"xrfont"

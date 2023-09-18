@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb02/app0241.dat
+.SEGMENT TEXT 0-26 ? "Dorothy Emma Greg Helen"

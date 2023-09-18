@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0796.dat
+.SEGMENT WORD 0-8 ? "Arizona"
+.SEGMENT WORD 9-20 ? "California"
+.SEGMENT WORD 21-25 ? "Utah"
+.SEGMENT WORD 26-28 ? "New"
+.SEGMENT WORD 29-34 ? "York"

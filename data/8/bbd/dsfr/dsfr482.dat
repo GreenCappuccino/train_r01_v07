@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr482.dat
+.SEGMENT TEXT 0-53 OK "\"It doesn't replace pitching in the majors, but it proves to me that I would have been able to play if I'd stayed healthy,\" he says."

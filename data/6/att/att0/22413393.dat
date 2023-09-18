@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22413393.dat
+.SEGMENT WORD 4-4 ? "d"
+.SEGMENT WORD 9-9 ? "a"
+.SEGMENT WORD 13-13 ? "f"
+.SEGMENT WORD 37-37 ? "d"
+.SEGMENT WORD 42-43 ? "b"
+.SEGMENT WORD 47-47 ? "Also"

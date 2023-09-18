@@ -1,0 +1,101 @@
+.VERSION 1.0
+
+.DATA_SOURCE    not
+.DATA_ID        not1
+
+.ALPHABET       "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+                "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+                "~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+                "=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+                "," "." ";" "'" "`" "_" " "
+
+.HIERARCHY      WORD
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+         #####################
+
+.DATA_CONTACT    
+         The Nottingham trent University
+         Department of Computing
+         Burton Street
+         Nottingham NG1 4BU
+         United Kingdom
+
+         Name:       Paul Anderson
+         Email:      pda@doc.ntu.ac.uk
+         Phone:      +44 (0)115 9418418 ext. 2680
+
+         Name:       Robert Powalka
+         Email:      rkp@doc.ntu.ac.uk
+         Phone:      +44 (0)115 9418418 ext. 2678
+
+         Name:       Dr. Nasser Sherkat
+         Email:      ns@doc.ntu.ac.uk
+         Phone:      +44 (0)115 9418418 ext. 2262
+
+         Name:       Marcin Jedrzejeski
+         Email:      msj@doc.ntu.ac.uk
+         Phone:      +44 (0)115 9418418 ext. 2678
+
+.SETUP   Site: Department of Computing, The Nottingham Trent University
+         Time:
+         Writer population: 2
+         Writer motivation: volunteer
+         Writer physical position: sitting
+         Instructions given to the writer: see documents/instruct.ps
+         Duration of one session: 3-4 hrs
+         Recognizer feedback: no
+         Form layout: see documents/instruct.ps
+
+.DATA_INFO    
+         Set type: test
+         Alphabet: Latin, lower case
+         Lexicon:  English words
+         Label distribution: see documents/869dis.ps
+         Quantity: 869 words per writer (8804 characters),
+                   17608 characters in total
+         Quality: no cleaning
+         Number of Writer(s): 2
+         Writing Style: mixed
+         Segmentation: none
+
+.PAD     Machine name: NCR 3125 pen computer
+         Brand: NCR
+         Type: 3125
+         Serial Nr.: 17-23831528
+         Sensor: electromagnetic
+         Pen: untethered pen with tip switch
+         Driver: mouse emulation provided by CIC PenDOS
+         Sampling mode: polling
+         Sampling rate: unknown
+         Resolution: initial resolution 640 x 480
+                     immediate scaling by the factor of 6.5625
+         Accuracy:
+         Width: 7.85 inch (192.0 mm)
+         Height: 5.875 inch (144.0 mm)
+         Display:    lcd display
+                     VGA resolution (640x480)
+                     black ink on white background
+         Inking: immediate, provided by software, 1 pixel wide
+
+         See also documents/datainfo.ps
+
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+.X_DIM   4200
+.Y_DIM   3150
+
+.COMMENT #####################
+         ###  UNIT SYSTEM  ###
+         #####################
+
+.X_POINTS_PER_INCH 536
+.Y_POINTS_PER_INCH 536
+.COORD             X Y

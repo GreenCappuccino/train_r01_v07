@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape09/app0992.dat
+.SEGMENT TEXT 0-28 ? "Atlanta Boise Cleveland Detroit"

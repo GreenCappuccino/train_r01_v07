@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr668.dat
+.SEGMENT TEXT 0-57 OK "First, he said, domestic interest rates are likely to stay at higher levels as increased anticipation of inflation followed rising consumer prices reported last week."

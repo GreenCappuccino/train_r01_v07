@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3966.dat
+.SEGMENT WORD 0-3 ? "call"
+.SEGMENT WORD 12-19 ? "schedule"
+.SEGMENT WORD 20-25 ? "their"
+.SEGMENT WORD 26-33 ? "meeting"

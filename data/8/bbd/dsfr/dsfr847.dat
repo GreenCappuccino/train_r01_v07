@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr847.dat
+.SEGMENT TEXT 0-83 OK "Oleg A. Grinevsky, the chief Soviet negotiator in the conventional-arms talks, argued that this would mean the Soviets would have to destroy some 1,800 tanks, while the U.S. would loose none because it has no light tanks in Europe."

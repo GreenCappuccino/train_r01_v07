@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr146.dat
+.SEGMENT TEXT 0-34 OK "\"I'm afraid of a popular revolt if this situation isn't corrected,\" he adds."

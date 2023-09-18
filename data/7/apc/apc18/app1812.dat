@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1812.dat
+.SEGMENT WORD 0-5 ? "basis"
+.SEGMENT WORD 6-13 ? "belonged"
+.SEGMENT WORD 14-17 ? "bet"
+.SEGMENT WORD 18-21 ? "blow"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa10/app1041.dat
+.SEGMENT TEXT 0-33 ? "A hitherto unnoticed door opened"

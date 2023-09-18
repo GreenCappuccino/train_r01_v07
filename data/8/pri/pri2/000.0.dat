@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/000.0.dat
+.SEGMENT TEXT 0-54 ? "Unfortunately, many bad bosses keep their subordinates under wraps."

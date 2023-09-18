@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1085.dat
+.SEGMENT WORD 0-5 ? "Just"
+.SEGMENT WORD 6-8 ? "do"
+.SEGMENT WORD 18-23 ? "Its"
+.SEGMENT WORD 24-29 ? "just"
+.SEGMENT WORD 30-37 ? "through"
+.SEGMENT WORD 38-45 ? "that"
+.SEGMENT WORD 46-50 ? "door"

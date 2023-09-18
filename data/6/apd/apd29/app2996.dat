@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2996.dat
+.SEGMENT WORD 0-4 ? "stem"
+.SEGMENT WORD 5-12 ? "subject"
+.SEGMENT WORD 13-19 ? "switch"
+.SEGMENT WORD 20-24 ? "took"

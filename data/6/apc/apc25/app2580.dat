@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2580.dat
+.SEGMENT WORD 0-2 ? "fun"
+.SEGMENT WORD 3-5 ? "gate"
+.SEGMENT WORD 6-7 ? "gear"

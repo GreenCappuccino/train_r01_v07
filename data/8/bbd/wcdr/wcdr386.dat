@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr386.dat
+.SEGMENT TEXT 0-69 OK "\"The credit for income taxes is a result of having provided deferred income taxes applicable to the sold assets at the higher income tax rates in effect in prior years,\" the sellers said."

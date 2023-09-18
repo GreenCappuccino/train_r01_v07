@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr109.dat
+.SEGMENT TEXT 0-43 OK "Jujo Paper said its pretax profit rose 0.3% to 13.05 billion yen from 13.02 billion yen."

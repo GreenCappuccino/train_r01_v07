@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0413044.dat
+.SEGMENT WORD 0-4 ? "from"
+.SEGMENT WORD 5-11 ? "command"
+.SEGMENT WORD 12-16 ? "line"
+.SEGMENT WORD 69-72 ? "char"
+.SEGMENT WORD 77-81 ? "name"
+.SEGMENT WORD 84-87 ? "argc"
+.SEGMENT WORD 115-119 ? "argv"
+.SEGMENT WORD 141-144 ? "fp"

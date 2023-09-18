@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0253.dat
+.SEGMENT WORD 6-8 ? "Plumbing"
+.SEGMENT WORD 9 ? "Apple"
+.SEGMENT WORD 10-13 ? "Bank"
+.SEGMENT WORD 14-16 ? "of"
+.SEGMENT WORD 17-18 ? "the"
+.SEGMENT WORD 19-22 ? "West"

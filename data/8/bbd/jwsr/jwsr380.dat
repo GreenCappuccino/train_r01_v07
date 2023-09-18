@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr380.dat
+.SEGMENT TEXT 0-70 OK "Elsewhere, Ginnie Mae's 9% issue for November delivery was quoted at 98 18/32 bid, up 5/32 from late Monday, to yield about 9.333% to a 12-year average life assumption."

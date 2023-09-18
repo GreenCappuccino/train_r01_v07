@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2647.dat
+.SEGMENT TEXT 0-19 ? "Apple does business in more than 140 countries"

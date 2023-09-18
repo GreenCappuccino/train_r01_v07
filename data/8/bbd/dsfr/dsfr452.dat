@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr452.dat
+.SEGMENT TEXT 0-38 OK "But for the next few months, these boys of summers long past are going to be reveling in an Indian summer of the soul."

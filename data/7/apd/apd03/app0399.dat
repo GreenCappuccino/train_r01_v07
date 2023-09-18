@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd03/app0399.dat
+.SEGMENT WORD 0-10 ? "Eastern"
+.SEGMENT WORD 11-23 ? "Furniture"
+.SEGMENT WORD 24-29 ? "Towne"
+.SEGMENT WORD 30-37 ? "Jewelers"
+.SEGMENT WORD 38-42 ? "Lock"
+.SEGMENT WORD 43-45 ? "Co."
+.SEGMENT WORD 46-54 ? "Budget"

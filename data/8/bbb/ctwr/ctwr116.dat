@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr116.dat
+.SEGMENT TEXT 0-69 OK "Mr. Roman will be succeeded as the head of Ogilvy's flagship ad agency, Ogilvy & Mather Worldwide, by Graham Phillips, 50, who had been president of North American operations and who, like Mr. Sorrell, is British."

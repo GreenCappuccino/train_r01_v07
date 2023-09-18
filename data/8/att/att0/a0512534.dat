@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0512534.dat
+.SEGMENT TEXT 139-172 ? "\" r \" ) ; char bufin [ BUFSIZE ] ;"

@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0577.dat
+.SEGMENT WORD 0-2 ? "If"
+.SEGMENT WORD 3-6 ? "you"
+.SEGMENT WORD 7-9 ? "are"
+.SEGMENT WORD 10-15 ? "late,"
+.SEGMENT WORD 16-20 ? "your"
+.SEGMENT WORD 21-25 ? "sit"
+.SEGMENT WORD 26-30 ? "will"
+.SEGMENT WORD 31-32 ? "be"
+.SEGMENT WORD 33-37 ? "given"
+.SEGMENT WORD 38-39 ? "to"
+.SEGMENT WORD 40-42 ? "another"
+.SEGMENT WORD 43-48 ? "person."

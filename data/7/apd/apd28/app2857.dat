@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd28/app2857.dat
+.SEGMENT WORD 0-2 ? "Sr."
+.SEGMENT WORD 3-16 ? "Engineer"
+.SEGMENT WORD 17-26 ? "Manager"
+.SEGMENT WORD 27-34 ? "Sales"
+.SEGMENT WORD 35-60 ? "Representative"
+.SEGMENT WORD 61-65 ? "CEO"

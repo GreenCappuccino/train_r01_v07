@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0221.dat
+.SEGMENT WORD 2-4 ? "Madison"
+.SEGMENT WORD 17-21 ? "Market"
+.SEGMENT WORD 22-25 ? "Place"
+.SEGMENT WORD 37-41 ? "Street"
+.SEGMENT WORD 45-50 ? "Mariani"
+.SEGMENT WORD 55-56 ? "MS"

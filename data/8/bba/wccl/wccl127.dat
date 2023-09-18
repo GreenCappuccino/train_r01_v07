@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl127.dat
+.SEGMENT TEXT 0-33 OK "But there's no danger of exposing sources and methods in disclosing the debate running up and down Pennsylvania Avenue."

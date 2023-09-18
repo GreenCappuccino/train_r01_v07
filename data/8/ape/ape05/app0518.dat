@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0518.dat
+.SEGMENT TEXT 0-26 ? "95346 89104 08967 95482"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1765.dat
+.SEGMENT TEXT 0-66 ? "4810 Park Ct. 57 N. Salina St. 12 Big Beaver Rd. 63 Wilshire Blvd., #1"

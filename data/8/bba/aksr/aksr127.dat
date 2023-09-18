@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/aksr/aksr127.dat
+.SEGMENT TEXT 0-48 OK "In addition to not needing an outside power source, they are potentially cheaper to make because they require fewer manufacturing steps than conventional chips."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr125.dat
+.SEGMENT TEXT 0-29 OK "Revenue rose 6.9%, to $3.1 billion from $2.9 billion."

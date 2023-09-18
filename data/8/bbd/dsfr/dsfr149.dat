@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr149.dat
+.SEGMENT TEXT 0-70 OK "It is understood that Japanese buyers shied from bidding on the 110-story Sears Tower in Chicago because purchasing the world's tallest building might stir anti-Japanese sentiments in the U.S."

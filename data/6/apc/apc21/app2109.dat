@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2109.dat
+.SEGMENT WORD 0-9 ? "prairie"
+.SEGMENT WORD 10-15 ? "pupil"
+.SEGMENT WORD 16-27 ? "qualities"
+.SEGMENT WORD 28-37 ? "question"

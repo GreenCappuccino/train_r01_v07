@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1077.dat
+.SEGMENT WORD 0-2 ? "Our"
+.SEGMENT WORD 3-5 ? "own"
+.SEGMENT WORD 6-13 ? "people"
+.SEGMENT WORD 14-16 ? "are"
+.SEGMENT WORD 17-25 ? "taking"
+.SEGMENT WORD 26-29 ? "care"
+.SEGMENT WORD 30-32 ? "of"
+.SEGMENT WORD 33-36 ? "it"

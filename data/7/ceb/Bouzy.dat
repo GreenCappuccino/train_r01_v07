@@ -1,0 +1,27 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Bouzy.dat
+.SEGMENT WORD 0-10 ? "Four"
+.SEGMENT WORD 12-22 ? "pink"
+.SEGMENT WORD 24-48 ? "grapefruits"
+.SEGMENT WORD 66-70 ? "One"
+.SEGMENT WORD 72-80 ? "half"
+.SEGMENT WORD 82-90 ? "pound"
+.SEGMENT WORD 92-102 ? "wafer"
+.SEGMENT WORD 104-110 ? "thin"
+.SEGMENT WORD 112-122 ? "sliced"
+.SEGMENT WORD 124-136 ? "turkey"
+.SEGMENT WORD 180-198 ? "Ketchup"
+.SEGMENT WORD 199-207 ? "Six"
+.SEGMENT WORD 209-215 ? "cans"
+.SEGMENT WORD 217-221 ? "of"
+.SEGMENT WORD 223-233 ? "frozen"
+.SEGMENT WORD 235-245 ? "orange"
+.SEGMENT WORD 247-253 ? "juice"
+.SEGMENT WORD 400-406 ? "Two"
+.SEGMENT WORD 408-414 ? "bags"
+.SEGMENT WORD 416-420 ? "of"
+.SEGMENT WORD 422-438 ? "pretzels"
+.SEGMENT WORD 439-453 ? "Raisin"
+.SEGMENT WORD 455-461 ? "bran"

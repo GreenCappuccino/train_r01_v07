@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr123.dat
+.SEGMENT TEXT 0-64 OK "In a separate complaint also filed in federal court here, shareholder Max Grill of New York charged Imperial, its top executives and directors with breach of fiduciary duty and squandering the company's assets."

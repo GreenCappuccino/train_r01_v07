@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd25/app2572.dat
+.SEGMENT WORD 0-1 ? "Subject"
+.SEGMENT WORD 2-3 ? "wants"
+.SEGMENT WORD 4 ? "address"
+.SEGMENT WORD 5 ? "change"

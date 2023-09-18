@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1655.dat
+.SEGMENT WORD 0-1 ? "flying"
+.SEGMENT WORD 2 ? "to"
+.SEGMENT WORD 3-4 ? "Boston"
+.SEGMENT WORD 5-7 ? "this"
+.SEGMENT WORD 8-11 ? "week:"
+.SEGMENT WORD 12 ? "make"
+.SEGMENT WORD 13-15 ? "preparations"
+.SEGMENT WORD 16 ? "reserve"
+.SEGMENT WORD 17-18 ? "hotels"

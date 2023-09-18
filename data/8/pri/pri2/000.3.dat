@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/000.3.dat
+.SEGMENT TEXT 0-86 ? "All these arrangements yielded contractors hefty profits at little or no risk."

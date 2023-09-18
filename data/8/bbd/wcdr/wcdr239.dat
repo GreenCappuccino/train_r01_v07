@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr239.dat
+.SEGMENT TEXT 0-66 OK "Gerald Maier, president and chief executive officer of the natural-gas pipeline and marketing concern, said the company's future growth is \"increasingly linked\" to decisions made by Calgary-based gas producers."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl106.dat
+.SEGMENT TEXT 0-57 OK "U.S. Memories is seeking major investors to back its attempt to crack the $10 billion market for dynamic random access memory chips, a market dominated by the Japanese."

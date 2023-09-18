@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr104.dat
+.SEGMENT TEXT 0-47 OK "Recently the industry has faced the threat of new restrictions, and political donations may have been made with the intent to bribe."

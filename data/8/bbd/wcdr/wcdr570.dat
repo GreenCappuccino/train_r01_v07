@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr570.dat
+.SEGMENT TEXT 0-34 OK "In the end, neither policy was followed, and instead of learning anything we are left with a mystery."

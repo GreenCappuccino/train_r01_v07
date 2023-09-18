@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1743.dat
+.SEGMENT WORD 0-8 ? "understood"
+.SEGMENT WORD 9-12 ? "upon"
+.SEGMENT WORD 13-17 ? "unable"
+.SEGMENT WORD 18-22 ? "value"

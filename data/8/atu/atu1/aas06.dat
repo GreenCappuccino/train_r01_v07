@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu1/aas06.dat
+.SEGMENT TEXT 0 ? "Roller sollen rollen"

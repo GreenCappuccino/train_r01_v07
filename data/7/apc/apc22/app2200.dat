@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2200.dat
+.SEGMENT WORD 0-6 ? "Build"
+.SEGMENT WORD 7-10 ? "Boy"
+.SEGMENT WORD 11-14 ? "Calm"
+.SEGMENT WORD 15-20 ? "Cannon"

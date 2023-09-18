@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa10/app1038.dat
+.SEGMENT TEXT 0-30 ? "pressed the enchanted lever. The"

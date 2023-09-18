@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0832.dat
+.SEGMENT TEXT 0-43 ? "French salad is favored by many Europeans"

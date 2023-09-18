@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2476.dat
+.SEGMENT WORD 0-4 ? "native"
+.SEGMENT WORD 5-13 ? "neighborhood"
+.SEGMENT WORD 14 ? "nerve"
+.SEGMENT WORD 15-16 ? "noun"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr433.dat
+.SEGMENT TEXT 0-45 OK "The 57-year-old Mr. Gressette, who was also elected chairman and chief executive of all Scana subsidiaries, succeeds John A. Warren."

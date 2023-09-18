@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0583.dat
+.SEGMENT TEXT 0-73 ? "Second quarter corporate profits were good. Profits rose 13% compared with 26%."

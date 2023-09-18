@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr678.dat
+.SEGMENT TEXT 0-86 OK "In other stock-market news, the Tokyo Stock Exchange said that for the week ended Friday, the balance of margin buying rose 189.8 billion yen ($1.34 billion), to 7.160 trillion yen ($50.46 billion)."

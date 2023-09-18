@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr203.dat
+.SEGMENT TEXT 0-56 OK "I have just returned from France, and the net exchange rate charged on my Visa account was more favorable than I obtained for traveler's checks in any of the several banks where I converted them."

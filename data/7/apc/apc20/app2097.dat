@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2097.dat
+.SEGMENT WORD 0-12 ? "important"
+.SEGMENT WORD 13-16 ? "inn"
+.SEGMENT WORD 17-26 ? "instance"
+.SEGMENT WORD 27-30 ? "icy"

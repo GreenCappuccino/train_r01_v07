@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb35/app3566.dat
+.SEGMENT TEXT 0-23 ? "Jack Jenny Karen Kyle"

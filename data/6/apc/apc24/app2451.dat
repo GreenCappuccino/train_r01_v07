@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2451.dat
+.SEGMENT WORD 0 ? "won"
+.SEGMENT WORD 1 ? "where"
+.SEGMENT WORD 2-6 ? "without"
+.SEGMENT WORD 7-10 ? "Apollo"

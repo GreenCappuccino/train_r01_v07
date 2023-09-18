@@ -1,0 +1,20 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Song.dat
+.SEGMENT TEXT 82-90 ? "Catchup"
+.SEGMENT TEXT 118-132 ? "frozen pizza"
+.SEGMENT TEXT 133-161 ? "8 cans of diet cola"
+.SEGMENT TEXT 162-188 ? "Vinella ice cream"
+.SEGMENT TEXT 208-218 ? "razen brown"
+.SEGMENT TEXT 258-302 ? "1 dozen extra-large eggs"
+.SEGMENT TEXT 326-386 ? "Injuries include the comeplete fracture of febulla ."
+.SEGMENT TEXT 507-543 ? "Pupil dilation appears equal in both eyes"
+.SEGMENT TEXT 544-614 ? "Remaining rasetation was closed with butterfly bandages"
+.SEGMENT TEXT 615-677 ? "patients was admitted to hospital for observation ."
+.SEGMENT TEXT 678-712 ? "If dizious pocess some sure - !"
+.SEGMENT TEXT 812-882 ? "Vince Yang , our first curebee , has an ankle injury ."
+.SEGMENT TEXT 938-984 ? "Tell Jackson not to white too many bumbs ."
+.SEGMENT TEXT 1022-1086 ? "When they played cleveland in November , Walker rushed 140 yards ."
+.SEGMENT TEXT 1240-1298 ? "The wether could be either work for us or against us ."
+.SEGMENT TEXT 1354-1418 ? "If it's Windy , we will have to make some adjustments ."

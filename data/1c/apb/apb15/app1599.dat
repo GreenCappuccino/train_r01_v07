@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1599.dat
+.SEGMENT CHARACTER 4-5 ? "x"
+.SEGMENT CHARACTER 7 ? "r"
+.SEGMENT CHARACTER 9 ? "a"

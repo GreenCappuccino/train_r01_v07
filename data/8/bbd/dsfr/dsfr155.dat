@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr155.dat
+.SEGMENT TEXT 0-55 OK "Also downgraded were the company's Entex Inc. unit's first mortgage bonds to single-A-3 from single-A-2 and debentures to single-A-3 from single-A-2."

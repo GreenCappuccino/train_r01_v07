@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr393.dat
+.SEGMENT TEXT 0-80 OK "Dow Jones & Co. extended its tender offer of $18 a share, or about $576 million, for the 33% of Telerate Inc. that it doesn't already own until 5 p.m. EST, Nov. 6."

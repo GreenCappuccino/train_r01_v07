@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb18/app1815.dat
+.SEGMENT TEXT 0-18 ? "Prof. Dr. Sir Lady"

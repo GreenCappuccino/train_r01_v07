@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr399.dat
+.SEGMENT TEXT 0-42 OK "Telerate shares fell 50 cents on Friday to close at $20 each in New York Stock Exchange composite trading."

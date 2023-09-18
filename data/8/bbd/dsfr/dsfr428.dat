@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr428.dat
+.SEGMENT TEXT 0-52 OK "Anxiety is rising over recent government proposals to eventually lower the strict barriers that now separate - and protect - the two industries from each other."

@@ -1,0 +1,19 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/medved.dat
+.SEGMENT WORD 7-10 ? "addition"
+.SEGMENT WORD 11-13 ? "adjacent"
+.SEGMENT WORD 14-16 ? "accuracy"
+.SEGMENT WORD 17 ? "anchor"
+.SEGMENT WORD 28 ? "blazon"
+.SEGMENT WORD 29-30 ? "forward"
+.SEGMENT WORD 31 ? "humble"
+.SEGMENT WORD 32 ? "hungry"
+.SEGMENT WORD 33-34 ? "huckster"
+.SEGMENT WORD 35-37 ? "jejune"
+.SEGMENT WORD 38-39 ? "luxurious"
+.SEGMENT WORD 41-43 ? "kerchief"
+.SEGMENT WORD 44-47 ? "latitude"
+.SEGMENT WORD 48-50 ? "rabbit"
+.SEGMENT WORD 51 ? "quench"
+.SEGMENT WORD 53 ? "unshaken"

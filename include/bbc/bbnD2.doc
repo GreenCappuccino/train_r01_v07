@@ -1,0 +1,102 @@
+.VERSION                1.0
+
+.DATA_SOURCE            BBN
+.DATA_ID                BBN:Development_Set_2
+
+.COMMENT                ###################
+                        ### INFORMATION ###
+                        ###################
+
+.DATA_CONTACT   
+	Name: Dr. John Makhoul
+	Affiliation: Bolt, Beranek, and Newman, Inc. (BBN)
+	Address: 70 Fawcett St., Cambridge, MA  02138  USA
+	Phone: (617) 873-3332
+	Fax:   (617) 547-8918
+	Email: makhoul@bbn.com, cc: jyang@bbn.com
+
+.SETUP  
+        Site: BBN and offices near MIT
+        Time: 8/94 - 9/94
+        Writers: mostly MIT students
+	Writer motivation: paid ($20 cash for a one-time 90 minute session)
+	Writer physical position: sitting down at a table or desk
+	Instructions given to the writer: Subjects were told to copy
+		the text displayed on a computer screen by writing in
+		cursive on the computer screen on the lines below the
+		text.  (Print out the "acquire.ps" file in the
+		documents directory for a digitized picture of our
+		setup.)  They were told that we would prefer that they
+		write capitals in cursive but that it was not
+		necessary.  Also, all lower case letters had to be
+		connected, i.e. the pen could not be lifted to dot i's
+		or j's or cross x's or t's as a word was being
+		written, only after the last letter was finished.
+		Further, no touch-ups were allowed, i.e. letters could
+		not be made to look more distinct after they were
+		written.  However, subjects were allowed to "erase" or
+		"undo" the last pen strokes made to correct mistakes.
+	Duration of one session: 90 minutes
+	Recognizer feedback: yes; electronic ink was used to provide
+		feedback to writer but no recognition was performed
+	Form layout: print out or display acquire.ps (a digitized
+		picture in PostScript) in the documents directory	
+        Conditions: supervised recording conditions in quiet rooms
+
+.DATA_INFO
+	Set type: test
+        Alphabet: English keyboard alphanumerics and symbols from the
+		ASCII set
+        Lexicon: text from a (many) "Wall Street Journal(s)"
+        Quality: cleaning; verified the data visually using in-house
+		software after writer was done with session; 
+		only touch ups made were additions of missed i-dots
+		(mostly	not picked up by the computer), deletions
+	 	of stray marks (including extra i-dots and periods),
+		and corrections of stroke order (i.e. period and
+		commas should come after i-dots and t-crosses)
+        Number of writer(s): 12
+        Writing style: Natural
+        Segmentation: TEXT
+
+.PAD
+        Machine name: Grid Model 2260 (using a 80386SL CPU)
+	Brand: Grid
+	Type: Pen Top
+	OS: Microsoft Windows for Pen Computing 1.0
+	Serial Numbers: GPA03954, GPA07258
+	Sensor: RF
+	Pen: RF, tethered wireless pen, side button and microswitch tip;
+		tip switch determines PenUp and PenDown
+	Driver: In-house, time-equidistant sampling between .Pen_Down
+		and .Pen_Up
+	Sampling mode: rolling median filter, continuous sampling
+		between PenDown and PenUp
+	Sampling rate: 100 samples per second
+	Resolution: 400 dpi
+	Width: 11.5 inches
+	Height: 1.6 inches
+	Depth: 9.3 inches
+        Display: 9.5-inch diagonal, sidelit LCD;
+	        640 x 480 pixel, PC-compatible VGA display,
+		with an aspect ratio of 1:1; 64 gray scales
+	Inking: electronic
+
+.COMMENT                ###################
+                        ### DATA LAYOUT ###
+                        ###################
+.X_DIM                  28800
+.Y_DIM                  1000
+
+.COMMENT                ###################
+                        ### UNIT SYSTEM ###
+                        ###################
+.X_POINTS_PER_INCH      400
+.Y_POINTS_PER_INCH      400
+.POINTS_PER_SECOND      100
+
+.COMMENT                ####################
+                        ### DECLARATIONS ###
+                        ####################
+.COORD                  X Y
+.HIERARCHY              TEXT

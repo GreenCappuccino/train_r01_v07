@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr219.dat
+.SEGMENT TEXT 0-93 OK "Furukawa Electric Co., one of Japan's leading electric wire and cable manufacturers, said unconsolidated pretax profit in the fiscal first half ended Sept. 30 fell 5.3% to 6.11 billion yen ($43.1 million) from 6.45 billion yen a year earlier."

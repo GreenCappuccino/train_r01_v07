@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr611.dat
+.SEGMENT TEXT 0-48 OK "Ogilvy eliminated the mail room staff, closed the executive dining room and, after the takeover, let go half a dozen financial executives."

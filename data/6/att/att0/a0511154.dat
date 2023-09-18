@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0511154.dat
+.SEGMENT WORD 69-77 ? "version"
+.SEGMENT WORD 78-80 ? "of"
+.SEGMENT WORD 81-88 ? "fscanf"

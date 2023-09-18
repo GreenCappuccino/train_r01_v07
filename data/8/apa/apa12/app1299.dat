@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa12/app1299.dat
+.SEGMENT TEXT 0-26 ? "a quick brown fox jumps"

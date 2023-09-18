@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr172.dat
+.SEGMENT TEXT 0-53 OK "Selected blue-chip issues attracted buying interest, however, and the Dow Jones Industrial Average stayed in positive territory throughout the entire session."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr761.dat
+.SEGMENT TEXT 0-33 OK "It is offered by the flagship banks of New York's Manufacturers Hanover Corp. in the one year maturity only."

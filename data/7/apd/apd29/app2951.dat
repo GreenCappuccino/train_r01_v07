@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2951.dat
+.SEGMENT WORD 0-4 ? "merely"
+.SEGMENT WORD 5-8 ? "mix"
+.SEGMENT WORD 9-10 ? "mood"
+.SEGMENT WORD 11-16 ? "myself"

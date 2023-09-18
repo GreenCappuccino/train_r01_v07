@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl155.dat
+.SEGMENT TEXT 0-70 OK "The U.S. economy grew at a moderate 2.5% annual rate in the third quarter, the same pace as the second quarter, despite the worst trade performance in six years, the Commerce Department reported."

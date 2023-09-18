@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd14/app1404.dat
+.SEGMENT WORD 0-3 ? "Raj"
+.SEGMENT WORD 4-10 ? "Steve"
+.SEGMENT WORD 11-15 ? "Ted"
+.SEGMENT WORD 16-19 ? "Ulla"

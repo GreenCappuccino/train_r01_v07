@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1604.dat
+.SEGMENT WORD 0 ? "leave"
+.SEGMENT WORD 11-12 ? "return"
+.SEGMENT WORD 13 ? "in"
+.SEGMENT WORD 14-15 ? "January"

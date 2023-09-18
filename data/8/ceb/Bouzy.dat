@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Bouzy.dat
+.SEGMENT TEXT 0-48 ? "Four pink grapefruits"
+.SEGMENT TEXT 66-136 ? "One half pound wafer thin sliced turkey"
+.SEGMENT TEXT 180-198 ? "Ketchup"
+.SEGMENT TEXT 199-253 ? "Six cans of frozen orange juice"
+.SEGMENT TEXT 400-438 ? "Two bags of pretzels"
+.SEGMENT TEXT 439-461 ? "Raisin bran"

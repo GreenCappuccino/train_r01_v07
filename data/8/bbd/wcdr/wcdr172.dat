@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr172.dat
+.SEGMENT TEXT 0-54 OK "Mr. Sohmer confesses that it was partly in response to such attitudes that he is now \"a dweller on one of the two islands off the coast of America.\""

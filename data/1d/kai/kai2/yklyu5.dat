@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai2.doc
+.INCLUDE kai/data/kai2/yklyu5.dat
+.SEGMENT CHARACTER 356:0-356:35 OK  "\@"

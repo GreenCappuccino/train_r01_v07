@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd40/app4060.dat
+.SEGMENT TEXT 0-35 ? "Drake England Field Fernandez"

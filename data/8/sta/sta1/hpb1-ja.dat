@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-ja.dat
+.SEGMENT TEXT 22-53 OK "What a dirty trick !"
+.SEGMENT TEXT 112-137 OK "No one will see them ."
+.SEGMENT TEXT 251-279 OK "from the day when our fathers"
+.SEGMENT TEXT 312-338 OK "To be or not to be ;"

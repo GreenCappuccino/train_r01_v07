@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2320.dat
+.SEGMENT WORD 0-2 ? "understood"
+.SEGMENT WORD 3-4 ? "upon"
+.SEGMENT WORD 5-7 ? "unable"
+.SEGMENT WORD 8-9 ? "value"

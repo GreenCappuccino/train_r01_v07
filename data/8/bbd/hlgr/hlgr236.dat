@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr236.dat
+.SEGMENT TEXT 0-58 OK "But traders also said arbitrage-related trading contributed to the market's surge, as buy programs boosted prices shortly after the opening and sporadically through the remainder of the session."

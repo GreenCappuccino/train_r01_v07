@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0822.dat
+.SEGMENT WORD 0-3 ? "Call"
+.SEGMENT WORD 10-17 ? "Find"
+.SEGMENT WORD 18-21 ? "out"
+.SEGMENT WORD 22-29 ? "latest"
+.SEGMENT WORD 30-40 ? "interest"
+.SEGMENT WORD 41-46 ? "rates"

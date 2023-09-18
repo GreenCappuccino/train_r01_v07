@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2244.dat
+.SEGMENT WORD 0-8 ? "Fifth"
+.SEGMENT WORD 9-14 ? "Flag"
+.SEGMENT WORD 15-25 ? "Football"
+.SEGMENT WORD 26-32 ? "Frame"

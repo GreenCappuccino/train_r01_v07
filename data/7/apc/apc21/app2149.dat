@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2149.dat
+.SEGMENT WORD 0-3 ? "made"
+.SEGMENT WORD 4-8 ? "match"
+.SEGMENT WORD 9-15 ? "mercury"
+.SEGMENT WORD 16-22 ? "mirror"

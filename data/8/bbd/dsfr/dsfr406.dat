@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr406.dat
+.SEGMENT TEXT 0-25 OK "\"There is a large market out there hungry for hybrid seeds,\" he said."

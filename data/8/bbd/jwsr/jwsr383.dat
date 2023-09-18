@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr383.dat
+.SEGMENT TEXT 0-55 OK "On the pricing front, an 11-class issue of $500 million Federal Home Loan Mortgage Corp. Remic mortgage securities was launched by a Morgan Stanley group."

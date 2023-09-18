@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1082.dat
+.SEGMENT WORD 0-2 ? "Do"
+.SEGMENT WORD 3-6 ? "you"
+.SEGMENT WORD 7-10 ? "have"
+.SEGMENT WORD 11-14 ? "the"
+.SEGMENT WORD 23-27 ? "Not"

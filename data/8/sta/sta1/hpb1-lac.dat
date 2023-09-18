@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-lac.dat
+.SEGMENT TEXT 18-41 OK "What a dirty trick !"
+.SEGMENT TEXT 42-59 OK "Give me your arm ."
+.SEGMENT TEXT 108-155 OK "He seems to have so little in common with us ."
+.SEGMENT TEXT 276-305 OK "That is the question ."

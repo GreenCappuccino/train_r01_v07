@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr105.dat
+.SEGMENT TEXT 0-74 OK "Analysts say they think durable goods orders fell about 1%, compared with a 3.9% gain in August, and that growth in the third quarter slowed to about 2.3% from the second quarter's 2.5%."

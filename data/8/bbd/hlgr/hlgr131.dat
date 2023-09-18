@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr131.dat
+.SEGMENT TEXT 0-76 OK "With stocks having been battered lately because of the collapse of takeover offers for UAL, the parent company of United Airlines, and AMR, the parent of American Airlines, analysts viewed the proposal as a psychological lift for the market."

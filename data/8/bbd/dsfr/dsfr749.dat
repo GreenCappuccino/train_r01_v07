@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr749.dat
+.SEGMENT TEXT 0-35 OK "The average six-month bill was sold with a yield of 8.04%, up from 7.90%."

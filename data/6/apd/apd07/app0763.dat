@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0763.dat
+.SEGMENT WORD 0-1 ? "hotel"
+.SEGMENT WORD 2-3 ? "hurt"
+.SEGMENT WORD 4-6 ? "hunters"
+.SEGMENT WORD 7-8 ? "illness"

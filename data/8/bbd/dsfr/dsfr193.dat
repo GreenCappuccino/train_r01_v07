@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr193.dat
+.SEGMENT TEXT 0-29 OK "International Business Machines fell 3/8 to 99 1/2 as 1.2 million shares changed hands."

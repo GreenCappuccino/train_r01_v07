@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1070.dat
+.SEGMENT WORD 0-3 ? "Get"
+.SEGMENT WORD 4-6 ? "at"
+.SEGMENT WORD 15-21 ? "frozen"
+.SEGMENT WORD 22-27 ? "bread"
+.SEGMENT WORD 28-35 ? "fruit"
+.SEGMENT WORD 36-40 ? "meat"

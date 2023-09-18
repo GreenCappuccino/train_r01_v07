@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr734.dat
+.SEGMENT TEXT 0-38 OK "As a result, consumer prices for the first 10 months of 1989 surged by 5% and wholesale prices by 1.3%."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb40/app4084.dat
+.SEGMENT TEXT 0-55 ? "Cupertino Florist Ford Sunnyvale Camino Hospital 21"

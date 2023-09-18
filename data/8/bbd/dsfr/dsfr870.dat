@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr870.dat
+.SEGMENT TEXT 0-31 OK "The figure excludes a record number employed by extraordinary government work programs, the Labor Directorate announced Tuesday."

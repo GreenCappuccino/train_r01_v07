@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb36/app3667.dat
+.SEGMENT TEXT 0-31 ? "a b c d e f g h i j k l m n o p q r s t u v w x y z"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr145.dat
+.SEGMENT TEXT 0-35 OK "Former National Assemblyman Hong Sa-Duk, now a radio commentator, says the problem is intolerable for many people."

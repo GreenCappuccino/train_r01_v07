@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2557.dat
+.SEGMENT WORD 0-5 ? "Uranium"
+.SEGMENT WORD 6-7 ? "Useful"
+.SEGMENT WORD 8-9 ? "Very"
+.SEGMENT WORD 10-14 ? "Vibrate"

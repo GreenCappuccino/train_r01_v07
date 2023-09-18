@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0412064.dat
+.SEGMENT TEXT 0-22 ? "% s \\ n \" , krud , str ) ;"
+.SEGMENT TEXT 46-73 ? "krud = f 1scanf ( stdin ,"
+.SEGMENT TEXT 122-142 ? "\" % d \" , & num ) ; if"
+.SEGMENT TEXT 143-160 ? "( krud < 0 ) break ;"
+.SEGMENT TEXT 207-234 ? "printf ( \" % d % d \\ n \" ,"
+.SEGMENT TEXT 235-248 ? "krud , num ) ; }"

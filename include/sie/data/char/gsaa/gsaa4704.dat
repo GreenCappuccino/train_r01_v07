@@ -1,0 +1,46 @@
+.DATA_SOURCE Siemens-AG
+.DATA_ID PeP
+.DATA_CONTACT
+ Siemens AG
+ ZFE ST SN 56
+ D-81730 Munich
+ Germany
+ Fax.: ++49 / 89 / 636 2393
+ Volkmar Pflug: Tel. ++49 / 89 / 636 49479,
+ e-mail: Volkmar.Pflug@zfe.siemens.de
+ Gerd Maderlechner: Tel.: ++49 / 89 / 636 3389,
+ e-mail: gm@zfe.siemens.de
+.DATA_INFO Handprinted Characters
+
+.PAD Wacom HD-648A LCD Digitizer
+ Electromagnetic resonance sensor
+ Untethered pen, tip switch and side button
+
+.X_POINTS_PER_INCH 508
+.Y_POINTS_PER_INCH 508
+.POINTS_PER_SECOND 66
+
+.COORD X Y T
+.HIERARCHY CHARACTER
+.STYLE PRINTED
+
+.COMMENT previously: .WRITER_ID GSAA4704
+.WRITER_ID gs
+
+.PEN_DOWN
+1977 3343 728525
+1983 3337 728540
+1987 3341 728555
+2013 3349 728570
+2073 3397 728585
+2113 3439 728600
+2139 3477 728615
+2139 3501 728630
+2129 3507 728645
+2109 3495 728660
+2073 3461 728675
+2041 3401 728690
+2035 3365 728705
+2041 3337 728720
+2095 3337 728735
+.PEN_UP

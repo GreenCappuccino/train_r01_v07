@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1143.dat
+.SEGMENT TEXT 0-7 ? "defend differ dirt doctor"

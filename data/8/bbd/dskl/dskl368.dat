@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl368.dat
+.SEGMENT TEXT 0-76 OK "When President Corazon Aquino, whose command of Filipino is spotty, announced last year that the language would be used in official communications, there was an uproar from many legislators, who continue to conduct debates mostly in English."

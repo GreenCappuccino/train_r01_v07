@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0373.dat
+.SEGMENT WORD 0-3 ? "rush"
+.SEGMENT WORD 4-12 ? "finance"
+.SEGMENT WORD 13-23 ? "completed"
+.SEGMENT WORD 24-33 ? "proposal"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr616.dat
+.SEGMENT TEXT 0-96 OK "Arthur Klein, president of Young & Rubicam's New York office, stepped down \"temporarily\" in the wake of charges by a federal grand jury in New Haven, Conn., that he, the agency and another top executive bribed Jamaican tourist officials to win its account in 1981."

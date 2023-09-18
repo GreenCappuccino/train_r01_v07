@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr872.dat
+.SEGMENT TEXT 0-37 OK "The number of people registered as jobless at the end of October declined by 900 from September to 78,600."

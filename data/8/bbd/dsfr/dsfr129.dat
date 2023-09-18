@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr129.dat
+.SEGMENT TEXT 0-46 OK "In 1985, Rockefeller Group sold a mortgage on the core of Rockefeller Center to the public in the form of a real estate investment trust."

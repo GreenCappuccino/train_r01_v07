@@ -1,0 +1,20 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0273.dat
+.SEGMENT WORD 0-3 ? "Restaurant"
+.SEGMENT WORD 4-5 ? "at"
+.SEGMENT WORD 6-7 ? "the"
+.SEGMENT WORD 8 ? "corner"
+.SEGMENT WORD 9 ? "of"
+.SEGMENT WORD 10 ? "New"
+.SEGMENT WORD 11 ? "York"
+.SEGMENT WORD 12-13 ? "Blvd."
+.SEGMENT WORD 14 ? "and"
+.SEGMENT WORD 15-19 ? "First"
+.SEGMENT WORD 20-21 ? "Ave."
+.SEGMENT WORD 22-23 ? "Two"
+.SEGMENT WORD 24 ? "blocks"
+.SEGMENT WORD 25-26 ? "south"
+.SEGMENT WORD 27 ? "of"
+.SEGMENT WORD 28 ? "Mac"
+.SEGMENT WORD 29-31 ? "Donald's"

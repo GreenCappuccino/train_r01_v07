@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1126.dat
+.SEGMENT WORD 0-3 ? "outstanding"
+.SEGMENT WORD 4-6 ? "o'clock"
+.SEGMENT WORD 7-8 ? "pain"
+.SEGMENT WORD 9 ? "passenger"

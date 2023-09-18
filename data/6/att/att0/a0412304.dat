@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0412304.dat
+.SEGMENT WORD 91-91 ? "ch"
+.SEGMENT WORD 94-100 ? "EOF"
+.SEGMENT WORD 102-103 ? "goto"

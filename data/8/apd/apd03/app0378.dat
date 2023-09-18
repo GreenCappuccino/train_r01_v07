@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd03/app0378.dat
+.SEGMENT TEXT 0-28 ? "Peggy Sue Shirley Yi Zachary"

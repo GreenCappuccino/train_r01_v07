@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd40/app4070.dat
+.SEGMENT WORD 0-6 ? "Agoura"
+.SEGMENT WORD 7-14 ? "Hills"
+.SEGMENT WORD 15-20 ? "Paris"
+.SEGMENT WORD 21-25 ? "Ft."
+.SEGMENT WORD 26-32 ? "Munich"

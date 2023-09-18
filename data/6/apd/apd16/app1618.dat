@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1618.dat
+.SEGMENT WORD 0-2 ? "Repeat"
+.SEGMENT WORD 3-6 ? "electronic"
+.SEGMENT WORD 7 ? "process"

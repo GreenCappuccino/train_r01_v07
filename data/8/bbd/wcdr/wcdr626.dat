@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr626.dat
+.SEGMENT TEXT 0-73 OK "The agency, with about $35 million in billings, will be dissolved, with some of its staffers absorbed by WCRS's Della Femina McNamee unit in Boston, Ms. Heller said."

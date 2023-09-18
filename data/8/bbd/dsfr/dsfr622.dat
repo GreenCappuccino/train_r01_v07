@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr622.dat
+.SEGMENT TEXT 0-61 OK "\"It's now a very good time politically to get this over and done with,\" observed Daniel Jones, professor of motor industry management at the University of Cardiff in Wales."

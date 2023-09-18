@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0728.dat
+.SEGMENT WORD 0 ? "apply"
+.SEGMENT WORD 1 ? "arrange"
+.SEGMENT WORD 2-5 ? "atmosphere"
+.SEGMENT WORD 6-7 ? "background"

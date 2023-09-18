@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE dar/dar2.doc
+.INCLUDE dar/data/dar2/wes.dat
+.SEGMENT TEXT     0-21 OK "In my freshman year , I almost failed physics ."
+.SEGMENT TEXT     44-66 OK "immigrant whose accent was so thick that I could"
+.SEGMENT TEXT     95-119 OK "but he lacked the patience to teach freshmen . Unfor -"
+.SEGMENT TEXT     205-223 ? "We could walk around the campus , and he would"
+.SEGMENT TEXT     296-323 ? "of science fiction . It all sounded like Greek to me ,"
+.SEGMENT TEXT     345-368  ? "saying , although I managed to follow the main argu -"
+.SEGMENT TEXT     369-393 ? "ment . There was something mysterious about Bergmann ."
+.SEGMENT TEXT     418-443 ? "campus until the following Monday . It wasn ' t"
+.SEGMENT TEXT     444-471 ? "until several years later that I finally learned his secret ."
+.SEGMENT TEXT     627-639 ? "a D in freshman physics -"
+.SEGMENT TEXT     640-664 ? "my lowest grade in Lehigh . I had been a good"
+.SEGMENT TEXT     744-769 ? "up and switched my major from mechanical"

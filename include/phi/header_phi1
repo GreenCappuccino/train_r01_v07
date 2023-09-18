@@ -1,0 +1,104 @@
+
+.DATA_SOURCE philips
+.DATA_ID May-93-discrete-words
+.VERSION 1.0
+
+.DATA_CONTACT   Name:           Hans Dolfing
+                Affiliation:    Philips Research Laboratories
+                Address:        Prof. Holstlaan 4
+                                5656 AA Eindhoven
+                                (the Netherlands)
+                Phone:          +31-40-744747
+                Fax:            +31-40-744911
+                Email:          dolfing@prl.philips.nl
+
+                Name:           Philippe Gentric
+                Affiliation:    Laboratoire d'Electronique Philips (LEP)
+                Address:        22, avenue Descartes
+                                94451 Limeil-Brevannes
+                                FRANCE
+                Phone:          33 (1) 45 10 68 12 or 33 (1) 45 10 56 34
+                Fax:            33 (1) 45 10 67 43
+                Email:          gentric@lep.lep-philips.fr
+
+.SETUP          Site:           Philips Research Laboratories (Eindhoven) and LEP (Paris)
+                Time:           May 93
+                Conditions:     Writers were sitted
+                Writers:        Volunteers
+                Form:           One box, only one word at a time:
+                                "Please write the word xxxx"
+                Acquisition
+                software:       "wordaki", LEP made Pen-Windows application
+                                running under Windows 3.1
+
+.DATA_INFO	    Alphabet:  lower case and upper case
+                Lexicon:	1764 english words, selected at random from the
+                           "ispell" dictionary (approx 50000 words) see file
+                           "lexicon".
+                Style:		Discrete characters, relatively widely spaced.
+                           It was explicitly forbidden to overlap two characters.
+					            Writers were instructed to respect lower-case upper-case
+                           dependancy (thus "THIS", "This" and "this" are the 3
+                           manners to write the lexical word "THIS"). However,
+                           this is not 100% true because we did not force a
+                           normalized shape for each character and for some
+                           people a "lower case m" looks very much like a upper
+									case machine-printed one !
+                Quality:	Checked data: these files were visually checked by 2
+                           different persons during 2 separate sessions, then a
+                           recognition system was run on them and recognition
+                           "errors" were extracted in order to check if they
+                           were true recognition errors or labelling errors. 
+
+                Segmentation:	NONE
+
+.PAD            Type:           Philips Advanced Interactive Display (PAID)
+                Display:        640x480 (VGA) 16 gray levels,backlight
+                                LCD screen.
+                Sensor:         Philips confidential
+                Driver:         PAID specific PenWindows driver
+                                General driver description in:
+                                "Microsoft Windows for PenComputing:
+                                Programmer's reference".
+                Sampling:       Equidistant in time, continuous
+
+.COMMENT        The x and y dimensions are the screen size
+                in PenWindows coordinates.
+
+.X_DIM              6772
+.Y_DIM              5079
+.POINTS_PER_SECOND  170
+.COMMENT            Approx. sampling rate
+
+.COMMENT
+
+WRITER_ID is indicated in each file and is also in the file name
+writers are coded with 3 letters.
+the WRITER_ID in each file is composed as follow:
+phil-writer-<writer-code>
+filenames are composed as follow:
+<writer-code>.<session-code>.unipen
+there was 8 sessions as follow:
+4 sessions with MOSTLY FRENCH writers: p1,p2,p3,p4
+4 sessions with MOSTLY DUTCH  writers: h6,h7,h8,h9
+but nationality is not known for sure (not recorded at session time),
+so it is not indicated in the files.
+The same writer may appear in several sessions.
+
+writer SEX is indicated for each file, most are male.
+
+.STYLE		PRINTED
+.COORD X Y
+.SKILL		GOOD
+
+
+.COMMENT Writers were instructed to write "rather widely spaced" but otherwise "naturaly".
+         It was explicitly forbidden to overlap two characters.
+         Writers were instructed to repect case dependance, this is mostly true but not 100% true
+         because some letters have allographs that are mix of uppercase and lowercase
+         Dutch people may write a "lower case r" or "lower case m" that look very much like upper-case ones,
+         some French "lower case f" look also very much like upper-case ones, etc...
+
+.HIERARCHY WORD
+
+

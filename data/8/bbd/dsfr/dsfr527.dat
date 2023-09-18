@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr527.dat
+.SEGMENT TEXT 0-57 OK "The separate contracts were from Paragould Light & Water Commission, a utility in Paragould, Ark., and PSE Inc., a cogeneration-plant operator in Houston."

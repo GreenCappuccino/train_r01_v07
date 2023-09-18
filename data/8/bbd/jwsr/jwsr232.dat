@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr232.dat
+.SEGMENT TEXT 0-73 OK "\"The collar was penetrated on a number of occasions,\" meaning securities firms figured out ways to conduct program trades to circumvent the collar and use the Big Board's electronic trading system, Mr. Phelan said."

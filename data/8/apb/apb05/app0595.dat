@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb05/app0595.dat
+.SEGMENT TEXT 0-29 ? "Honolulu Little Rock Miami"

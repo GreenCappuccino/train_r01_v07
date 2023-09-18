@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Balgi.dat
+.SEGMENT TEXT 0-132 ? "The Quest Software company announced the release of new product yesterday ."
+.SEGMENT TEXT 484-590 ? "To display a quote the user choses one of the areas from a menu ."
+.SEGMENT TEXT 698-774 ? "Quotes range from the familiar to .... ."
+.SEGMENT TEXT 775-897 ? "To save storage space the words are storred in compressed format ."
+.SEGMENT TEXT 1007-1137 ? "Users wishing to personalize the system can add to the basic package ."
+.SEGMENT TEXT 1257-1395 ? "The product is aimed at intellectual business people with a sense of humor ."
+.SEGMENT TEXT 1396-1514 ? "Drive out of the Airport and turn right onto Gennese Street ."
+.SEGMENT TEXT 1624-1706 ? "Take 33 west then get on the thruway going east ."
+.SEGMENT TEXT 1836-1904 ? "The exit joins Audobon Parkway ."
+.SEGMENT TEXT 1905-2025 ? "Quickly turn left before you get to the next traffic light ."
+.SEGMENT TEXT 2089-2191 ? "Go on Audobon Parkway to the next big intersection ."
+.SEGMENT TEXT 2613-2705 ? "If you have any questions , call Elizabeth at 555-1234 ."

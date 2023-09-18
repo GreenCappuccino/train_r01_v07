@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2111.dat
+.SEGMENT WORD 0-3 ? "Ray"
+.SEGMENT WORD 4-10 ? "Really"
+.SEGMENT WORD 11-24 ? "Responsible"
+.SEGMENT WORD 25-30 ? "Ring"

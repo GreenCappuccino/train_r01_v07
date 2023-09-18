@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr648.dat
+.SEGMENT TEXT 0-43 OK "That compared with an operating loss of $1.9 million on sales of $27.4 million in the year-earlier period."

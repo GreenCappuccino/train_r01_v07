@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1124.dat
+.SEGMENT WORD 0-2 ? "obtain"
+.SEGMENT WORD 3 ? "one"
+.SEGMENT WORD 4-5 ? "offering"
+.SEGMENT WORD 6-7 ? "organize"

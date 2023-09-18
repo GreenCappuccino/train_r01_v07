@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2425.dat
+.SEGMENT WORD 0-1 ? "go"
+.SEGMENT WORD 2-3 ? "goal"
+.SEGMENT WORD 4-5 ? "grapes"
+.SEGMENT WORD 6-8 ? "greeting"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl174.dat
+.SEGMENT TEXT 0-33 OK "Mr. Darby called it a \"disappointment\" but predicted exports will pick up again."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0587.dat
+.SEGMENT WORD 0-6 ? "Fill"
+.SEGMENT WORD 7-10 ? "out"
+.SEGMENT WORD 11-17 ? "taxes"
+.SEGMENT WORD 18-22 ? "before"
+.SEGMENT WORD 23-31 ? "4/10/94."

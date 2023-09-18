@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0523.dat
+.SEGMENT TEXT 0-43 ? "3M A-1 Plumbing Apple Bank of the West"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1392.dat
+.SEGMENT WORD 0-8 ? "internal"
+.SEGMENT WORD 9-15 ? "isn't"
+.SEGMENT WORD 16-23 ? "junior"
+.SEGMENT WORD 24-32 ? "keeping"

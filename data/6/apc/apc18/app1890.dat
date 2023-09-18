@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1890.dat
+.SEGMENT WORD 0-8 ? "Extreme"
+.SEGMENT WORD 9-12 ? "For"
+.SEGMENT WORD 13-18 ? "Fancy"

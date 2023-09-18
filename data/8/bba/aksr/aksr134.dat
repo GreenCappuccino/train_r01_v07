@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/aksr/aksr134.dat
+.SEGMENT TEXT 0-10 OK "That means huge travel bills."

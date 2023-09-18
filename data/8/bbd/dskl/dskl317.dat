@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl317.dat
+.SEGMENT TEXT 0-34 OK "A lavish white portico with a stained-glass window towers over the brick wall surrounding his property."

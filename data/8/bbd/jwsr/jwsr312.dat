@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr312.dat
+.SEGMENT TEXT 0-30 OK "More big Japanese investors are buying U.S. mortgage-backed securities, reversing a recent trend."

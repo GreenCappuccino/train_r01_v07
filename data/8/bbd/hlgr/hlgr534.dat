@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr534.dat
+.SEGMENT TEXT 0-60 OK "While that could make it vulnerable to a veto by Mr. Bush, Democrats argue that a presidential rejection would give their party a valuable issue in next year's congressional elections."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape09/app0998.dat
+.SEGMENT TEXT 0-57 ? "456-7890 x.34 967 2345, ext 23 800-901-4678 x4-2354"

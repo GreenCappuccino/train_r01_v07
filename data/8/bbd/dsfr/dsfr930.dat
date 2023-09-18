@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr930.dat
+.SEGMENT TEXT 0-60 OK "White House aides said that although they made a small compromise on the length of a training wage, the final minimum-wage increase will meet the standards set by Mr. Bush."

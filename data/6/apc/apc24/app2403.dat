@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2403.dat
+.SEGMENT WORD 0-3 ? "unknown"
+.SEGMENT WORD 4-5 ? "upper"
+.SEGMENT WORD 6-8 ? "verb"
+.SEGMENT WORD 9-13 ? "vision"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1747.dat
+.SEGMENT TEXT 0-14 ? "leave 12/27/93, return in January"

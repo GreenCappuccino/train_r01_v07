@@ -1,0 +1,28 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Wu.dat
+.SEGMENT TEXT 0-46 ? "Four pink grapefruits"
+.SEGMENT TEXT 174-188 ? "Ketchup"
+.SEGMENT TEXT 189-241 ? "6 cans of frozen orange juice"
+.SEGMENT TEXT 242-272 ? "Frozen pizza"
+.SEGMENT TEXT 273-301 ? "8 cans of diet cola"
+.SEGMENT TEXT 418-440 ? "raisin brand"
+.SEGMENT TEXT 630-724 ? "Injuries include complete fracture of right fibula ."
+.SEGMENT TEXT 725-821 ? "Lacerations and abrasions are present on both arms and legs ."
+.SEGMENT TEXT 923-1057 ? "Patient indicates dizziness and nausea , indicating possible mild concussion ."
+.SEGMENT TEXT 1139-1201 ? "Pupil dilation appears equal in both eyes ."
+.SEGMENT TEXT 1202-1260 ? "Fracture was set in emergency room ."
+.SEGMENT TEXT 1310-1398 ? "Closure of laceration above left elbow took 10 stitches ."
+.SEGMENT TEXT 1506-1634 ? "Patient's medical history indicated up-to-date tetanus immunization ."
+.SEGMENT TEXT 1635-1733 ? "Patient was admitted to hospital for observation ."
+.SEGMENT TEXT 1734-1818 ? "If dizziness persists , schedule some skull x-rays ."
+.SEGMENT TEXT 1954-2026 ? "Could the person return the proceedings ?"
+.SEGMENT TEXT 2128-2196 ? "I have one that seems to work fine ."
+.SEGMENT TEXT 2300-2412 ? "Then if it works , I'll make it available to everyone ."
+.SEGMENT TEXT 2413-2541 ? "Did anyone get a copy of the transparencies this morning , from their talk ?"
+.SEGMENT TEXT 2591-2681 ? "I got our plane tickets in the mail about a week ago ."
+.SEGMENT TEXT 2900-2958 ? "Do you want to get them from me ?"
+.SEGMENT TEXT 2959-3065 ? "I'll be in my office this a.m. , and on and off in the afternoon ."
+.SEGMENT TEXT 3199-3329 ? "Is the new journal ready yet - the one with Charlotte's new question ?"
+.SEGMENT TEXT 3330-3442 ? "Could you put the training data files there , as soon as possible ?"

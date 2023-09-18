@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1849.dat
+.SEGMENT TEXT 0-21 ? "Pedro Phil Rachel Rodger"

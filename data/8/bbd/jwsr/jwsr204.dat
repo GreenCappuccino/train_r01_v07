@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr204.dat
+.SEGMENT TEXT 0-53 OK "The blast, which wrecked the opposition labor group's offices, was the latest in a series of attacks in El Salvador's 10-year-old civil war."

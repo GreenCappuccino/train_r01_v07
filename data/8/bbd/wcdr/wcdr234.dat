@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr234.dat
+.SEGMENT TEXT 0-31 OK "The letter, in fact, takes a jab at ABC for being a laggard in black programming."

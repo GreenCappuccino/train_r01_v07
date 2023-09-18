@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2310.dat
+.SEGMENT WORD 0-2 ? "plane"
+.SEGMENT WORD 3-6 ? "poet"
+.SEGMENT WORD 7-9 ? "precise"
+.SEGMENT WORD 10-17 ? "published"

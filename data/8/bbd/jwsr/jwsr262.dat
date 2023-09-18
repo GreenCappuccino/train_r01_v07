@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr262.dat
+.SEGMENT TEXT 0-31 OK "Computers have made trading more rapid, but that can be fixed with some fine-tuning."

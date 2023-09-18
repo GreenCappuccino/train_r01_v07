@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0191.dat
+.SEGMENT WORD 3 ? "have"
+.SEGMENT WORD 7-8 ? "marketing"
+.SEGMENT WORD 9-11 ? "manufacturing"
+.SEGMENT WORD 12-14 ? "work"
+.SEGMENT WORD 15 ? "together"
+.SEGMENT WORD 16-18 ? "from"
+.SEGMENT WORD 19 ? "start"

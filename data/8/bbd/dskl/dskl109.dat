@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl109.dat
+.SEGMENT TEXT 0-26 OK "They merely collect campaign contributions from developers that help keep them in office."

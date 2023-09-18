@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr352.dat
+.SEGMENT TEXT 0-33 OK "The company has $1 billion in debt filed with the Securities and Exchange Commission."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl231.dat
+.SEGMENT TEXT 0-83 OK "While the SDI anti-missile program recently awarded W.J. Schafer two contracts totaling $13.4 million, ERC's chairman and founder, Jack Aalseth, says he bought the company \"more for its technology than its customer.\""

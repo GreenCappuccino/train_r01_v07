@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3973.dat
+.SEGMENT TEXT 0-31 ? "Going to Europe for conference"

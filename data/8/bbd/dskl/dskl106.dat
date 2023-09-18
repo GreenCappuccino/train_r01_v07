@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl106.dat
+.SEGMENT TEXT 0-53 OK "However, four are in the Michigan district of Rep. Bob Traxler, the chairman of the House subcommittee that writes the HUD spending bill."

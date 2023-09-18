@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1911504.dat
+.SEGMENT TEXT 50-74 ? "1, in ) ; if ( ferror ( in )"
+.SEGMENT TEXT 201-225 ? "exit ( 1 ) ; } # endif"
+.SEGMENT TEXT 251-263 ? "} / here with"

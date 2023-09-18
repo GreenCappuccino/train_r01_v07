@@ -1,0 +1,22 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Koontz.dat
+.SEGMENT TEXT 0-30 ? "It is a violation of the copyright ."
+.SEGMENT TEXT 31-65 ? "EZ Soft has a legitimate case for suing ."
+.SEGMENT TEXT 66-98 ? "An out-of-court settlement is probably best ."
+.SEGMENT TEXT 116-146 ? "We should ask for 1 million dollars as compensation"
+.SEGMENT TEXT 209-235 ? "The software license agreement is binding ."
+.SEGMENT TEXT 267-299 ? "Advertising without prior consent is illegal ."
+.SEGMENT TEXT 300-328 ? "They are liable for prosecution under state provisions ."
+.SEGMENT TEXT 391-421 ? "There are several precedents for this type of infringement ."
+.SEGMENT TEXT 422-454 ? "Special circumstances warrant my abstaining from this case"
+.SEGMENT TEXT 455-501 ? "Drive out of the airport and turn right onto Genesee St ."
+.SEGMENT TEXT 502-540 ? "Get in the left lane and follow signs to 33 expressway ."
+.SEGMENT TEXT 580-618 ? "Next take 290 west to the 990 northbound ."
+.SEGMENT TEXT 680-700 ? "The exit joins Audobon Parkway ."
+.SEGMENT TEXT 777-813 ? "Go on Audobon Parkway to the next big intersection ."
+.SEGMENT TEXT 839-867 ? "Make a right turn onto Hamilton Street ."
+.SEGMENT TEXT 868-910 ? "Turn left onto White road at the next stop sign ."
+.SEGMENT TEXT 911-955 ? "Park in Furnas parking lot at the end of White Road ."
+.SEGMENT TEXT 956-994 ? "It's the last parking lot on the right ."

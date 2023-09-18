@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2309.dat
+.SEGMENT WORD 0-7 ? "Package"
+.SEGMENT WORD 8-11 ? "Pattern"
+.SEGMENT WORD 12-16 ? "Peculiar"
+.SEGMENT WORD 17-19 ? "Phrase"

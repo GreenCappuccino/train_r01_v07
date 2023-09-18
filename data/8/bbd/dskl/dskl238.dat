@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl238.dat
+.SEGMENT TEXT 0-43 OK "It is also taking over the maintenance of certain Navy aircraft with 40% fewer people than the military used."

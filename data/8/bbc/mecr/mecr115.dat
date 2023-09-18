@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr115.dat
+.SEGMENT TEXT 0-28 OK "Declining issues on the Big Board were ahead of gainers, 1,012 to 501."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-aeb.dat
+.SEGMENT TEXT 0-18 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 19-44 OK "What a dirty trick !"
+.SEGMENT TEXT 273-302 OK "gave to this land a new nation ."
+.SEGMENT TEXT 303-326 OK "To be or not to be ;"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr505.dat
+.SEGMENT TEXT 0-55 OK "In a less glamorous field, Akzo is the world's biggest producer of industrial salt, used as a raw material for the chemical industry as well as for such tasks as melting ice."

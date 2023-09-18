@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr233.dat
+.SEGMENT TEXT 0-45 OK "That was when the exchange took a new tack by publishing monthly statistics listing the top 15 program trading firms."

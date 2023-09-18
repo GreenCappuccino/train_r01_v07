@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr880.dat
+.SEGMENT TEXT 0-31 OK "That's because when Coke looks to the Pacific area, it sees an economic and demographic gold mine."

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0831.dat
+.SEGMENT WORD 0-9 ? "Vacation"
+.SEGMENT WORD 10-17 ? "spots:"
+.SEGMENT WORD 18-19 ? "a)"
+.SEGMENT WORD 20-29 ? "Acapulco"
+.SEGMENT WORD 30-31 ? "b)"
+.SEGMENT WORD 32-41 ? "Hawaii"
+.SEGMENT WORD 42-43 ? "c)"
+.SEGMENT WORD 44-50 ? "Paris"

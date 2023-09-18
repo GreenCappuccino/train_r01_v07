@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr311.dat
+.SEGMENT TEXT 0-76 OK "Mr. Price \"wanted to run the MTM business\" and may have regretted selling the company to TVS, suggested Charles Denton, managing director of Zenith Productions, a subsidiary of Carlton Communications PLC, London."

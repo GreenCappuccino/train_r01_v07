@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr493.dat
+.SEGMENT TEXT 0-42 OK "Worse, says baseball author Lawrence Ritter, \"Someone will get a heart attack and that will be the end of the whole story.\""

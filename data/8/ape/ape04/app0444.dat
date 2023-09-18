@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0444.dat
+.SEGMENT TEXT 0-31 ? "Get adapter for Philip's-head screwdriver"

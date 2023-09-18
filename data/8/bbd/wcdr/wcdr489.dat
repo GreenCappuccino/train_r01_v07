@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr489.dat
+.SEGMENT TEXT 0-53 OK "Mr. Bergsma said prices for U.S. pharmaceutical companies remain too high, making it unlikely that Akzo will pursue any major acquisitions in that area."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl112.dat
+.SEGMENT TEXT 0-21 OK "They are often closed to the public and no minutes are taken."

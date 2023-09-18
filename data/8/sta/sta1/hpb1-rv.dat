@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-rv.dat
+.SEGMENT TEXT 0-26 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 27-52 OK "What a dirty trick !"
+.SEGMENT TEXT 53-72 OK "Give me your arm ."
+.SEGMENT TEXT 107-126 OK "No one will see them ."
+.SEGMENT TEXT 225-250 OK "from the day when our fathers"
+.SEGMENT TEXT 251-272 OK "gave to this land a new nation ."
+.SEGMENT TEXT 273-298 OK "To be or not to be ;"
+.SEGMENT TEXT 299-318 OK "That is the question ."

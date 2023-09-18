@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr911.dat
+.SEGMENT TEXT 0-66 OK "It raised financing of 300 billion lire for the purchase this summer by another Agnelli-related group of the food concern Galbani S.p.A., by selling a chunk of its IFI shares to Mediobanca S.p.A."

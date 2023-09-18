@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1740.dat
+.SEGMENT WORD 0-1 ? "He"
+.SEGMENT WORD 2-3 ? "should"
+.SEGMENT WORD 4-5 ? "ignore"
+.SEGMENT WORD 6-8 ? "claims"
+.SEGMENT WORD 9-10 ? "about"
+.SEGMENT WORD 11-13 ? "promoting"
+.SEGMENT WORD 14-15 ? "his"
+.SEGMENT WORD 16-18 ? "friend"

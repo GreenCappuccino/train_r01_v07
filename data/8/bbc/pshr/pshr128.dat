@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr128.dat
+.SEGMENT TEXT 0-32 OK "\"Companies that have the most exposure to the business cycle have underperformed since late last summer.\""

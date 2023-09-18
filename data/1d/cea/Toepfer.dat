@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Toepfer.dat
+.SEGMENT CHARACTER 53-55 ? "?"
+.SEGMENT CHARACTER 94-96 ? "?"

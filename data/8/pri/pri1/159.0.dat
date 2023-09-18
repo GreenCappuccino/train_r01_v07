@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri1/159.0.dat
+.SEGMENT TEXT 26-38 ? "keep from"
+.SEGMENT TEXT 220-252 ? "accumulation point"
+.SEGMENT TEXT 334-346 ? "current assets"
+.SEGMENT TEXT 954-974 ? "tip truck"
+.SEGMENT TEXT 1032-1064 ? "sacrificial anode"
+.SEGMENT TEXT 1158-1174 ? "lead screw"
+.SEGMENT TEXT 1261-1305 ? "automatic typesetting"
+.SEGMENT TEXT 1502-1528 ? "indirect speech"
+.SEGMENT TEXT 1661-1673 ? "answer for"
+.SEGMENT TEXT 1718-1748 ? "three-point landing"

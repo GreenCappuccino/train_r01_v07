@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr492.dat
+.SEGMENT TEXT 0-18 OK "\"I feel people should be allowed to remember players as they were.\""

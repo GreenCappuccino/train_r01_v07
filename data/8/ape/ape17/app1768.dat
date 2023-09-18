@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1768.dat
+.SEGMENT TEXT 0-26 ? "Allison Anna Benjamin Cheryl"

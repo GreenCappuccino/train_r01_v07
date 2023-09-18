@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0436.dat
+.SEGMENT WORD 0-2 ? "See"
+.SEGMENT WORD 3 ? "you"

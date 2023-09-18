@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr130.dat
+.SEGMENT TEXT 0-15 OK "By this month, it had more than doubled."

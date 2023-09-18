@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1728.dat
+.SEGMENT WORD 0-3 ? "Lower"
+.SEGMENT WORD 4-6 ? "Man"
+.SEGMENT WORD 7-20 ? "Mathematical"
+.SEGMENT WORD 21-28 ? "Medical"

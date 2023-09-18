@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr218.dat
+.SEGMENT TEXT 0-30 OK "Revenue rose 33% to $378.1 million from $283.8 million."

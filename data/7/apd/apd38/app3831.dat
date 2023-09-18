@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3831.dat
+.SEGMENT WORD 0-1 ? "jar"
+.SEGMENT WORD 2-3 ? "job"
+.SEGMENT WORD 4-8 ? "justice"
+.SEGMENT WORD 9-10 ? "kettle"

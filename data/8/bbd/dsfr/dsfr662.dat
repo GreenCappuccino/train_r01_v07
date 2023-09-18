@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr662.dat
+.SEGMENT TEXT 0-76 OK "An official at Waco Securities said these investors feel the need to make quick profits, despite destabilizing external factors, such as political uncertainty tied to the ruling party's fate at next year's"

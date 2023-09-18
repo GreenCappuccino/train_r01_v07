@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl104.dat
+.SEGMENT TEXT 0-80 OK "After one of the most amazing debates we've ever seen on the cable channel C-SPAN, the House voted 250 to 170 on Wednesday to order $28.4 million in spending for a New Jersey arts center, a Michigan library and 38"

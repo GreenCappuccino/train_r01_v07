@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1898.dat
+.SEGMENT WORD 0-8 ? "influence"
+.SEGMENT WORD 9-13 ? "jaws"
+.SEGMENT WORD 14-21 ? "journey"
+.SEGMENT WORD 22-27 ? "kinds"

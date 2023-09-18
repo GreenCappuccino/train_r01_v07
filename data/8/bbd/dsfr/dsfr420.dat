@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr420.dat
+.SEGMENT TEXT 0-86 OK "Barred by its budget law from making any new domestic bond issues, Wellington's Debt Management Office had been casting abroad to raise the 3 billion New Zealand dollars (US $1.76 billion) to NZ$4 billion it needs to come up with"

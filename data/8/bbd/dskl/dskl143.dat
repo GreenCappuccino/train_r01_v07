@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl143.dat
+.SEGMENT TEXT 0-58 OK "Frankly, the only way I can think of to accomplish this is to make it possible for addicts to buy drugs at some regulated place that approximates their cost."

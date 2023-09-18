@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr488.dat
+.SEGMENT TEXT 0-39 OK "These days he hustles to house-painting jobs in his Chevy pickup before and after training with the Tropics."

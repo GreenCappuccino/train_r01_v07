@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr455.dat
+.SEGMENT TEXT 0-52 OK "One hundred and ninety two former greats, near greats, hardly knowns and unknowns begin a 72 game, three-month season in spring-training stadiums up and down Florida."

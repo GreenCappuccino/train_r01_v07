@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/000.8.dat
+.SEGMENT TEXT 0-71 ? "The March contract advanced 0.14 cent a pound to 14.11 cents."

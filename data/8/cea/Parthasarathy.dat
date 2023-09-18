@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Parthasarathy.dat
+.SEGMENT TEXT 129-179 ? "We have to focus on two things , stopping the rush and avoiding turnovers"
+.SEGMENT TEXT 180-208 ? "Tell Jackson not to throw too many long bombs"
+.SEGMENT TEXT 209-237 ? "Houston leads the league in interceptions"
+.SEGMENT TEXT 238-296 ? "When they played Cleveland in November , Walker rushed for 140 yards"
+.SEGMENT TEXT 481-525 ? "The weather could either work for us or against us"
+.SEGMENT TEXT 526-566 ? "We would have the advantage in blizzard conditions"
+.SEGMENT TEXT 567-619 ? "If it's windy , we will have to make some adjustments"

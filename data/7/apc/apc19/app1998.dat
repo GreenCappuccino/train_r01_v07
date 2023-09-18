@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1998.dat
+.SEGMENT WORD 0-2 ? "Get"
+.SEGMENT WORD 3 ? "at"
+.SEGMENT WORD 4-7 ? "store:"
+.SEGMENT WORD 8-10 ? "frozen"
+.SEGMENT WORD 11-12 ? "bread"
+.SEGMENT WORD 13-17 ? "fruit"
+.SEGMENT WORD 18 ? "meat"

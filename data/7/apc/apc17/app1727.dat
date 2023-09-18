@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1727.dat
+.SEGMENT WORD 0-7 ? "language"
+.SEGMENT WORD 8-13 ? "leaving"
+.SEGMENT WORD 14-22 ? "listen"
+.SEGMENT WORD 23-26 ? "lie"

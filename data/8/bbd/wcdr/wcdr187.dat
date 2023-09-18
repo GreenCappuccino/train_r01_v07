@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr187.dat
+.SEGMENT TEXT 0-46 OK "As for Lincoln, if you can't guess why he's so sweet to his sister when everybody else hates her, then I'm not going to tell you."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr776.dat
+.SEGMENT TEXT 0-36 OK "Ballooning at the de rigueur hour of 6 a.m. held all the attraction for most people of sunrise root-canal work."

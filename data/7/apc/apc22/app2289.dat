@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2289.dat
+.SEGMENT WORD 0-8 ? "account"
+.SEGMENT WORD 9-12 ? "adds"
+.SEGMENT WORD 13-14 ? "ah"
+.SEGMENT WORD 15-19 ? "alone"

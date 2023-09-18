@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb22/app2209.dat
+.SEGMENT TEXT 0-36 ? "Allison Anna Benjamin Cheryl"

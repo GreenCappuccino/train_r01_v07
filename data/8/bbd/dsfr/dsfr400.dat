@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr400.dat
+.SEGMENT TEXT 0-30 OK "One technique developed by some of these companies involves a chemical spray supposed to kill only a plant's pollen."

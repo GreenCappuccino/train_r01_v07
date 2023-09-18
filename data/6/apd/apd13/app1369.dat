@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1369.dat
+.SEGMENT WORD 0-12 ? "professional"
+.SEGMENT WORD 13-18 ? "pushes"
+.SEGMENT WORD 19-23 ? "quarter"
+.SEGMENT WORD 24-29 ? "quit"

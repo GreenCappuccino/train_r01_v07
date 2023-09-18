@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl123.dat
+.SEGMENT TEXT 0-32 OK "With due respect to \"highly classified correspondence\" and other buzzwords, leakers are performing a public service."

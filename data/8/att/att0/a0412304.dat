@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0412304.dat
+.SEGMENT TEXT 27-35 ? "= nl ) continue ;"
+.SEGMENT TEXT 44-51 ? "if ( ch = hash )"
+.SEGMENT TEXT 90-103 ? "( ch = EOF ) goto"
+.SEGMENT TEXT 104-117 ? "( ch = EOF ) goto"
+.SEGMENT TEXT 127-135 ? "done ; if ( ch ="

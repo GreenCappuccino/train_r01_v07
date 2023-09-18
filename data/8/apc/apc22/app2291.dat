@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2291.dat
+.SEGMENT TEXT 0-32 ? "exists explain false feather"

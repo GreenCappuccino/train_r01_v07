@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr131.dat
+.SEGMENT TEXT 0-39 OK "a bankers trust spokesman said that the company's investment arm uses stock-index arbitrage to enhance investors' returns."

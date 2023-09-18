@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr589.dat
+.SEGMENT TEXT 0-71 OK "And some of its top client-service executives, including Mr. Phillips, were promoted to the point they were saddled with administrative duties, with little time to see clients."

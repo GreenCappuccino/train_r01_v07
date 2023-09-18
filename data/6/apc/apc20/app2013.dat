@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2013.dat
+.SEGMENT WORD 0-7 ? "Hurried"
+.SEGMENT WORD 8-11 ? "Id"
+.SEGMENT WORD 12-15 ? "In"
+.SEGMENT WORD 16-26 ? "Interest"

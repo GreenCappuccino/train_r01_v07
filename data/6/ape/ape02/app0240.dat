@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0240.dat
+.SEGMENT WORD 0-4 ? "Hawaii"
+.SEGMENT WORD 5-8 ? "North"
+.SEGMENT WORD 9-13 ? "Carolina"
+.SEGMENT WORD 14-16 ? "West"
+.SEGMENT WORD 17-23 ? "Virginia"
+.SEGMENT WORD 24-29 ? "Colorado"

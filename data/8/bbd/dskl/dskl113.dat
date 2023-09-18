@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl113.dat
+.SEGMENT TEXT 0-43 OK "Members find it easy to doctor legislation by slipping in special provisions that could never survive in the cold light of day."

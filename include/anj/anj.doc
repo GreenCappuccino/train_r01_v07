@@ -1,0 +1,48 @@
+.VERSION 		1.0
+.DATA_SOURCE 		att
+.DATA_ID		anj
+.DATA_CONTACT
+	Name: Jianying Hu
+	Affiliation: AT&T Bell Labs
+	Address: 600 Mountain Avenue
+	Murray Hill, NJ 07974, USA
+	Phone: (908) 582-5660
+	Fax: (908) 582-7308
+	Email: jianhu@research.att.com
+.DATA_INFO
+	Alphabet: English alphabet, lower-case only
+	Quantity: 8595 words (40,000 characters)
+	Quality: some cleaning
+	Number of Writers: 18
+	Writing style: mixed
+	Segmentation: word level
+.SETUP
+	Site: AT&T Bell Labs, Murray Hill, NJ, USA
+	Time: October, 1993
+	Writer population: Staff members
+	Writer motivation: volunteer
+	Writer physical position: sitting at a desk
+	Instructions given to the writer: Write on lines
+	drawn beforehand on the pad	
+	Duration of one session: 45 minutes
+	Recognizer feed back: none
+	Form layout: Each form contains several horizontal lines
+	and check boxes. The writer checks after writing each
+	word to indicate whether the sample was satisfactory. Only
+	the samples indicated satisfactory by the writer are
+	collected
+.PAD
+	Sensor: Home made, capacitive moment sensitive
+	tablet and pen
+	Display: No online screen display available at the moment.
+	Words are written and can be seen on a normal sheet of paper
+	covering the tablet.
+	Driver: Home made.
+.X_DIM	2176
+.Y_DIM	2816
+.X_POINTS_PER_MM	10
+.Y_POINTS_PER_MM	10
+.POINTS_PER_SECOND	200
+.COORD	X Y T
+.HIERARCHY WORD
+

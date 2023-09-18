@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2955.dat
+.SEGMENT WORD 0-1 ? "be"
+.SEGMENT WORD 2-9 ? "benefit"
+.SEGMENT WORD 10-18 ? "blanket"
+.SEGMENT WORD 19-24 ? "border"

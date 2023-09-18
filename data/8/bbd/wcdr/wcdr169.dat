@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr169.dat
+.SEGMENT TEXT 0-86 OK "the writer and executive producer of \"settle the score,\" steve sohmer, is a graduate of yale who participated in a pbs documentary, aired this summer, in which six members of the yale class of 1963 ruminated about their lives since graduation."

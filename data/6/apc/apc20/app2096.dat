@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2096.dat
+.SEGMENT WORD 0-7 ? "Hotel"
+.SEGMENT WORD 8-13 ? "Hurt"
+.SEGMENT WORD 14-22 ? "Hunters"
+.SEGMENT WORD 23-31 ? "Illness"

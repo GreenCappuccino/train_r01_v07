@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr283.dat
+.SEGMENT TEXT 0-28 OK "Marks & Spencer plans to open roughly 18 more U.S. stores in the next five years."

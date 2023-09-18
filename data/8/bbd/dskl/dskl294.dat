@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl294.dat
+.SEGMENT TEXT 0-34 OK "Mr. Morishita's main business certainly appears to be thriving, although he won't disclose numbers."

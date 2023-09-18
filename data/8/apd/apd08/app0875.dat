@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd08/app0875.dat
+.SEGMENT TEXT 0-83 ? "39 Madison Way, Apt. #3 48 Market Place 34 W. 57th Street 205 Mariani Ave., MS. 32"

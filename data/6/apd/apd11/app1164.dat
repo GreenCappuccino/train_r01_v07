@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1164.dat
+.SEGMENT WORD 0-1 ? "basis"
+.SEGMENT WORD 2 ? "belonged"
+.SEGMENT WORD 3-4 ? "bet"
+.SEGMENT WORD 5 ? "blow"

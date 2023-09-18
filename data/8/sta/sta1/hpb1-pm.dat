@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-pm.dat
+.SEGMENT TEXT 44-81 OK "What a dirty trick !"
+.SEGMENT TEXT 110-161 OK "Is that a house on the island ?"
+.SEGMENT TEXT 162-185 OK "No one will see them ."
+.SEGMENT TEXT 318-361 OK "Seven and eighty years have gone by"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr288.dat
+.SEGMENT TEXT 0-61 OK "Great Northern Nekoosa reacted coolly to Georgia-Pacific's takeover bid of $58 a share, or $3.19 billion, though the suitor said all terms are negotiable."

@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/kuty-02.dat
+.SEGMENT WORD 0-8 ? "addition"
+.SEGMENT WORD 9-15 ? "beehive"
+.SEGMENT WORD 16-20 ? "global"
+.SEGMENT WORD 21-28 ? "agreement"
+.SEGMENT WORD 36-43 ? "liquid"
+.SEGMENT WORD 44-47 ? "build"
+.SEGMENT WORD 51-54 ? "arrive"
+.SEGMENT WORD 60-65 ? "comic"
+.SEGMENT WORD 82-88 ? "acquired"
+.SEGMENT WORD 102-103 ? "parallel"
+.SEGMENT WORD 108-109 ? "brutal"
+.SEGMENT WORD 110-116 ? "profile"

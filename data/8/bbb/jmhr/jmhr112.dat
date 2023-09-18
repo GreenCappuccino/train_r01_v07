@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr112.dat
+.SEGMENT TEXT 0-61 OK "So would someone recently divorced or widowed. [Since Litigation Sciences generally represents the defense, its job is usually to help the lawyers identify and remove such people from the jury.]"

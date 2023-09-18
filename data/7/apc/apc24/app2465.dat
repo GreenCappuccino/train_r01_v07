@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2465.dat
+.SEGMENT WORD 0-3 ? "geography"
+.SEGMENT WORD 4-5 ? "so"
+.SEGMENT WORD 6-10 ? "goat"
+.SEGMENT WORD 11-14 ? "generally"

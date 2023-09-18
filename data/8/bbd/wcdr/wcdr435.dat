@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr435.dat
+.SEGMENT TEXT 0-42 OK "The American Stock Exchange said a seat was sold for $165,000, unchanged from the previous sale Oct. 13."

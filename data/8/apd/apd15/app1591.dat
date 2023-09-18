@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd15/app1591.dat
+.SEGMENT TEXT 0-22 ? "Might lose 50 things hoping; they will find them"

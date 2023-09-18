@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3862.dat
+.SEGMENT WORD 0 ? "grew"
+.SEGMENT WORD 1-2 ? "guests"
+.SEGMENT WORD 3 ? "hat"
+.SEGMENT WORD 4 ? "have"

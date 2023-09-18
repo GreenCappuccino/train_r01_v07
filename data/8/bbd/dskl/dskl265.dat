@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl265.dat
+.SEGMENT TEXT 0-25 OK "But we're not making as many {pyrotechnic devices} as we used to.\""

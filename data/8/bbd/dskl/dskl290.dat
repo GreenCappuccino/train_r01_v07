@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl290.dat
+.SEGMENT TEXT 0-52 OK "In 30 years of collecting impressionist and Japanese paintings, he has acquired 600 items, he says, enough to persuade him to start a museum next year."

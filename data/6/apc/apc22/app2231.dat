@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2231.dat
+.SEGMENT WORD 0-3 ? "wave"
+.SEGMENT WORD 4-9 ? "which"
+.SEGMENT WORD 10-16 ? "window"
+.SEGMENT WORD 17-21 ? "world"

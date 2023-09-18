@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr643.dat
+.SEGMENT TEXT 0-47 OK "Jerome J. Jahn, executive vice president and chief financial officer, said Mr. Rubendall was resigning by \"mutual agreement\" with the board."

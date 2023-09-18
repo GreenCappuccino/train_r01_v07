@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd30/app3014.dat
+.SEGMENT WORD 7-12 ? "helping"
+.SEGMENT WORD 13-18 ? "higher"
+.SEGMENT WORD 19 ? "how"

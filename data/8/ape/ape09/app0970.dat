@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape09/app0970.dat
+.SEGMENT TEXT 0-63 ? "890 San Antonio Plaza 12 Gran Square 34 Hollywood Circle 78 P.O. Box"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr532.dat
+.SEGMENT TEXT 0-31 OK "Sen. Mitchell is confident he has sufficient votes to block such a measure with procedural actions."

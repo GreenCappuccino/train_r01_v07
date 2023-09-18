@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr366.dat
+.SEGMENT TEXT 0-48 OK "Under prodding from Judge Abramson, a Minpeco executive flew in from Peru last week to talk directly with executives from Manufacturers Hanover on a settlement."

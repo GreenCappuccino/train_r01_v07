@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1382.dat
+.SEGMENT WORD 0-4 ? "Bert"
+.SEGMENT WORD 5-11 ? "Brazil"
+.SEGMENT WORD 12-17 ? "Coast"
+.SEGMENT WORD 18-23 ? "Europe"

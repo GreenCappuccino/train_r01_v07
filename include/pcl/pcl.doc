@@ -1,0 +1,87 @@
+.VERSION 1.0
+.COMMENT #############################################
+	 ### DOCUMENTATION FILE FOR WORDS DATABASE ###
+	 #############################################
+
+
+.DATA_SOURCE	PCL
+.DATA_ID	pcl0
+
+.COMMENT All the words consist of lowercase English letters.
+
+
+.HIERARCHY	WORD
+
+.COMMENT #####################
+	 ### DOCUMENTATION ###
+	 #####################
+
+	 Please fill up the blanks and add any other relevant information.
+
+.DATA_CONTACT 
+	 Name:          Yair Itzhaik
+	 Affiliation:   PCL
+	 Address:       Starco Tower, Stella Maris Square, Haifa 35709, Israel
+	 Phone:         +972-4-8-335565
+	 Fax:           +972-4-8-335564
+	 Email:         pcl_yair@netvision.net.il
+
+.SETUP   Site:          Inside PCL   
+	 Time:          October 1993 - February 1996
+	 Writer population: Workers of PCL, or people coming from the street
+	 Writer motivation: paid
+	 Writer physical position: sitting at the table, with tablet on it
+	 Instructions given to the writer: "Try to write your natural handwriting"
+	 Duration of one session:       each less than 45 min.
+	 Recognizer feedback:           no
+	 Form layout:                   Window with no baseline
+
+.DATA_INFO    
+	 Set type: 	test
+	 ^^^^^^^^         
+	 Lexicon:       English words
+	 Quantity:      2786 words, 17317 characters
+	 Quality:       no cleaning
+	 Number of Writer(s): 55
+	 Segmentation:  NONE
+
+.COMMENT This is a database collected for internal needs of PCL.
+	 Usage:		Testing PCL's recognizers.
+
+.PAD     Machine name:  PC
+	 Type:          486DX2-66
+	 Pen:           Wacom ArtPad tablet KT-0405-R
+	 Driver:        Homemade
+	 Sampling mode: Absolute
+	 Sampling rate:	100
+	 Resolution:    512x512
+	 Accuracy:	GOOD (~0.5 mm)
+	 Width:		5"
+	 Height:	4"
+	 Display:       SVGA 14" 800x600 256 colors
+
+
+.COMMENT #####################
+	 ###  DATA LAYOUT  ###
+	 #####################
+
+.X_DIM   512
+.Y_DIM   512
+
+.COMMENT #####################
+	 ###  UNIT SYSTEM  ###
+	 #####################
+
+.X_POINTS_PER_INCH 100
+.Y_POINTS_PER_INCH 100
+.POINTS_PER_SECOND 100
+.COORD             X Y
+
+.WRITER_INFO	Internal workers of PCL, or people from the street
+		Age : 	 18-50
+		Sex : 	 both
+		Country: mostly Israel or Russia, but also France,
+			 Australia, South Africa, England, USA, Norway,
+			 Ireland, Finland, Holland, etc.
+
+.SKILL		GOOD

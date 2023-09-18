@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1769.dat
+.SEGMENT WORD 0-1 ? "Jar"
+.SEGMENT WORD 2-4 ? "Job"
+.SEGMENT WORD 5-12 ? "Justice"
+.SEGMENT WORD 13-21 ? "Kettle"

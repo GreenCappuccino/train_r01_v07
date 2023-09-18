@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl224.dat
+.SEGMENT TEXT 0-55 OK "As their varied strategies suggest, there is more than one way to respond to a disaster - though it's too soon to tell whether the changes will pay off."

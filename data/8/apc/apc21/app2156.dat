@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2156.dat
+.SEGMENT TEXT 0-38 ? "population pot primitive puzzle"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr481.dat
+.SEGMENT TEXT 0-30 OK "It wasn't until the early 1980s that Akzo nursed itself back to health."

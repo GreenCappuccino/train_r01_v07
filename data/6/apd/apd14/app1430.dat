@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd14/app1430.dat
+.SEGMENT WORD 0-4 ? "RI"
+.SEGMENT WORD 5-7 ? "NJ"
+.SEGMENT WORD 8-9 ? "MO"
+.SEGMENT WORD 10-11 ? "PA"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr491.dat
+.SEGMENT TEXT 0-37 OK "An indication of Akzo's success in reshaping itself will come Thursday when it reports third-quarter results."

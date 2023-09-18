@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1545.dat
+.SEGMENT TEXT 0-48 ? "Flight #345 leaves at 7:20am from Oakland"

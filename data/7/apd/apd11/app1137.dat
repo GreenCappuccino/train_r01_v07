@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1137.dat
+.SEGMENT WORD 0 ? "vapor"
+.SEGMENT WORD 1-5 ? "visiting"
+.SEGMENT WORD 6-7 ? "waste"
+.SEGMENT WORD 8-10 ? "western"

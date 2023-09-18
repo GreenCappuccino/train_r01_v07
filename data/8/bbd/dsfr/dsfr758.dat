@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr758.dat
+.SEGMENT TEXT 0-40 OK "The average six-month CD in that category added 0.05 percentage point to 8.35%, for example."

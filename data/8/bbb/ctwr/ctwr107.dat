@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr107.dat
+.SEGMENT TEXT 0-32 OK "He will succeed Harry L. Freeman, 57, who has said he will retire in December."

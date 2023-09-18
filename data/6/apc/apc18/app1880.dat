@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1880.dat
+.SEGMENT WORD 0-4 ? "common"
+.SEGMENT WORD 5-12 ? "contain"
+.SEGMENT WORD 13-16 ? "current"
+.SEGMENT WORD 17-23 ? "daughter"

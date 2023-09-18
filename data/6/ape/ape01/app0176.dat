@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0176.dat
+.SEGMENT WORD 7-13 ? "forget"
+.SEGMENT WORD 14-20 ? "matches"
+.SEGMENT WORD 21-23 ? "and"
+.SEGMENT WORD 24-34 ? "kindling"

@@ -1,0 +1,87 @@
+.DATA_SOURCE imp
+.DATA_ID imp1
+.VERSION 1.0
+.COMMENT               #####################
+                       ### Documentation ###
+                       #####################
+
+.DATA_CONTACT          Name:                  Dominic J Ostrowski
+                       Affliation:            Imperial College
+                       Address:               Exhibition Road
+                                              South Kensington, London, SW7 2BT England
+                       Phone:                 +44 71-589-5111 x56210
+                       Fax:                   +44 71-581-4419
+                       Email:                 d.ostrowski@ic.ac.uk
+
+.SETUP                 Site:                  Room 1007, Dept of Elec Eng, Imperial College
+					      (noisy computer room), and foyer of same building
+                       Time:                  Almost any time of day, throughout September 1994
+		       Conditions:	      Supervised on first use, sitting at desk 
+                       Writers:               Mostly Elec Eng PhD students
+                       Form layout:           Random order example, draw example word in large box (any size),
+					      cleared when enter button clicked (with pen or return on kbd)
+					      Dialog box at start for name, age handedness and sex
+
+.DATA_INFO             Alphabet:              Printable ANSI set (as MS Windows), not space, return or tab
+                       Lexicon:               100 most common words, presented (to the writer) in random order
+                       Quantity:              100
+                       Quality:               Raw data, unchecked
+                       Number Of Writer(s):   130
+                       Writing style:         Any
+                       Segmentation:          Word per box.
+
+.PAD                   Machine Name:          Genius Hi-Pen attached
+                                              to a 486 PC, running under Microsoft Pens for Windows
+                       Display:               NEC multisync 4FG
+                                              1024 x 768
+                                              SVGA standard, colour, using SVGA256.DRV for ink feedback
+                       Sensor:                Inductive, Accuracy 0.2mm, Proximity 5mm
+                       Pen:                   Tethered pen, tip switch as pen down and left mouse button
+                       Driver:                Genius Hi-Pen proprietary as supplied with pens for windows
+
+.COMMENT               ###################
+                       ### DATA LAYOUT ###
+                       ###################
+.X_DIM                 2175
+.Y_DIM                 2175
+
+.COMMENT               ###################
+                       ### UNIT SYSTEM ###
+                       ###################
+.X_POINTS_PER_INCH     1000
+.Y_POINTS_PER_INCH     1000
+.POINTS_PER_SECOND     100
+
+.COMMENT               ####################
+                       ### DECLARATIONS ###
+                       ####################
+.HIERARCHY	       WORD  
+.COORD                 X Y
+
+.COMMENT               ################
+                       ### .LEXICON ###
+                       ################
+
+.LEXICON
+ "a" "about" "after" "again" "all" "an" "and" "any" "are" "at"
+ "away" "be" "big" "but" "by" "came" "come" "could" "did" "do"
+ "down" "for" "from" "get" "go" "good" "got" "had" "has" "have"
+ "he" "her" "here" "him" "his" "how" "I" "if" "in" "is"
+ "it" "just" "know" "like" "little" "look" "made" "make" "me" "my"
+ "new" "no" "not" "now" "of" "off" "old" "on" "one" "our"
+ "out" "over" "put" "right" "said" "saw" "say" "see" "she" "so"
+ "some" "take" "that" "the" "them" "then" "there" "they" "think" "this"
+ "three" "to" "too" "two" "up" "us" "want" "was" "we" "went"
+ "were" "what" "when" "where" "who" "will" "with" "would" "you" "your"
+
+.LEXICON_FREQ
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1 1 1

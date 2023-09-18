@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd08/app0882.dat
+.SEGMENT WORD 0-8 ? "Olivier"
+.SEGMENT WORD 9-13 ? "Pablo"
+.SEGMENT WORD 14-18 ? "Ping"
+.SEGMENT WORD 19-23 ? "Qui"

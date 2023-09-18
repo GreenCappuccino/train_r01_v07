@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2257.dat
+.SEGMENT WORD 0-7 ? "numerous"
+.SEGMENT WORD 8-16 ? "objects"
+.SEGMENT WORD 17-18 ? "on"
+.SEGMENT WORD 19-28 ? "opinions"

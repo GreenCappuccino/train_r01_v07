@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa00/app0090.dat
+.SEGMENT TEXT 0-30 ? "Twoflower had posed alongside a"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl234.dat
+.SEGMENT TEXT 0-49 OK "The company hit on a new strategy: If the Defense Department is so intent on saving money, why not make money off that trend?"

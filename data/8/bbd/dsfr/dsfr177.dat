@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr177.dat
+.SEGMENT TEXT 0-47 OK "Program buying related to stock-index arbitrage then surfaced shortly after 10 a.m. EST and carried prices to their session highs."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr124.dat
+.SEGMENT TEXT 0-42 OK "More important are what LSI calls \"psychological anchors\" - a few focal points calculated to appeal to the jury on a gut level."

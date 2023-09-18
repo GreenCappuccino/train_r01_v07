@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1123.dat
+.SEGMENT WORD 0-2 ? "environment"
+.SEGMENT WORD 3-5 ? "establish"
+.SEGMENT WORD 6-8 ? "exclaimed"
+.SEGMENT WORD 9-11 ? "extend"

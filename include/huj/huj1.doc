@@ -1,0 +1,67 @@
+.VERSION 1.0
+
+.DATA_SOURCE    Yoram Singer,
+				Insitute of Computer Science,
+				Hebrew University,
+				Jerusalem 91904, Israel
+
+.DATA_ID        huj1
+
+.ALPHABET       "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+
+.HIERARCHY      WORD   
+
+.DATA_CONTACT 
+         Name: Yoram Singer
+         Affiliation: Research Assitant
+         Address: Inst. of Comp. Sci., Hebrew Univ., Jerusalem 91904, Israel
+         Phone: +972 2 585775
+         Fax:   +972 2 585439
+         Email: singer@cs.huji.ac.il
+
+.SETUP   Site:  Hebrew University
+         Time:  5/4/94
+         Writer population: Student
+         Writer motivation: volunteer
+         Writer physical position: good
+         Instructions given to the writer:
+			'write the word presented on the screen'
+         Duration of one session: 1 hour
+         Recognizer feedback: no
+         Form layout: none
+
+.DATA_INFO    
+         Set type: training
+         Alphabet: English keyboard alphabet
+         Lexicon:  none
+         Label distribution:
+         Quantity: 2080 characters (208 words)
+         Quality: no cleaning
+         Number of Writer(s): 1
+         Writing Style: cursive
+         Segmentation: none (word level)
+
+.PAD     Machine name: cordless graphic tablet (digitizer)
+         Brand: Wacom
+         Type: SD-510C
+         Serial Nr.: 2D4JB111707
+         Sensor: Standard
+         Pen: SP-200 cordless non-stroke pen
+         Driver: self-written Unix driver
+         Sampling mode: continous
+         Sampling rate: 100 (points per second)
+         Resolution: 20 lpmm (508 lpi)
+         Accuracy: +/-0.5mm (+/-0.02in)
+         Width: 327mm (12.9in)
+         Height: 238mm (9.4in)
+         Display: 151x232 mm (5.91x9.13 in)
+         Inking: chemical paper
+
+.X_DIM   4640
+.Y_DIM   3020
+
+.X_POINTS_PER_MM 20
+.Y_POINTS_PER_MM 20
+.POINTS_PER_SECOND 100
+.COORD             X Y

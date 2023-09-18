@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr243.dat
+.SEGMENT TEXT 0-20 OK "But he has been getting heat from all sides over program trading."

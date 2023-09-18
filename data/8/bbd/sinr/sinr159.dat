@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr159.dat
+.SEGMENT TEXT 0-82 OK "Also issued were 10 billion yen of bonds due Dec. 5, 1994, priced at 101 1/2, with coupon paid in Australian dollars, via LTCB International Ltd. Interest during first year paid semiannually at 7.51%."

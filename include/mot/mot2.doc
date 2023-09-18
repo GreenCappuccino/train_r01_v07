@@ -1,0 +1,53 @@
+.VERSION                1.0
+
+.DATA_SOURCE            Motorola-New-Enterprises
+.DATA_ID                mot
+
+.DATA_CONTACT   
+        Name: Michael Murdock
+        Affiliation: Motorola New Enterprises
+        Address: 1501 Woodfield Rd., Suite 208-N
+        Schaumburg, IL 60173
+        Phone: (708) 538-5375
+        Fax: (708) 538-5399
+        Email: amm005@corp.mot.com
+.DATA_INFO      
+        Alphabet: lowercase cursive
+        Quantity: greater than 30,000 characters
+        Quality: cleaned
+        Number of writer(s): 28
+        Writing style: isolated cursive characters
+        Segmentation: characters written anywhere in pad area
+.SETUP  
+        Site: Motorola New Enterprises
+        Conditions: Supervised recording conditions
+        People sitting at a desk
+        Writers: staff and volunteers
+        Form layout: prompted single character
+.PAD    
+        Machine name: WACOM PL-100V LCD Digitizer & 386 PC
+        Display: Backlit LCD 
+        Matrix 3840 x 2880 points
+        VGA 640 x 480, black on white, 16 grey scale
+        Sensor: Electromagnetic resonance sensor
+        Pen: Untethered pen, tip switch and side button
+        Driver: WACOM and Pen For Windows
+
+.COMMENT                ###################
+                        ### DATA LAYOUT ###
+                        ###################
+.X_DIM                  3840
+.Y_DIM                  2880
+
+.COMMENT                ###################
+                        ### UNIT SYSTEM ###
+                        ###################
+.X_POINTS_PER_MM        20
+.Y_POINTS_PER_MM        20
+.POINTS_PER_SECOND      67
+
+.COMMENT                ####################
+                        ### DECLARATIONS ###
+                        ####################
+.COORD                  X Y
+.HIERARCHY              CHARACTER

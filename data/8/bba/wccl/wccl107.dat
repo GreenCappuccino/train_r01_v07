@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl107.dat
+.SEGMENT TEXT 0-46 OK "Those chips were in dire shortage last year, hurting many U.S. computer companies that couldn't get sufficient Japanese-supplied chips."

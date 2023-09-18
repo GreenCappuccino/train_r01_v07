@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/000.2.dat
+.SEGMENT TEXT 0-75 ? "Employers also should know what is taking place in the interviewing process."

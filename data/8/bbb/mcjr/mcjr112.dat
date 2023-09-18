@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr112.dat
+.SEGMENT TEXT 0-31 OK "If that money were being taxed, it could bring the government a badly needed several trillion yen."

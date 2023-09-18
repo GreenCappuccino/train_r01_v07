@@ -1,0 +1,27 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Michalak.dat
+.SEGMENT TEXT 0-56 ? "Drive out of the airport , and turn Right onto Genesee St . \" \""
+.SEGMENT TEXT 57-107 ? "Get in the left lane , and follow signs to the 33 expressway . \" \""
+.SEGMENT TEXT 108-156 ? "\" TAke 33 West then get on the Thruway going East . \""
+.SEGMENT TEXT 259-317 ? "\" The exit joins Audobon parkway . \" \" \""
+.SEGMENT TEXT 367-417 ? "\" This left turn , will be a U \" \" Turn . \""
+.SEGMENT TEXT 618-672 ? "\" Park in FurNAce parking lot at the end of White Road . \" \""
+.SEGMENT TEXT 718-794 ? "\" If you have any Questions , call Elizabeth at 555-1234 . \""
+.SEGMENT TEXT 983-1041 ? "X-RAy shows possible dAmage to cartilage in knee joint ."
+.SEGMENT TEXT 1042-1114 ? "Patient Exhibits dizziness and Nausea indicating possible mild concussion ."
+.SEGMENT TEXT 1154-1196 ? "Pupil dilation appears equal in both eyes ."
+.SEGMENT TEXT 1228-1250 ? "No traction is required"
+.SEGMENT TEXT 1284-1338 ? "Remaining lacerations were sterilized and closed with Butterfly bandages ."
+.SEGMENT TEXT 1339-1411 ? "Patient's medical history indicated up-to-date TetANus immunization ."
+.SEGMENT TEXT 1522-1538 ? "Dear JennifER ,"
+.SEGMENT TEXT 1539-1565 ? "How are you and Susan ? ! !"
+.SEGMENT TEXT 1566-1612 ? "Are you both done with your fiNAls ?"
+.SEGMENT TEXT 1664-1740 ? "Not to rub it in \" \" , but the sun is simply glorius ."
+.SEGMENT TEXT 1766-1802 ? "It is also a good break for little David ."
+.SEGMENT TEXT 1803-1847 ? "He keeps zipping in and out of the house , all the time"
+.SEGMENT TEXT 2006-2048 ? "Did you want us to get you anything special ?"
+.SEGMENT TEXT 2049-2121 ? "If so , give us a call ; because we might possibly leave Friday morning ."
+.SEGMENT TEXT 2122-2208 ? "It is a bit late to ask , but I hope you've been feeding FiDo ."
+.SEGMENT TEXT 2209-2255 ? "And do tell Granny that we're expecting her for dinner Monday ."

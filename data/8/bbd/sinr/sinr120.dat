@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr120.dat
+.SEGMENT TEXT 0-67 OK "Mr. Nowak said he attaches particular importance to the proposed sale because it suggests that the company is willing to sell oil and gas assets that aren't part of its major strategic strengths."

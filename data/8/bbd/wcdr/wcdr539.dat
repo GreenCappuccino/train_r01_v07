@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr539.dat
+.SEGMENT TEXT 0-53 OK "As in the U.S., it also produced a sudden burst in the demand for sterling, that is a surge in the sterling monetary aggregates, M-Whatever."

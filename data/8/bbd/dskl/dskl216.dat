@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl216.dat
+.SEGMENT TEXT 0-35 OK "The McLean, Va., company modifies computers to keep sensitive military data out of unfriendly hands."

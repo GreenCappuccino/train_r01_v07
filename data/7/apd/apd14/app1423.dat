@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd14/app1423.dat
+.SEGMENT WORD 0-10 ? "Rosenberg"
+.SEGMENT WORD 11-26 ? "Frichette"
+.SEGMENT WORD 27-37 ? "Fritsch"
+.SEGMENT WORD 38-43 ? "Cohen"
+.SEGMENT WORD 44-50 ? "Ghini"

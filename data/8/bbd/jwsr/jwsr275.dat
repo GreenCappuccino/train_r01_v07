@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr275.dat
+.SEGMENT TEXT 0-59 OK "Lewis L. Glucksman, vice chairman of Smith Barney, Harris Upham & Co., said: \"This is a problem that's taking on a life of its own."

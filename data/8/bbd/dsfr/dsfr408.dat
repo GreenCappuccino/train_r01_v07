@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr408.dat
+.SEGMENT TEXT 0-47 OK "That's because pollination, while easy in corn because the carrier is wind, is more complex and involves insects as carriers in crops such as cotton."

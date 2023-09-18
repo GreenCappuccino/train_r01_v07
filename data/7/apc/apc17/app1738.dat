@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1738.dat
+.SEGMENT WORD 0-4 ? "sign"
+.SEGMENT WORD 5-11 ? "skill"
+.SEGMENT WORD 12-19 ? "slight"
+.SEGMENT WORD 20-24 ? "sort"

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape11/app1108.dat
+.SEGMENT WORD 0-6 ? "travel"
+.SEGMENT WORD 7-9 ? "46"
+.SEGMENT WORD 10-15 ? "miles"
+.SEGMENT WORD 16-19 ? "due"
+.SEGMENT WORD 20-26 ? "north,"
+.SEGMENT WORD 27-31 ? "then"
+.SEGMENT WORD 32-36 ? "turn"
+.SEGMENT WORD 37-43 ? "right"

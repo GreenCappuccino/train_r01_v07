@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0778.dat
+.SEGMENT WORD 2-9 ? "Madison"
+.SEGMENT WORD 28-35 ? "Market"
+.SEGMENT WORD 36-40 ? "Place"
+.SEGMENT WORD 52-59 ? "Street"
+.SEGMENT WORD 64-72 ? "Mariani"

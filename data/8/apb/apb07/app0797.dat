@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb07/app0797.dat
+.SEGMENT TEXT 0-43 ? "We sending Carmen to Spain then on to Germany"

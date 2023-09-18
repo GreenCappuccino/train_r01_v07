@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0317.dat
+.SEGMENT WORD 0-2 ? "Atlanta"
+.SEGMENT WORD 3-4 ? "Boise"
+.SEGMENT WORD 5 ? "Cleveland"
+.SEGMENT WORD 6-10 ? "Detroit"

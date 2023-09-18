@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1825.dat
+.SEGMENT WORD 0-5 ? "start"
+.SEGMENT WORD 6-16 ? "techniques"
+.SEGMENT WORD 17-21 ? "tank"
+.SEGMENT WORD 22-24 ? "too"

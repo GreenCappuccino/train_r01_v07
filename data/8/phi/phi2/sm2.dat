@@ -1,0 +1,22 @@
+.VERSION 1.0
+.INCLUDE phi/header_phi2
+.INCLUDE phi/data/phi2/sm2.dat
+.SEGMENT TEXT 89-114 OK "african wild dogs fear cats"
+.SEGMENT TEXT 115-143 OK "all the fun of the festival"
+.SEGMENT TEXT 226-250 OK "dark they were and massive"
+.SEGMENT TEXT 389-427 OK "engineering the future on antibiotics"
+.SEGMENT TEXT 564-591 OK "in the beginning was the bang"
+.SEGMENT TEXT 592-628 OK "insects that carry a global warning"
+.SEGMENT TEXT 719-739 OK "mars the final frontier"
+.SEGMENT TEXT 757-777 OK "novel liquid crystals"
+.SEGMENT TEXT 795-815 OK "paradox of coral reefs"
+.SEGMENT TEXT 859-884 OK "playing with the elements"
+.SEGMENT TEXT 885-914 OK "please do not cuddle the koalas"
+.SEGMENT TEXT 977-1004 OK "satellite phones on hold"
+.SEGMENT TEXT 1005-1038 OK "saving ozone with a nogo zone"
+.SEGMENT TEXT 1070-1095 OK "snakes sex and forked tongues"
+.SEGMENT TEXT 1096-1119 OK "software speed trap ahead"
+.SEGMENT TEXT 1120-1145 OK "spiral arm theory in trouble"
+.SEGMENT TEXT 1146-1169 OK "the galaxys dark secrets"
+.SEGMENT TEXT 1170-1199 OK "the great catalyst picture show"
+.SEGMENT TEXT 1282-1311 OK "the robot that wants to be human"

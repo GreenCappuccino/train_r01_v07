@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/gleb.dat
+.SEGMENT WORD 0-2 ? "acquite"
+.SEGMENT WORD 6-8 ? "beside"
+.SEGMENT WORD 13-14 ? "girth"
+.SEGMENT WORD 23 ? "latitude"
+.SEGMENT WORD 31-32 ? "scrawl"
+.SEGMENT WORD 33 ? "window"

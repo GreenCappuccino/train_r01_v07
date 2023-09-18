@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1912194.dat
+.SEGMENT WORD 158-160 ? "fp"
+.SEGMENT WORD 163-166 ? "long"
+.SEGMENT WORD 167-172 ? "time"
+.SEGMENT WORD 233-239 ? "ctime"
+.SEGMENT WORD 373-376 ? "user"
+.SEGMENT WORD 379-388 ? "register"
+.SEGMENT WORD 407-410 ? "long"
+.SEGMENT WORD 415-420 ? "clock"

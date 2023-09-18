@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0461.dat
+.SEGMENT WORD 0-7 ? "Instead,"
+.SEGMENT WORD 8-11 ? "have"
+.SEGMENT WORD 12-18 ? "research,"
+.SEGMENT WORD 19-27 ? "marketing,"
+.SEGMENT WORD 28-37 ? "manufacturing"
+.SEGMENT WORD 38-41 ? "work"
+.SEGMENT WORD 42-47 ? "together"
+.SEGMENT WORD 48-49 ? "from"
+.SEGMENT WORD 50-56 ? "start."

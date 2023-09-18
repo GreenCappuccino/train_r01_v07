@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0513.dat
+.SEGMENT WORD 0-1 ? "NC"
+.SEGMENT WORD 2-5 ? "Tx"
+.SEGMENT WORD 6-7 ? "Or"

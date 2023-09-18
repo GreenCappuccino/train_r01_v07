@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl247.dat
+.SEGMENT TEXT 0-58 OK "A partnership with a Williamsburg, Va., unit of Shell Oil Co. recently patented a process for producing plastic food containers that won't melt in microwave ovens."

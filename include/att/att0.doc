@@ -1,0 +1,91 @@
+.VERSION                1.0
+
+.DATA_SOURCE            att
+.DATA_ID                att0
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" "\ "
+
+.COMMENT                ###################
+                        ### INFORMATION ###
+                        ###################
+.DATA_CONTACT   
+        Name: Dept 11359 - Adaptive Systems Research
+        Affiliation: AT&T Bell Laboratories
+        Address: 101 Crawfords Corner Rd
+        Holmdel, NJ, 07733 , USA
+        Phone: 1 (908) 949-2783 (secty.)
+        Fax: 1 (908) 949-7722
+        Tech Contacts: Don Henderson   908-949-4591 
+        	       Isabelle Guyon  510-524-5328
+        Emails:        don@research.att.com
+                       isabelle@research.att.com
+.DATA_INFO      
+	File nomenclature: Mddhhmmc.dat, where:
+		M = month in hexadecimal,
+		dd = day,
+		hh = hour,
+		mm = minute,
+		c = collection machine number.
+        Alphabet: Latin, uppercase,lowercase,punctuation
+        Lexicon: Texts from c source code
+        Quantity: 28000 words, 71594 characters	       
+        Number of writer(s): 40
+        Writing style: Mixed.
+	Segmentation: Within one page, the same sentence is written twice,
+		      once with word segmentation and once without.
+		      Pages of unconstrained writing and
+		      pages of writing in combs are alternated.
+.SETUP  
+        Sites: AT&T Bell Laboratories, room 4g-319
+	      and Holmdel cafateria.
+        Holmdel, New Jersey, USA
+        Time: April 1994
+        Conditions: Supervised recording conditions
+                    People sitting at a desk
+        Writers: All files starting by a or 2: People from the Holmdel cafeteria.
+		 All files starting by 4: Paid people from an employment agency
+        Form layout: 1 page containing 1 segmented word
+        	     area (1-12 words) and a second 
+        	     area having a sentence made up of these
+        	     words.
+.PAD    
+        Machine name: WACOM HD-648A LCD Digitizer & 386 PC
+        Display: Backlit LCD 
+        Matrix 640 x 480 points
+        VGA standard, black on white, monochrome
+        Sensor: Electromagnetic resonance sensor
+        Pen: Untethered pen, tip switch and side button
+        Driver: PC driver producing regularly time spaced samples.
+
+.COMMENT                ###################
+                        ### DATA LAYOUT ###
+                        ###################
+.X_DIM                  4160
+.Y_DIM                  3200
+
+.H_LINE                 450 1500 1900 2300
+
+.COMMENT		The .H_LINE and .V_LINE are also precised in some .dat files.
+
+.COMMENT                ###################
+                        ### UNIT SYSTEM ###
+                        ###################
+.X_POINTS_PER_INCH      508
+.Y_POINTS_PER_INCH      508
+.POINTS_PER_SECOND      200
+
+.COMMENT                ####################
+                        ### DECLARATIONS ###
+                        ####################
+.COORD                  X Y
+.HIERARCHY              PAGE TEXT WORD
+
+
+

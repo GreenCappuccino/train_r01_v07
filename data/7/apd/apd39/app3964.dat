@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3964.dat
+.SEGMENT WORD 0-3 ? "rush"
+.SEGMENT WORD 4-11 ? "finance"
+.SEGMENT WORD 12-20 ? "completed"
+.SEGMENT WORD 21-28 ? "proposal"

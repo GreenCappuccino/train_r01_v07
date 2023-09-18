@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr353.dat
+.SEGMENT TEXT 0-65 OK "\"I think the $500 million is a little bit of a fire drill,\" said Jim Ednee, head of the industrial bond department at Drexel Burnham Lambert Inc."

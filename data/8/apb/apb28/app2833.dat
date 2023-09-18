@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb28/app2833.dat
+.SEGMENT TEXT 0-30 ? "SALT LAKE SAN LONDON MADRID"

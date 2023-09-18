@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr693.dat
+.SEGMENT TEXT 0-29 OK "Jaguar shares closed at 869 pence, up 122 pence, on hefty turnover of 9.7 million shares."

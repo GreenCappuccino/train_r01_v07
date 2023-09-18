@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd40/app4055.dat
+.SEGMENT WORD 0-5 ? "Sandy"
+.SEGMENT WORD 6-11 ? "Tina"
+.SEGMENT WORD 12-22 ? "Victoria"
+.SEGMENT WORD 23-29 ? "Wendy"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1576.dat
+.SEGMENT TEXT 0-80 ? "39 Madison Way, Apt. #3 48 Market Place 34 W. 57th Street 205 Mariani Ave., 32"

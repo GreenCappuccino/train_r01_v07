@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr555.dat
+.SEGMENT TEXT 0-35 OK "The average of interbank offered rates for dollar deposits in the London market based on quotations at five major banks."

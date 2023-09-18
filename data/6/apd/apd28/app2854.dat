@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd28/app2854.dat
+.SEGMENT WORD 0-9 ? "Honolulu"
+.SEGMENT WORD 10-17 ? "Little"
+.SEGMENT WORD 18-22 ? "Rock"
+.SEGMENT WORD 23-29 ? "Miami"

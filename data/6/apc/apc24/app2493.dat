@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2493.dat
+.SEGMENT WORD 0-5 ? "Columbia"
+.SEGMENT WORD 9-14 ? "Dick"
+.SEGMENT WORD 15-19 ? "Fred"

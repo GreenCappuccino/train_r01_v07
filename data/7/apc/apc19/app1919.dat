@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1919.dat
+.SEGMENT WORD 0-5 ? "you've"
+.SEGMENT WORD 6-8 ? "Al"
+.SEGMENT WORD 9-14 ? "April"
+.SEGMENT WORD 15-20 ? "Billy"

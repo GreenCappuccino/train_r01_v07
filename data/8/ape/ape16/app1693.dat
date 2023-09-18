@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape16/app1693.dat
+.SEGMENT TEXT 0-17 ? "Mrs. Mr. Professor Sgt."

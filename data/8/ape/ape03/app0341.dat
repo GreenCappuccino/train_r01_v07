@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0341.dat
+.SEGMENT TEXT 0-34 ? "Begin project as soon as possible"

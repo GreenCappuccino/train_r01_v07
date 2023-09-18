@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2290.dat
+.SEGMENT WORD 0-3 ? "Ant"
+.SEGMENT WORD 4-10 ? "Aren't"
+.SEGMENT WORD 11-22 ? "Astronomers"
+.SEGMENT WORD 23-29 ? "Author"

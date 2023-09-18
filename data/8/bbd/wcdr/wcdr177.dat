@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr177.dat
+.SEGMENT TEXT 0-89 OK "I mean, these folks are so uptight that they blame pretty Kate for the fact that when she was a teen-ager, someone tied her hands behind her back, thrust her head into a gunny sack, brutally raped and beat her, and then left her to die in a cold-storage room."

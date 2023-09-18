@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22313153.dat
+.SEGMENT WORD 174-178 ? "from"
+.SEGMENT WORD 179-185 ? "command"
+.SEGMENT WORD 186-190 ? "line"
+.SEGMENT WORD 209-210 ? "or"
+.SEGMENT WORD 211-213 ? "use"
+.SEGMENT WORD 214-222 ? "default"
+.SEGMENT WORD 241-244 ? "char"
+.SEGMENT WORD 249-252 ? "name"
+.SEGMENT WORD 255-258 ? "argc"

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape09/app0970.dat
+.SEGMENT WORD 4-5 ? "San"
+.SEGMENT WORD 6-12 ? "Antonio"
+.SEGMENT WORD 13-18 ? "Plaza"
+.SEGMENT WORD 21-24 ? "Gran"
+.SEGMENT WORD 25-30 ? "Square"
+.SEGMENT WORD 34-45 ? "Hollywood"
+.SEGMENT WORD 46-51 ? "Circle"
+.SEGMENT WORD 59-63 ? "Box"

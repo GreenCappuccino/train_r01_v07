@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1717.dat
+.SEGMENT WORD 8-17 ? "Radiator"
+.SEGMENT WORD 18-23 ? "Fresh"
+.SEGMENT WORD 24-29 ? "Clean"
+.SEGMENT WORD 30-37 ? "Family"
+.SEGMENT WORD 38-49 ? "Dentistry"
+.SEGMENT WORD 50-51 ? "De"
+.SEGMENT WORD 52-55 ? "Anza"
+.SEGMENT WORD 56-60 ? "Salon"

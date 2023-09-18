@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr253.dat
+.SEGMENT TEXT 0-43 OK "But with sales growth sluggish and other men's stores putting on the heat, the venerable retailer can no longer afford such a smug attitude."

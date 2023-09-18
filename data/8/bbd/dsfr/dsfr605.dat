@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr605.dat
+.SEGMENT TEXT 0-37 OK "\"It's either going to be a shootout, or there only may be one player in town,\" one person said."

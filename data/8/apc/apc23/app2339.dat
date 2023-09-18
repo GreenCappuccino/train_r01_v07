@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2339.dat
+.SEGMENT TEXT 0-7 ? "gift glue goods grant"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr129.dat
+.SEGMENT TEXT 0-70 OK "Y.J. Park and her family scrimped for four years to buy a tiny apartment here, but found that the closer they got to saving the $40,000 they originally needed, the more the price rose."

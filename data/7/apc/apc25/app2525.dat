@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2525.dat
+.SEGMENT WORD 0-1 ? "Mrs."
+.SEGMENT WORD 2-4 ? "Mr."

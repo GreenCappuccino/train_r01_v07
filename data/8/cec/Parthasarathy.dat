@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Parthasarathy.dat
+.SEGMENT TEXT 59-97 ? "Get in the left lane and follow signs to 33 expressway"
+.SEGMENT TEXT 98-152 ? "Take 33 west and then get on the Thruway going east"
+.SEGMENT TEXT 297-341 ? "The exit joins Audobon Parkway"
+.SEGMENT TEXT 342-406 ? "Quickly turn left before you get to the next traffic light"
+.SEGMENT TEXT 526-566 ? "Make a right turn onto Hamilton Street"
+.SEGMENT TEXT 669-707 ? "It's the last parking lot on the right"

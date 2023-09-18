@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Butsch.dat
+.SEGMENT TEXT 0-50 ? "It is a violation of the copywrite ."
+.SEGMENT TEXT 51-87 ? "A lawsuit would take forever ."
+.SEGMENT TEXT 549-605 ? "Clearly EZ-SOFT is the injured party ."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr135.dat
+.SEGMENT TEXT 0-43 OK "Unfortunately, his mother tickets for a recital by Itzhak Perlman the same night, and she was adamant about his attending."

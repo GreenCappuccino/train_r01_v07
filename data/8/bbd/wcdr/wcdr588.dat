@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr588.dat
+.SEGMENT TEXT 0-64 OK "Ogilvy under the fastidious Mr. Roman gained a reputation as occasionally being high-handed in its treatment of clients, of preaching what strategy a client should -- indeed, must -- follow."

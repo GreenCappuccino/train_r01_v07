@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr755.dat
+.SEGMENT TEXT 0-14 OK "For longer-term CDs, yields were up."

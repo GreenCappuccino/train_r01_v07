@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai1.doc
+.INCLUDE kai/data/kai1/jhjung5.dat
+.SEGMENT WORD 73 OK "Of"
+.SEGMENT WORD 97 OK "Use"
+.SEGMENT WORD 109 OK "Well"
+.SEGMENT WORD 120 OK "Yes"

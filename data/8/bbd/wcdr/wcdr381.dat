@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr381.dat
+.SEGMENT TEXT 0-72 OK "General Electric Co.'s rail-car leasing unit completed the $178.5 million purchase of similar businesses from Leucadia National Corp. and Brae Corp., 74%-owned by Leucadia, the sellers said."

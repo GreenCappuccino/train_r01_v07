@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/word/gsaa/gsaa1794.dat
+.SEGMENT WORD 0 ? "wem"

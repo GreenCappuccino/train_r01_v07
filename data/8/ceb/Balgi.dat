@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Balgi.dat
+.SEGMENT TEXT 0-52 ? "Four pink grapefruits"
+.SEGMENT TEXT 53-71 ? "Zucchinni"
+.SEGMENT TEXT 196-210 ? "Ketchup"
+.SEGMENT TEXT 270-296 ? "frozen pizza"
+.SEGMENT TEXT 461-501 ? "3 Cartons of 2% milk"
+.SEGMENT TEXT 502-542 ? "1 dozzen extra large eggs"

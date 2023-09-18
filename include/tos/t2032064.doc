@@ -1,0 +1,60 @@
+.VERSION 1.0
+.DATA_SOURCE 	 toshiba
+.DATA_ID 	 T2032064
+
+.DATA_CONTACT 	 Name: 		 Yojiro Tonouchi
+		 Affiliation: 	 Toshiba
+				Multimdeia Engineering Lab.
+				AI & Human Interface dept
+		 Address: 	 70 Yanagi-cho, Saiwai-ku, Kawasaki 210, Japan
+		 Phone: 	 +81-44-548-5351
+		 Fax:   	 +81-44-511-3172 (befor Oct. 3 1994)
+				 +81-44-520-5861(after Oct. 3 1994)
+		 Email: 	 tono@cru.mmlab.toshiba.co.jp
+
+.SETUP 		 Site:		 Toshiba corporation
+				 Saiwai-ku, Kawasaki-shi, Japan
+		 Time: 		 1990
+		 Conditions: 	 Supervised recording conditions
+				 People sitting at a desk
+		 Recognizer feedback: no
+		 Writers motivations: 	 Paid
+		 Form layout: 	 Boxes
+
+.DATA_INFO 	 Alphabet: 	 Keyboard ASCII characters (no control char)
+		 Quantity: 	 About 20,000 characters
+		 Quality: 	 no cleaning
+		 Number of writer(s): about 400
+		 Writing style:  printed
+		 Segmentation:   Characters written in boxes.
+
+.PAD 		 Machine name: 	 WACOM ID640
+		 Sensor: 	 Electromagnetic resonance sensor
+		 Display: 	 Backlit LCD
+				 Matrix 640x400 points
+				 black on white
+		 Sampling rate:	 0.005000sec
+		 Resolution:	 0.100000mm
+		 Width:		 211.17mm
+		 Height:	 131.97mm
+
+.ALPHABET 	 "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		 "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		 "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+		 "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		 "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		 "~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+" 
+		 "=" "|" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">" 
+		 "," "." ";" "'" "`" "_" " " 
+
+.COMMENT 	 backslush("\\") is not here
+
+.COORD X Y
+.HIERARCHY CHARACTER
+
+.X_DIM 207
+.Y_DIM 208
+
+.X_POINTS_PER_MM 10
+.Y_POINTS_PER_MM 10
+.POINTS_PER_SECOND 200

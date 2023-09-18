@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl126.dat
+.SEGMENT TEXT 0-30 OK "We had intercepted during the year an estimated $5 billion street value of cocaine."

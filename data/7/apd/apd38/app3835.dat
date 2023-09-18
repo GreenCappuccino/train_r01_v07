@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3835.dat
+.SEGMENT WORD 0-4 ? "literature"
+.SEGMENT WORD 5 ? "lock"
+.SEGMENT WORD 6 ? "lord"
+.SEGMENT WORD 7-8 ? "magic"

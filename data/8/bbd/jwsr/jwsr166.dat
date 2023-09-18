@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr166.dat
+.SEGMENT TEXT 0-31 OK "cilcorp said the businesses to be acquired had revenue of $76 million for the year ended march 31."

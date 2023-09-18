@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr121.dat
+.SEGMENT TEXT 0-72 OK "Although an Imperial spokesman said the company hadn't yet been served with the derivative suit, he reiterated the company's statement that it would vigorously defend itself against the class-action suit."

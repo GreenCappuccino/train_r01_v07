@@ -1,0 +1,72 @@
+.VERSION 1.0
+
+.DATA_SOURCE    University_of_Genoa_-_DIST
+.DATA_ID        ugi0
+
+.ALPHABET       "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+
+.HIERARCHY      WORD
+
+.COMMENT #####################
+	 ### DOCUMENTATION ###
+	 #####################
+
+.DATA_CONTACT 
+	 Name: Luigi Barberis
+	 Affiliation: University of Genoa - DIST / Pentech Associates
+	 Address: Via Opera Pia 13, 16145 Genova, Italy    
+	 Phone: +39 10 3532801 
+	 Fax:   +39 10 3532948
+	 Email: jjd@dist.dist.unige.it
+
+.SETUP   Site:  DIST - Genoa, Italy  
+	 Time: 6.09.94
+ 	 Writer motivation: volunteer
+	 Writer physical position: sitten, looking at the opaque tablet 
+	 Instructions given to the writer: none
+	 Duration of one session: about 20 minutes
+	 Recognizer feedback: no
+ 
+.DATA_INFO    
+	 Alphabet: lower case letters, from an English keyboard
+	 Quantity: 404 words, over 1200 characters
+	 Quality: raw data, no cleaning
+	 Number of Writer(s): 1
+	 Writing Style: cursive
+	 Segmentation: single words
+
+.PAD     Machine name: Acecat 5"x5" graphics tablet
+	 Brand: Acecad
+	 Type: 5x5 Tablet Version 1.01
+	 Serial Nr.: 015 0019122
+	 Sensor: electromagnetic
+	 Pen: tethered pen, tip switch and button; tip switch used for pen up/down determination
+	 Driver: Microsoft Mouse emulation driver under MS Windows, plus
+	  	a custom-made routine named SamplesFromMouse
+	 Sampling mode: sampling related to mouse events (button-down,
+		button-up, mouse move) under MS Windows 3.1, Borland C/C++ 3.1
+	 Sampling rate: 70 Hz, when system tracks mouse movements.
+	 Resolution:    1000 points per inch
+	 Accuracy:      +/- 0.01 inches
+	 Width:         5 inches
+	 Height:        5 inches
+	 Display: PC SVGA 14" Monitor 256 Colors, matrix 800x600 points.
+		The writer looked at this PC screen
+	 Inking:  Graphically emulated, black on white, 1 pixel thick
+
+.COMMENT #####################
+	 ###  DATA LAYOUT  ###
+	 #####################
+
+.X_DIM   700
+.Y_DIM   200
+
+.COMMENT #####################
+	 ###  UNIT SYSTEM  ###
+	 #####################
+
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 70
+.COORD             X Y

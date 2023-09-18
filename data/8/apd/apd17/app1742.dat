@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1742.dat
+.SEGMENT TEXT 0-21 ? "Since each person involved agrees they'll go to the restaurant"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr888.dat
+.SEGMENT TEXT 0-30 OK "In Singapore, per-capita consumption is about one-third that of the U.S."

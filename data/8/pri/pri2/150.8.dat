@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/150.8.dat
+.SEGMENT TEXT 0-88 ? "If that's so, it isn't going to hurt American manufacturing much."

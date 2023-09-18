@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/ajcr/ajcr129.dat
+.SEGMENT TEXT 0-31 OK "In some of the experiments, it killed almost all the infected cells, the researchers said."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0764.dat
+.SEGMENT WORD 0-2 ? "important"
+.SEGMENT WORD 3-4 ? "inn"
+.SEGMENT WORD 5-8 ? "instance"
+.SEGMENT WORD 9-11 ? "icy"

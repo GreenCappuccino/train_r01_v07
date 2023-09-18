@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0874.dat
+.SEGMENT WORD 0-6 ? "Pacific"
+.SEGMENT WORD 7-14 ? "Mortgage"
+.SEGMENT WORD 15-20 ? "Seville"
+.SEGMENT WORD 21-28 ? "Properties"
+.SEGMENT WORD 37-39 ? "JVC"

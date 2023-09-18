@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr339.dat
+.SEGMENT TEXT 0-44 OK "The benchmark 30-year bond was nearly 1/4 point higher, or up about $2.50 for each $1,000 face amount."

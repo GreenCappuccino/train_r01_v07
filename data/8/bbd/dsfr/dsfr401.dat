@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr401.dat
+.SEGMENT TEXT 0-52 OK "But there have been problems with chemical sprays damaging plants' female reproductive organs and concern for the toxicity of such chemical sprays to humans, animals and beneficial insects."

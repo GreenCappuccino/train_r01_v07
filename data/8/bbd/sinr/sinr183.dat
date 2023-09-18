@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr183.dat
+.SEGMENT TEXT 0-54 OK "Bausch & Lomb Inc. said it plans to introduce next year a new line of sunglasses containing melanin, the pigment that protects against damage from ultraviolet rays."

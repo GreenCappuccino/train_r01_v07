@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2473.dat
+.SEGMENT TEXT 0-7 ? "been bound brilliant"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr103.dat
+.SEGMENT TEXT 0-68 OK "Exxon's earnings from chemicals operations fell $90 million, to $254 million, while refining and marketing profits declined $180 million, to $357 million."

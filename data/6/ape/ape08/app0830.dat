@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0830.dat
+.SEGMENT WORD 0-7 ? "Dinner"
+.SEGMENT WORD 8-10 ? "at"
+.SEGMENT WORD 19-23 ? "Palo"
+.SEGMENT WORD 24-29 ? "Alto"

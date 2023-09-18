@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr158.dat
+.SEGMENT TEXT 0-58 OK "Spanish stock exchange regulators plan to hand Drexel Burnham Lambert Inc. the maximum fine for irregularities by its former Madrid unit in connection with Spanish oil company"

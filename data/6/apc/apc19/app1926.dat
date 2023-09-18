@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1926.dat
+.SEGMENT WORD 0-4 ? "Could"
+.SEGMENT WORD 5-13 ? "Consist"
+.SEGMENT WORD 14-21 ? "Laughter"
+.SEGMENT WORD 22-25 ? "Does"

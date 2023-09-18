@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1911454.dat
+.SEGMENT WORD 37-38 ? "if"
+.SEGMENT WORD 40-42 ? "krud"
+.SEGMENT WORD 153-155 ? "Bad"
+.SEGMENT WORD 156-159 ? "input"
+.SEGMENT WORD 161-161 ? "n"
+.SEGMENT WORD 186-191 ? "exit"
+.SEGMENT WORD 202-207 ? "elif"

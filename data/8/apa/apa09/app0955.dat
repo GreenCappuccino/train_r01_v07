@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa09/app0955.dat
+.SEGMENT TEXT 0-16 ? "the mock jury box"

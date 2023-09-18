@@ -1,0 +1,129 @@
+.VERSION 1.0
+.COMMENT #################################################################
+	 # 								   #
+	 #    Hewlett Packard Laboratories, Bristol, variability dataset   #
+	 # 								   #
+	 ################################################################
+
+.DATA_SOURCE 	Hewlett Packard Laboratories
+.DATA_ID 	hpb4
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" "\ "
+
+.ALPHABET_FREQ  1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1
+
+.HIERARCHY      TEXT
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+         #####################
+
+.DATA_CONTACT 
+         Name:        	Dave Reynolds
+         Affiliation: 	Hewlett Packard Laboratories
+         Address:     	Filton Road,
+			Stoke Gifford,
+			Bristol, BS12 6QZ, UK
+         Phone: 	+44-272-228165
+         Fax:   	+44-272-228128
+			(Area code will change to 1179 in April 95)
+         Email: 	der@hplb.hpl.hp.com
+
+.SETUP   Site:  	Unversity of the West of Englang
+         Time:  	Dec 1993 - May 1994
+	 Writer population:	University staff and students
+	 Writer motivation:     Small fee to encourage volunteers
+         Writer physical position:	Sitting at desk.
+	 Instructions given to the writer:
+		Copy isolated word or multi-word name as prompted on screen
+		at natural writing pace and style (no special neatness
+		requested).
+		Donors had ok/cancel buttons to validate their own input.
+	 Recognizer feedback: No.
+         Form layout:  Single plain box, no guidelines.
+
+.DATA_INFO    
+	 Set type: Variability experiments
+	 Alphabet: English keyboard alphanumerics and minimal punctuation.
+         Lexicon:  Proper names and acronymic abbreviations as might appear
+         	   in a personal phone list.
+         Label distribution: 
+         Quantity: 200 words (or multi word names) per instance
+         Quality:  Self validation by writer. Post validation of instances A,
+                   B, C (but not, yet, D) by separate annotator.
+         Number of Writer(s): 25
+         Writing Style: Natural - thus mixed, print and cursive stylse
+         Segmentation: No further segmentation
+  	 Note 1:
+		The purpose of this data is to study writer variability. Two
+		instances were collected on one day and further repeats after
+		1 week and then 5 months were collected. 
+		To reflect this is the UNIPEN format data we have used the
+		file name convention:  hpb4Xwww.dat. Where www is the writer
+		id and X is 1, 2, 3, 5 to indicate first instance, second
+		instance (after 1 hour), third instance (after 1 week) and
+		final instance (after 5 months).
+	Note 2:
+		Most problem instances detected by the post annotation phase
+		are small ink drop outs rather than complete illegibility. We
+		thus used the ? rather than BAD segment label for these cases.
+ 	Note 3:
+		This data is low (screen) resolution. This was deliberate and
+		reflects the real application context for our work. Our
+		published results show that this resolution (and the noise on
+		the sampling interval) do not significantly affect our
+		ability to perform matching on such handwriting. Early
+		experiments with commercial recognisers shows that the
+		reduced resolution has negligable effect on recognition as
+		well.
+
+.PAD     Machine name: 	Wacom PL100-V
+	 Brand:		Wacom
+	 Type:		PC-100V
+	 Serial Nr.:	?
+         Sensor:	Electromagnetic, wireless pen
+         Pen:		Untethered inking pen, tip switch, ball point refill
+			Tip switch used for pen up/down sensing.
+         Driver:	Custom driver which uses standard Wacom mouse
+		        emulator driver and captures pen movements using
+		        Windows mouse move events.
+         		N.B. This results in low (screen) resolution data
+         		with some in accuracies in timing but see above note3. 
+	 Sampling mode: Equi-time sampling (with some noise) during pen down.
+	 Sampling rate: 100 [Hz]
+	 Resolution:	0.3mm
+	 Accuracy:	.1  [mm]
+	 Width:		192 [mm]
+	 Height:	153 [mm]
+         Display:	Wacom PL-100V backlit LCD screen (VGA, 640x480).
+	 Inking:	Graphically emulated, black on white, 1 pixel thick.
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+.X_DIM   600
+.Y_DIM   480
+
+.COMMENT #####################
+         ###  UNIT SYSTEM  ###
+         #####################
+
+.X_POINTS_PER_INCH 84
+.Y_POINTS_PER_INCH 84
+.POINTS_PER_SECOND 100
+.COORD             X Y

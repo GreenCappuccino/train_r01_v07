@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1826.dat
+.SEGMENT WORD 0-6 ? "Truth"
+.SEGMENT WORD 7-14 ? "Through"
+.SEGMENT WORD 15-16 ? "Up"
+.SEGMENT WORD 17-24 ? "United"

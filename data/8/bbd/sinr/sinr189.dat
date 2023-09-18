@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr189.dat
+.SEGMENT TEXT 0-33 OK "La Jolla is the parent company of La Jolla Bank & Trust Co., which has 12 branches in San Diego County."

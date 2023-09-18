@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0242.dat
+.SEGMENT TEXT 0-8 ? "RI NJ MO PA"

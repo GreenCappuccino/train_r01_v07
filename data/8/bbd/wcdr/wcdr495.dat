@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr495.dat
+.SEGMENT TEXT 0-36 OK "He figures Akzo is likely to be one of the few major chemical companies to show profit growth next year."

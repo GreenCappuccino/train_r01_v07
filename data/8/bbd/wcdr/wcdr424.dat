@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr424.dat
+.SEGMENT TEXT 0-62 OK "\"There is absolutely no way our board or membership would have approved the portrayal of the Hells Angels in this movie,\" said George Christie, president of the club's Ventura chapter."

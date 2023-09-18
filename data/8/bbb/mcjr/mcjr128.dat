@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr128.dat
+.SEGMENT TEXT 0-21 OK "They say its possible some of their members may be donating privately."

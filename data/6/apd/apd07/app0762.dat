@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0762.dat
+.SEGMENT WORD 0 ? "had"
+.SEGMENT WORD 1 ? "heavy"
+.SEGMENT WORD 2 ? "her"
+.SEGMENT WORD 3-4 ? "hill"

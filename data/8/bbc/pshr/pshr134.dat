@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr134.dat
+.SEGMENT TEXT 0-75 OK "Pinnacle West Capital, whose earnings have been hurt by continued problems at its MeraBank unit, fell 1 5/8 to 9 1/8 on 2.1 million shares to lead the Big Board's list most active issues."

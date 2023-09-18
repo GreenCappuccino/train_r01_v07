@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr114.dat
+.SEGMENT TEXT 0-58 OK "This year, it has moved to cut costs in its newspaper division through layoffs and asset sales, while reaching joint venture and acquisition agreements in other areas."

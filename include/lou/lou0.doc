@@ -1,0 +1,285 @@
+.VERSION 1.0
+
+.COMMENT                ###############################################
+                        ### DOCUMENTATION FILE of the lou0 LEARNSET ###
+                        ###############################################
+
+.DATA_SOURCE  UCL
+
+.DATA_ID      lou0
+
+.DATA_CONTACT Name : Jean-Luc Voz, Jean-Didier Legat
+              Affiliation : Universite Catholique de Louvain
+                            Microelectronics Laboratory
+              Address : Place du Levant 3, B-1348 Louvain-La-Neuve, Belgium
+              Phone : +32.10.47.25.40 +32.10.47.25.51
+              Fax   : +32.10.47.86.67
+              Email : voz@dice.ucl.ac.be, jdl@dice.ucl.ac.be
+
+
+.DATA_INFO      Set type:    This database has been designed mainly for 
+                             the learning. 
+
+                Alphabet:       English keyboard alphanumerics and symbols
+                                from the ASCII set.
+
+                                Thus: latin alphabet uppercase, lowercase, 
+                                digits(few) and symbols: "-", ".", "'".
+                                See the .ALPHABET and .ALPHABET_FREQ here
+                                below.
+
+                Lexicon: This database contains two different dataset:
+
+                    1.  The first one, segmented at the character level
+                        contains the 65 symbols present in the used
+                        alphabet.  These characters where presented one
+                        by one to the seven writers in a random order.
+                        They were asked to write them in a natural way,
+                        but with the same writing style as the one it
+                        would have if the letters were written inside a
+                        word.  This first dataset corresponds to the
+                        seven "ff_ll_c.dat" files, where ff are the
+                        initials of the writer's first name and ll the
+                        initials of its last name.
+
+                    2.  The second dataset, corresponding to the seven
+                        "ff_ll_w.dat" files contains 425 words (2608
+                        characters) chosen to build an efficient
+                        learnset, containing the greatest number of
+                        different within-writer writing style by letter
+                        (for a same writer, the writing style of a
+                        letter inside a word is most of the time
+                        dependant of the word context, i.e. mainly the
+                        preceding and following letter in the word).
+
+            This second learnset was build from the 83500 words of the
+            english dictionary provided with the ispell interactive
+            spelling checker version 3.1 (Copyright 1992, 1993, Geoff
+            Kuenning, Granada Hills, CA).  This version of ispell is
+            available for anonymous ftp from ftp.cs.ucla.edu
+            (131.179.128.34) or ftp.math.orst.edu (128.193.80.160), in
+            the pub/ispell-3.1 directory.
+
+
+            The words of the second dataset were chosen to respect the 
+            following constraints:
+
+                - Every symbol of the 65 character alphabet (less the 0
+                  to 9 digits) had to appear at least once in the
+                  dataset  (uppercase letters having to appear at the
+                  first position of a word.
+
+                - Every pair of lowercase letters appearing in at least
+                  15 words of the 83500 words ispell dictionary must
+                  appear at least once.  According to this constraint,
+                  526 pairs of lowercases on the 676 (26x26) possible
+                  are present in the dataset; the remaining 150
+                  combinaisons (like "qw" "qx" "qy" "qz" "rx",...) are
+                  not present.
+
+                - Every pair of an uppercase prededing a lowercase at
+                  the beginning of at least 15 words of the 83500 words
+                  ispell dictionary must appear at least once (keeping
+                  in mind that every common noun may begin with an
+                  uppercase).  According to this constraint, 235 pairs
+                  of an uppercase prededing a lowercase at the
+                  beginning of a word are present in the dataset; the
+                  remaining 441 combinaison (like "Ft", "Bs", "Qk",...)
+                  are not present.
+
+                - The number of words in de dataset had to be
+                  mimimized.
+
+            The 425 words dataset was build after an exhaustive search
+            combined with a size minimization procedure. It contains
+            commonly used words like "Erase", "Me", "exact","Usable",
+            ...; but also less common words which were present in the
+            dictionary ("Rijn", "Cedar", "Emacs", "czarism", "McAdams",
+            "Rajput", ...).
+
+            See the lou0.lex file for more information.
+
+ 
+                                        
+                Quantity:       The character dataset contains 65 isolated
+                                characters while the words dataset contains 
+                                425 isolated words (2608 characters).
+                                The present database contains the two 
+                                datasets written by seven different writers.
+
+                                Thus 455 isolated characters and 2975 isolated 
+                                words (18256 characters).
+
+                THERE IS ONE FILE PER DATASET: "ff_ll_c.dat" FOR THE 65     
+                CHARACTERS DATASET AND "ff_ll_w.dat" FOR THE 425 WORDS DATASET.
+                WHERE ff CORRESPONDS TO THE INITIALS OF THE WRITER'S FIRST
+                NAME, ll TO THE INITIALS OF ITS LAST NAME AND NN is A NUMBER 
+                (WHEN THE SAME WRITER WROTE THE TEXT MORE THAN ONCE)
+
+
+                Quality:        Writers were asked to rewrite 
+                                each scratched or too bad-written words.
+                                Each word was double checked and 
+                                the legibility was checked by a different
+                                person than the writer.
+                                
+                Number of writers: 7 They have all written the two datasets
+                                     only one time.
+                                     The seven different writers have also 
+                                     written the "lou1" testset.
+                                     
+                Writing style:  Natural (no constraint).
+                                Thus Mixed Cursive, Discrete, Run-on Discrete
+                                and printed (for uppercase words and digits).
+
+                Segmentation:   For the words dataset, words were written 
+                                in one box, one by one.
+                                For the characters dataset, characters were 
+                                written in one box, one by one.
+                                 
+
+
+.ALPHABET       "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+                "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+                "~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+                "=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+                "," "." ";" "'" "`" "_" " "
+
+.ALPHABET_FREQ  1   1   1   1   1   1   1   1   1   1
+                26  10  11  9   22  8   11  8   13  6   12  8   8
+                8   21  13  2   7   17  12  9   6   7   3   5   5
+                303 89  109 93  232 49  51  69  136 16  56  134 60
+                140 156 46  16  141 98  110 104 27  42  20  69  24
+                0   0   0   0   0   0   0   0   0   0   0   2   0
+                0   0   0   0   0   0   0   0   0   0   0   0   0
+                0   2   0   2   0   0   0
+
+
+.SETUP          Site:           Microelectronics Laboratory, 
+                                Office a134 (the best).
+
+                Time:           May, Augustus and September 1994.
+
+                Writer population: Members of the laboratory, 
+                                   students working in the area of
+                                   Character Recognition.
+
+                Writers motivation: volunteer.
+
+                Conditions:     Supervised recording conditions.
+
+                                The different words and characters
+                                were proposed one by one.       
+                                No time constraint.
+
+                                Writers were first trained on about
+                                60 words before the creation of the database.
+
+                                Writers were asked to rewrite 
+                                each scratched or too bad-written words.
+
+                Writer physical position: People sitting at a desk with 
+                                the screen of the Macintosh at about 
+                                0.5 meter.
+                                People were asked to take the more
+                                comfortable position for the writing
+                                on the tablet.
+
+                Duration of one session: About one hour.
+
+                Recognizer feedback:    no 
+
+          
+                Form layout:    Window with 
+                                A 74x330 box with a dashed baseline
+                                  at 2/3 from the top (to help the writer).
+                                A box to indicate the word to write.  
+                                Buttons CLEAR (if the writing of a word 
+                                was bad) and NEXT (for the presentation 
+                                and the writing of the next word)
+                                A slider to check the database or move
+                                into it. Home-made interface, see the
+                                postcript "layout.eps" document for more 
+                                info.
+
+
+
+.PAD                    Machine name:   CIC-MacHandwriter (CalComp digitizer 
+                                        connected to a Macintosh IICi).
+
+                        Brand:          Calcomp
+
+                        Model Nr.:      31090A
+
+                        Serial Nr.:     034CA2818
+
+                        Sensor:         Electromagnetic, wireless pen.
+
+                        Pen:            Untethered Pen, tip switch and 
+                                        side button.
+                                        Tip switch used for PenUp/PenDown 
+                                        determination.
+
+                        Driver:         UCL-made MAC driver and interface
+                                        using the "Position", "Ink" and "Pen"
+                                        extentions provided with the 
+                                        CIC-MacHandwriter. 
+
+                        Sampling mode:  Time-equidistant sampling between 
+                                        .PEN_DOWN and .PEN_UP.
+
+                        Algorithm:      while(word){
+                                           when(PEN_DOWN){
+                                              store(".PEN_DOWN");
+                                              while(PEN_DOWN){
+                                                 store (X and Y) every 8ms ;
+                                                 }
+                                              store(".PEN_UP");
+                                              }
+                                            }
+
+                        Sample rate:       125            [Hz]
+                        Resolution:        80             [points/inch]
+                        Width:             202            [mm]
+                        Height:            152            [mm]
+
+
+
+                        Display:        Macintosh's screen:
+                                        Apple monitor
+                                        640x480 points
+                                        72 pixels per inch.
+
+                        Inking:         black on white; 1 pixel thick.
+
+
+
+.COMMENT        Elapsed time measured when pen was immobile or out 
+                of proximity of the pad sensors were not recorded.
+                Thus no .DT information.
+                No data was recorded when the pen was in the up positions.
+
+
+.COMMENT                ###################
+                        ### DATA LAYOUT ###
+                        ###################
+
+.X_DIM                  330
+.Y_DIM                  74
+.H_LINE                 25
+
+
+.COMMENT                ###################
+                        ### UNIT SYSTEM ###
+                        ###################
+
+        
+.X_POINTS_PER_INCH      80
+.Y_POINTS_PER_INCH      80
+.POINTS_PER_SECOND      125
+.COORD                  X Y
+
+

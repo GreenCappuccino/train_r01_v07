@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr140.dat
+.SEGMENT TEXT 0-38 OK "The result is that those rich enough to own any real estate at all have boosted their holdings substantially."

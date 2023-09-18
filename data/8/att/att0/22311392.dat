@@ -1,0 +1,17 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22311392.dat
+.SEGMENT TEXT 27-31 ? "sprintf ( que ,"
+.SEGMENT TEXT 37-53 ? "\" % s / % s \" , Mailqdir ,"
+.SEGMENT TEXT 54-69 ? "\" % s / % s \" , Mailqdir ,"
+.SEGMENT TEXT 118-137 ? "\" % s / % s \" , TMailqdir ,"
+.SEGMENT TEXT 145-151 ? "buffer ) ; } / *"
+.SEGMENT TEXT 169-174 ? "* cdate ( clock )"
+.SEGMENT TEXT 182-185 ? "register long"
+.SEGMENT TEXT 186-189 ? "register long"
+.SEGMENT TEXT 190-196 ? "* clock ; { char"
+.SEGMENT TEXT 203-213 ? "* cp ; cp = ctime"
+.SEGMENT TEXT 214-223 ? "* cp ; cp = ctime"
+.SEGMENT TEXT 267-278 ? "= cp [ 9 ] ; cp [ 3 ]"
+.SEGMENT TEXT 307-321 ? "= ' - ' ; cp [ 7 ] ="

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr326.dat
+.SEGMENT TEXT 0-38 OK "In late trading on London's Stock Exchange Friday, TVS shares rose four pence to 195 pence a share."

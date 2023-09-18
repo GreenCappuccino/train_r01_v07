@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0760.dat
+.SEGMENT WORD 0-1 ? "frontier"
+.SEGMENT WORD 2 ? "gang"
+.SEGMENT WORD 3-6 ? "gentlemen"
+.SEGMENT WORD 7-9 ? "giant"

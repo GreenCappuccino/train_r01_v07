@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0516.dat
+.SEGMENT TEXT 0-53 ? "Sr. Engineer Manager Sales Representative CEO"

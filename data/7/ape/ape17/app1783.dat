@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1783.dat
+.SEGMENT WORD 0-8 ? "Thorton"
+.SEGMENT WORD 9-19 ? "Wilkinson"
+.SEGMENT WORD 20-26 ? "York"
+.SEGMENT WORD 27-32 ? "Zimmer"

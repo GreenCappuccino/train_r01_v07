@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0572.dat
+.SEGMENT WORD 0-3 ? "John"
+.SEGMENT WORD 9-15 ? "Chief"
+.SEGMENT WORD 16-26 ? "Financial"
+.SEGMENT WORD 39-44 ? "May"

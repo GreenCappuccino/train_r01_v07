@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr467.dat
+.SEGMENT TEXT 0-57 OK "The point of this 1955 novel, which spawned two movies, is that the soulless pod people replicated by alien plants are virtually indistinguishable from human folks."

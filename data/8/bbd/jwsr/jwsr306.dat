@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr306.dat
+.SEGMENT TEXT 0-62 OK "Eastern Airlines pilots were awarded between $60 million and $100 million in back pay by an arbitrator, a decision that could complicate the carrier's bankruptcy reorganization."

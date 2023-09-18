@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1113.dat
+.SEGMENT WORD 0-1 ? "in"
+.SEGMENT WORD 2-6 ? "industrial"
+.SEGMENT WORD 7-10 ? "invite"
+.SEGMENT WORD 11-12 ? "iron"

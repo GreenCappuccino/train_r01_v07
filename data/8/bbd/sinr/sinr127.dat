@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr127.dat
+.SEGMENT TEXT 0-20 OK "It's expected to produce about 62,000 barrels per day."

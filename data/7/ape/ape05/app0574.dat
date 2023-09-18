@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0574.dat
+.SEGMENT WORD 0-11 ? "March"
+.SEGMENT WORD 12-13 ? "21"
+.SEGMENT WORD 14-19 ? "marks"
+.SEGMENT WORD 20-21 ? "the"
+.SEGMENT WORD 22-31 ? "beginning"
+.SEGMENT WORD 32-34 ? "of"
+.SEGMENT WORD 35-40 ? "Spring"

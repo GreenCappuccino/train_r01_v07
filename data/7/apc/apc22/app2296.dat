@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2296.dat
+.SEGMENT WORD 0-4 ? "flying"
+.SEGMENT WORD 5 ? "to"
+.SEGMENT WORD 6-9 ? "Boston"
+.SEGMENT WORD 10-12 ? "this"
+.SEGMENT WORD 13-17 ? "week:"
+.SEGMENT WORD 18-21 ? "make"
+.SEGMENT WORD 22-28 ? "preparations"
+.SEGMENT WORD 29-31 ? "reserve"
+.SEGMENT WORD 32-34 ? "hotel"

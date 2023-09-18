@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr107.dat
+.SEGMENT TEXT 0-52 OK "Pushing the issue on legislation needed to avoid default by the federal government, he told reporters, \"doesn't seem to be very good strategy to me.\""

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0522.dat
+.SEGMENT WORD 0-7 ? "Blue"
+.SEGMENT WORD 8-16 ? "Springs"
+.SEGMENT WORD 17-25 ? "Cedar"
+.SEGMENT WORD 26-32 ? "Falls"
+.SEGMENT WORD 33-38 ? "Coral"
+.SEGMENT WORD 39-45 ? "Gables"
+.SEGMENT WORD 46-54 ? "Santa"
+.SEGMENT WORD 55-59 ? "Cruz"

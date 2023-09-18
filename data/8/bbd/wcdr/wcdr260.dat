@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr260.dat
+.SEGMENT TEXT 0-47 OK "As part of its national ad pitch, Brooks Brothers will show less preppy women's clothes, moving away from its floppy-tie business stereotype."

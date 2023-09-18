@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr109.dat
+.SEGMENT TEXT 0-57 OK "Possible bidders include Christopher Ondaatje, a Toronto financier and vice chairman of Hees International Bancorp Inc., a holding company controlled by Toronto's Bronfman family."

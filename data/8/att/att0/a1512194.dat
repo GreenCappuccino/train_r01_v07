@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1512194.dat
+.SEGMENT TEXT 0-22 ? "if ( ! fp ) exit ( 1 ) ;"
+.SEGMENT TEXT 97-119 ? "network descriptor :"
+.SEGMENT TEXT 154-170 ? "in the weights ,"
+.SEGMENT TEXT 171-187 ? "in the weights ,"

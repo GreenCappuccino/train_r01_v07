@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa01/app0159.dat
+.SEGMENT TEXT 0-31 ? "If My Name = \"Your Friend,\""

@@ -1,0 +1,21 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Asundi.dat
+.SEGMENT TEXT 43-77 ? "Could the person return the proceedings ."
+.SEGMENT TEXT 121-145 ? "I have one that seems to work fine ."
+.SEGMENT TEXT 228-290 ? "Did anyone get a copy of the transperencies from their talk this morning ."
+.SEGMENT TEXT 291-307 ? "If so can I make a copy ."
+.SEGMENT TEXT 308-354 ? "I got our plane tickets in the mail about a week ago ."
+.SEGMENT TEXT 355-415 ? "I've been carrying your's around with me since and kepp forgetting to let you know ."
+.SEGMENT TEXT 416-458 ? "I'm so lazy and easily distracted these days ."
+.SEGMENT TEXT 459-485 ? "Do you want to get them from me ."
+.SEGMENT TEXT 486-542 ? "I'll be in my office this a.m. and on and off in the afternoon ."
+.SEGMENT TEXT 543-593 ? "Or let me know when you'll be in your office and I'll drop them off okay ."
+.SEGMENT TEXT 594-646 ? "Is the new journal ready yet. The one with Charlotte's new question ."
+.SEGMENT TEXT 692-732 ? "Let me know when the journal and training data are ready ."
+.SEGMENT TEXT 901-939 ? "It is also a good break for little David ."
+.SEGMENT TEXT 940-986 ? "He keeps Zipping in and out of the house all the time ."
+.SEGMENT TEXT 987-1015 ? "The month has gone by very quickly ."
+.SEGMENT TEXT 1016-1064 ? "I just can't believe that we need to head home this very weekend ."
+.SEGMENT TEXT 1153-1195 ? "Did you want us to get you anything special ."

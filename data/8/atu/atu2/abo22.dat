@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu2/abo22.dat
+.SEGMENT TEXT 0 ? "Peter und Gaby fahren Motorrad"

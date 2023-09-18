@@ -1,0 +1,91 @@
+.VERSION 1.0
+
+.DATA_SOURCE IBM Hawthorne, New York
+.DATA_ID     ibm0
+
+.COMMENT Alphabet is empirically determined from data.
+
+.ALPHABET "!" """ "#" "$" "%" "'" "(" ")" "*" "+" "," "-" 
+          "." "/" "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+          ":" ";" "<" "=" ">" "?" "A" "B" "C" "D" "E" "F" 
+          "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" 
+          "S" "T" "U" "V" "W" "X" "Y" "Z" "a" "b" "c" "d" 
+          "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" 
+          "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+
+.ALPHABET_FREQ 812 1279 876 809 1135 1014 857 809 855 737 759 1253 
+               1780 808 2079 1619 1828 1663 1713 1649 1719 1589 1695 1641 
+               921 955 661 640 651 754 2544 859 1299 1281 4470 1023 
+               771 1437 3259 1017 1203 1574 1142 2332 3747 1322 790 2260 
+               2421 2164 1572 889 844 829 1381 799 2193 991 1170 1037 
+               3986 1084 765 1040 3323 949 1245 1732 1042 2031 3431 1302 
+               683 1972 2533 2309 1663 822 808 798 1236 862 
+.COMMENT Total characters in database: 68000. 82 character classes.
+
+.DATA_CONTACT
+         Name:		Andrew W. Senior
+         Affiliation:	IBM T. J. Watson Research Center
+         Address:	30 Saw Mill River Rd. Hawthorne, NY 10532
+         Phone:		(914) 784-7701
+         Fax:		(914) 784-6534
+         Email:		aws@watson.ibm.com
+
+.HIERARCHY      CHARACTER
+
+.SETUP   Site: IBM 
+         Time: 1991
+         Writer population: 10 Right Handed + 2 LH fluent readers & writers
+         Writer population: Inexperienced with recognition systems
+         Writer motivation: Paid external volunteers.
+         Writer physical position: sitting
+         Instructions given to the writer: 
+         Duration of one session: 
+         Number of sessions: three per writer
+         Recognizer feedback: In some trials
+         Form layout: 
+
+.DATA_INFO
+         Set type: training or test
+         Alphabet: English keyboard alphanumerics & symbols
+         Lexicon:
+         Label distribution:
+         Quantity: see comment below.
+         Quality: some cleaning
+         Number of Writer(s): 12
+         Writing Style: printed
+         Segmentation: by character
+
+.COMMENT See study in Proceedings of the Human Factors Society
+         35th Annual Meeting. September 1991 volume1 pp359--363
+         Catharine G. Wolf, Andrea R Glasser and Tetsu Fujisaki
+         "An Evaluation of Recognition Accuracy for Discrete and 
+         Run-on Writing.
+ 
+
+.PAD     Machine name: Photron
+         Brand:        IBM
+         Type:         FIOS-6440 
+         Serial Nr.:
+         Sensor:       OSCON Type III electromagnetic induction method.
+         Proximity:    1mm for guaranteed accuracy.
+         Pen:          
+         Driver:       
+         Sampling mode: while pen down
+         Sampling rate: 25/50/100 switchable
+         Resolution:      0.1mm
+         Accuracy:        0.3mm
+         Width:         217.5mm    
+         Height:        140.0mm    
+         Display:       640x400 VGA back-lit LCD
+         Inking:        software?
+
+.X_POINTS_PER_INCH 200
+.Y_POINTS_PER_INCH 200
+.POINTS_PER_SECOND  70
+.COORD             X Y
+
+.COMMENT     Dimensions are empirically determined.
+           Minimum x,y coords observed were 0,0.
+
+.X_DIM     9386
+.Y_DIM     12515

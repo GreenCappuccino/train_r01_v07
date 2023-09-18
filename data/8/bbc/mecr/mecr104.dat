@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr104.dat
+.SEGMENT TEXT 0-53 OK "That unease is expected to grow today when the government reports on September durable goods orders and again Thursday when the first assessment of third-quarter economic growth is released."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr608.dat
+.SEGMENT TEXT 0-53 OK "The statement emphasized that holders representing 75% of the shares voting at a special shareholders' meeting must agree to lift the takeover restrictions."

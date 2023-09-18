@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb05/app0541.dat
+.SEGMENT TEXT 0-45 ? "Blue Springs Cedar Falls Coral Gables Santa Cruz"

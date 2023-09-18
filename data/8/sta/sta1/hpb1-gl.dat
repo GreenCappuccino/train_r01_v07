@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-gl.dat
+.SEGMENT TEXT 0-27 OK "The grass has a sweet smell"
+.SEGMENT TEXT 58-71 OK "Give me your arm"
+.SEGMENT TEXT 72-111 OK "Is that a house on the island ?"
+.SEGMENT TEXT 112-133 OK "No one will see them ."
+.SEGMENT TEXT 134-195 OK "He seems to have so little in common with us ."
+.SEGMENT TEXT 196-249 OK "I went away , and was gone about six weeks ."
+.SEGMENT TEXT 284-311 OK "from the day when our fathers"
+.SEGMENT TEXT 312-353 OK "gave to this land a new nation"

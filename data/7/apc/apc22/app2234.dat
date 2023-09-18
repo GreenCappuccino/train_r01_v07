@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2234.dat
+.SEGMENT WORD 0-6 ? "Albert"
+.SEGMENT WORD 7-14 ? "Arizona"
+.SEGMENT WORD 15-18 ? "Ben"
+.SEGMENT WORD 19-30 ? "California"

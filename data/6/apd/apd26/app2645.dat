@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2645.dat
+.SEGMENT WORD 0 ? "On"
+.SEGMENT WORD 1-6 ? "vacation"
+.SEGMENT WORD 7-8 ? "from"
+.SEGMENT WORD 13-14 ? "until"
+.SEGMENT WORD 15 ? "May"

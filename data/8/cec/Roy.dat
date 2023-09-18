@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Roy.dat
+.SEGMENT TEXT 0-60 ? "Patient suffered moderate trauma ."
+.SEGMENT TEXT 61-149 ? "His condition is stable and vital signs are good ."
+.SEGMENT TEXT 150-254 ? "Injuries include complete fracture of the right fibula ."
+.SEGMENT TEXT 348-440 ? "X-ray shows possible damage to cartilage in knee joint ."
+.SEGMENT TEXT 580-642 ? "Patient reports no loss of consciousness ."
+.SEGMENT TEXT 643-703 ? "Pupil dilation appears equal in both eyes ."
+.SEGMENT TEXT 793-855 ? "It takes place in New York city ."
+.SEGMENT TEXT 856-956 ? "The main characters are old acquaintances who meet again by chance ."
+.SEGMENT TEXT 1020-1130 ? "At the same time each has romantic relationships with other people ."
+.SEGMENT TEXT 1131-1241 ? "But the main characters seem only to be happy when the two of them are together ."
+.SEGMENT TEXT 1773-1861 ? "It makes us think about whether a man and a woman can be friends ."
+.SEGMENT TEXT 1862-1912 ? "The movie never gives us an answer ."

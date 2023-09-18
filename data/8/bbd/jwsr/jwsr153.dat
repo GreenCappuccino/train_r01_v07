@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr153.dat
+.SEGMENT TEXT 0-13 OK "Armstrong added 1/8 to 39 1/8."

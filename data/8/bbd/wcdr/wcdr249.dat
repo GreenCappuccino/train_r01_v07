@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr249.dat
+.SEGMENT TEXT 0-54 OK "The company will save between C$4 million and C$6 million annually in office expenses and other administrative costs by moving to Calgary, Mr. Maier added."

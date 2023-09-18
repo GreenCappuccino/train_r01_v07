@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr120.dat
+.SEGMENT TEXT 0-62 OK "Hess's earnings were up despite a $30 million charge to cover the cost of maintaining operations after Hurricane Hugo heavily damaged the company's refinery at St. Croix."

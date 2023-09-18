@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl165.dat
+.SEGMENT TEXT 0-64 OK "A sharp reduction in inflation was by far the brightest spot in the report on the real gross national product - the inflation-adjusted market value of all the goods and services the economy produced."

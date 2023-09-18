@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr914.dat
+.SEGMENT TEXT 0-35 OK "It unfortunately encourages others to engage in a highly dangerous and illegal activity that only a few are doing now."

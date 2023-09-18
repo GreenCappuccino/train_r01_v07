@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd40/app4074.dat
+.SEGMENT WORD 0-9 ? "Officer"
+.SEGMENT WORD 10-16 ? "Public"
+.SEGMENT WORD 17-27 ? "Relations"
+.SEGMENT WORD 28-40 ? "Coordinator"
+.SEGMENT WORD 41-45 ? "Art"

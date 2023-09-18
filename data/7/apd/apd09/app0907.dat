@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd09/app0907.dat
+.SEGMENT WORD 0-3 ? "Blue"
+.SEGMENT WORD 4-11 ? "Springs"
+.SEGMENT WORD 12-16 ? "Cedar"
+.SEGMENT WORD 17-23 ? "Falls"
+.SEGMENT WORD 24-28 ? "Coral"
+.SEGMENT WORD 29-34 ? "Gables"
+.SEGMENT WORD 35-40 ? "Santa"
+.SEGMENT WORD 41-44 ? "Cruz"

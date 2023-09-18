@@ -1,0 +1,21 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Balgi.dat
+.SEGMENT WORD 0-10 ? "Four"
+.SEGMENT WORD 12-24 ? "pink"
+.SEGMENT WORD 26-52 ? "grapefruits"
+.SEGMENT WORD 53-71 ? "Zucchinni"
+.SEGMENT WORD 196-210 ? "Ketchup"
+.SEGMENT WORD 270-282 ? "frozen"
+.SEGMENT WORD 284-296 ? "pizza"
+.SEGMENT WORD 461 ? "3"
+.SEGMENT WORD 463-477 ? "Cartons"
+.SEGMENT WORD 479-481 ? "of"
+.SEGMENT WORD 483-489 ? "2%"
+.SEGMENT WORD 491-501 ? "milk"
+.SEGMENT WORD 502 ? "1"
+.SEGMENT WORD 504-512 ? "dozzen"
+.SEGMENT WORD 514-526 ? "extra"
+.SEGMENT WORD 528-536 ? "large"
+.SEGMENT WORD 538-542 ? "eggs"

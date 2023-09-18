@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0750.dat
+.SEGMENT WORD 0-1 ? "fire"
+.SEGMENT WORD 2 ? "floors"
+.SEGMENT WORD 3 ? "from"
+.SEGMENT WORD 4-6 ? "found"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr168.dat
+.SEGMENT TEXT 0-39 OK "the company, which currently has 13.5 million common shares outstanding, said it has no specific plans for the shares."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr797.dat
+.SEGMENT TEXT 0-41 OK "Only when one is ascending - or in our case descending a tad trop rapidement - does one feel, well, airborne in a picnic basket."

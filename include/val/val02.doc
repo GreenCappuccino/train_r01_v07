@@ -1,0 +1,73 @@
+.VERSION        1.0
+
+.DATA_SOURCE    Universidad de Valladolid, Spain.
+.DATA_ID        val0
+
+.ALPHABET       "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+                "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" 
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" 
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+		"+" "-" "*" "(" ")" "|" ">" "<" ":" "?" "," ";" "\"
+
+.HIERARCHY      CHARACTER
+.DATA_CONTACT   
+                Name: Yannis Dimitriadis
+
+                Affiliation: Universidad de Valladolid
+                             a) E. T. S. Ingenieros de Telecomunicaci¢n
+                             b) E. T. S. Ingenieros Industriales
+
+                Address: a)     Real de Burgos S/N
+                         b)     Paseo del Cauce S/N
+                                47011 Valladolid
+                                Spain
+                Phone:   a) +34 -83 -423060
+		Fax:	 a) +34 -83- 423061
+		Phone:   b) +34 -83- 423358
+                Fax:    b)  +34 -83- 423310
+                Email:  yannis@dali.eis.uva.es
+
+.SETUP          Site: E.T.S. Ingenieros de Telecomunicacion
+                      CognitiveSciences Laboratory
+                Time:
+                Writer population: 3
+                Writer motivation: volunteer
+                Writer physical position : People sitting at a desk
+                Duration of one session: unlimited
+                Form Layout: Wacom Display Tablet
+
+
+.DATA_INFO      
+                Alphabet: English keyboard alphanumerics and
+                          symbols from the ASCII set.
+                Number of Writers: 3
+                Writing Style: printed
+                Segmentation: The only restriction is to use run-on discrete
+		characters. Then heuristic rules are used to segment lines,
+		symbols. For more information ask for our publications.
+
+.PAD            Machine name: WACOM PL-100V  LCD Digitizer & 486 PC Compatible
+                Display:  TSTN white mode LCD, 640 x 480 dots, on Windows for Pen,
+			Cirrus VGA ,  
+                Sampling rate: 205 points/seg
+                Resolution:  0.05 mm/point
+                Accuracy: +- 0.5 mm
+                Width:  279 mm
+                Height: 233 mm
+                Active Area:  192 x 144 mm
+                Sensor: Electromagnetic resonance sensor, wireless sensor
+                Pen:  Untethered pen, tip switch and side button 
+                Driver: wacpen.drv
+                Inking: as in Windows for Pen
+
+.X_DIM  4157
+.Y_DIM  3118
+
+
+.X_POINTS_PER_INCH      1000
+.Y_POINTS_PER_INCH      1000
+.POINTS_PER_SECOND      205
+
+.COORD  X Y
+

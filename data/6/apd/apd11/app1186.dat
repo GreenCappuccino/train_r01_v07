@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1186.dat
+.SEGMENT WORD 0-1 ? "claim"
+.SEGMENT WORD 2 ? "company"
+.SEGMENT WORD 3-6 ? "composition"
+.SEGMENT WORD 7-8 ? "counter"

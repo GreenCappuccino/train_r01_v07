@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1990.dat
+.SEGMENT WORD 0-8 ? "African"
+.SEGMENT WORD 9-15 ? "Andrew"
+.SEGMENT WORD 16-23 ? "Arctic"
+.SEGMENT WORD 24-32 ? "Benjamin"

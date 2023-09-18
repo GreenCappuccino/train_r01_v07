@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr866.dat
+.SEGMENT TEXT 0-58 OK "Two of the 757-200s are new aircraft to be delivered to American Trans Air, the main subsidiary of Amtran Inc., in December 1991 and January 1992."

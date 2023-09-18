@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr365.dat
+.SEGMENT TEXT 0-69 OK "But even that is disputed by Manufacturers Hanover which, in alliance with the IRS, contends that Minpeco has already collected more than its actual damages from other defendants in the silver-conspiracy case."

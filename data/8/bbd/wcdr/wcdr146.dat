@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr146.dat
+.SEGMENT TEXT 0-54 OK "\"We have to clear up these issues and find out what is present that is creating artificial volatility,\" Mr. Fisher said."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-skw.dat
+.SEGMENT TEXT 58-73 OK "Give me your arm ."
+.SEGMENT TEXT 316-335 OK "be or not to be ;"
+.SEGMENT TEXT 336-357 OK "is the question ."

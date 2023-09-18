@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape11/app1104.dat
+.SEGMENT TEXT 0-16 ? "#555 1212 1-3205"

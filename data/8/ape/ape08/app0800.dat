@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0800.dat
+.SEGMENT TEXT 0-38 ? "Don't forget matches and kindling"

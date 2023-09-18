@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr120.dat
+.SEGMENT TEXT 0-63 OK "McDonald's has long-term debt equaling 91% of shareholder equity currently, but Mr. Kerschner said the company is carrying real estate assets at about $2.6 billion below their real value."

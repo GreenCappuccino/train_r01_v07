@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb38/app3801.dat
+.SEGMENT CHARACTER 21 ? "."
+.SEGMENT CHARACTER 28 ? "."
+.SEGMENT CHARACTER 37 ? "."

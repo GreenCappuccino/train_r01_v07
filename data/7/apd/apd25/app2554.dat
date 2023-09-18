@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd25/app2554.dat
+.SEGMENT WORD 0 ? "Dollars"
+.SEGMENT WORD 1-2 ? "enjoy"
+.SEGMENT WORD 3-5 ? "being"
+.SEGMENT WORD 6-7 ? "spent"

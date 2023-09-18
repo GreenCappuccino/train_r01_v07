@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0854.dat
+.SEGMENT WORD 0-1 ? "Jones"
+.SEGMENT WORD 2 ? "Lee"
+.SEGMENT WORD 3 ? "Moore"
+.SEGMENT WORD 4-6 ? "Ng"

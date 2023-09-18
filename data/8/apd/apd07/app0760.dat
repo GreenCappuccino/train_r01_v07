@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0760.dat
+.SEGMENT TEXT 0-9 ? "frontier gang gentlemen giant"

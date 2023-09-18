@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0383.dat
+.SEGMENT WORD 0-9 ? "#555"
+.SEGMENT WORD 10-13 ? "1212"
+.SEGMENT WORD 14-20 ? "1-3205"

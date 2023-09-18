@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr235.dat
+.SEGMENT TEXT 0-64 OK "People familiar with the exchange said another idea likely to be approved is expanding the monthly reports on program trading to cover specific days or even hours of heavy program trading and who was doing it."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr161.dat
+.SEGMENT TEXT 0-60 OK "The World Bank also offered 100 million Swiss francs of 6% bonds due Nov. 16, 1999, priced at 101 1/4 to yield 5.83% via Credit Suisse."

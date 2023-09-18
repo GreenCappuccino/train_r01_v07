@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Ramaswamy.dat
+.SEGMENT TEXT 0-32 ? "Patience suffered moderate trauma"
+.SEGMENT TEXT 211-271 ? "Patience shows dizziness and nausea indicating mild concussion"
+.SEGMENT TEXT 309-353 ? "Pupil dilation appears equal in both eyes"
+.SEGMENT TEXT 354-380 ? "Fracture was set in emergency room"
+.SEGMENT TEXT 451-505 ? "Remaining lacerations were sterilized and closed with butterfly bandages"
+.SEGMENT TEXT 671-717 ? "If dizziness persists schedule some skull X-rays"

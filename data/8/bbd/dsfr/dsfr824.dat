@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr824.dat
+.SEGMENT TEXT 0-44 OK "Mr. Mulford said reports of tension between the Treasury and Fed have been exaggerated, insisting that they involved \"nuances.\""

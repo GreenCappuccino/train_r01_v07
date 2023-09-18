@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa04/app0457.dat
+.SEGMENT CHARACTER 15 ? "."
+.SEGMENT CHARACTER 16-17 ? "\""
+.SEGMENT CHARACTER 26-27 ? "!"

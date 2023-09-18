@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0341.dat
+.SEGMENT WORD 0-6 ? "Begin"
+.SEGMENT WORD 7-16 ? "project"
+.SEGMENT WORD 17-18 ? "as"
+.SEGMENT WORD 19-22 ? "soon"
+.SEGMENT WORD 23-24 ? "as"
+.SEGMENT WORD 25-34 ? "possible"

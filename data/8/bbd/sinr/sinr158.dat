@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr158.dat
+.SEGMENT TEXT 0-87 OK "World Bank (agency) - #100 million of 10 7/8% bonds due Aug. 15, 1994, offered at 96.95 to yield 11.71%, via Baring Brothers & Co. Tap on outstanding #100 million issue."

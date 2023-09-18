@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl220.dat
+.SEGMENT TEXT 0-42 OK "The troubles continued in this year's first half, when profit plunged 81% to $302,000."

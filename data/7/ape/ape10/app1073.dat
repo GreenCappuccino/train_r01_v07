@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1073.dat
+.SEGMENT WORD 0-4 ? "What"
+.SEGMENT WORD 5-7 ? "is"
+.SEGMENT WORD 8-12 ? "your"
+.SEGMENT WORD 13-18 ? "name?"

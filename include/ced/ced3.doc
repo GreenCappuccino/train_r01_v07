@@ -1,0 +1,94 @@
+.VERSION           1.0
+.DATA_SOURCE       Center of Excellence for Document Analysis and 
+                   Recognition (CEDAR)
+.DATA_ID           ced3
+.ALPHABET          "0" "1" "2" "3" "4" "5" "6" "7" "8" "9"
+                   "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                   "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+                   "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                   "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+                   "." "," ":" ";" "$" "%" "'" "\"" "(" ")" "-" "!" "@"
+ 		   "*" "+" "=" "\/"
+.ALPHABET_FREQ	   792 924 924 792 924 792 660 924 792 792
+		   528 528 528 528 1716 528 528 528 1056 528 428 660 528
+		   528 1716 528 528 660 792 528 1056 528 528 528 528 660
+		   1716 396 396 660 1716 396 264 264 1716 264 264 396 264
+		   528  660 660 396 792 660 1320 660 264 396 264 264 396
+		   396 264 528 132 396 264 528 528 528 528 660 264 132
+		   132 132 924 132
+.DATA_CONTACT
+                   Name:            Rohini K. Srihari
+                   Address:         UB Commons, 520 Lee Entrance - Suite 202
+                                    Buffalo, New York 14228-2567
+                   Phone:           (716) 645-6164  Ext. 102
+                   Fax:             (716) 645-6176
+                   E-mail:          rohini@cs.buffalo.edu
+                   
+.DATA_INFO
+                   Set type:        Training
+                   Alphabet:        English keyboard alphanumerics and symbols
+                                    from the ASCII set
+                   Lexicon:         44 words plus 9 equations which include 
+				    upper, lower case, digit and common 
+				    punctuation.
+                   No. of Writers:  132
+				    5,808 words plus 1,188 equations.
+                                    48,576 characters
+                   Segmentation:    Automatic word segmentation. Manual 
+				    segmentation at the character level.
+
+.PAD
+                   Machine name:    EPRI Gateway 2000 486/33C
+                   Brand:           IBM AT Compatible
+		   Type:	    486DX/33
+		   Serial number:   UBF 03x12775UB
+		   Sensor:	    WACOM PL-100V Tablet
+		   Pen:		    WACOM UP-211 (greyish red barrel switch)
+                   Description:     Integrated (writing/display) LCD device.
+		   Driver:          Pen For Windows 1.0
+                      		    WACOM driver version 2.04
+                                    Version      :  2.04
+                                    Sampling Mode:   Stream
+                                    Click Pressure: 21%
+                                    Pressure Range: Full
+                                    Pressure Curve: Normal
+                   Sampling rate:   200 points per second
+                   Resolution:      20 points per mm
+		   Accuracy:	    0.5mm
+		   Metric Width:    192mm
+		   Metric Height:   144mm
+                   Distinct Width:  3767
+                   Distinct Height: 2838
+.SETUP
+                   Site:   CEDAR Offices, 520 Lee Entrance, Suite 202
+                           State University of New York at Buffalo
+                   Dates:  September - Octorber 1994
+                   Writer population:  Most of the writers were students,  
+		      staffs and faculty at SUNY/Buffalo.  However, there 
+		      were some from other parts of the Western New York area.
+                   Writer motivation:  The majority of writers were paid
+                      $7.00 for their participation.  However, there were
+                      also many volunteers.  (Most volunteers were people
+                      who worked at CEDAR.)
+                   Writer physical position:  Sitting.
+                   Instructions given to the writer:  Writers were asked to 
+		      follow comb guidelines carefully but no restriction on
+		      printed/cursive style was imposed.
+                   Duration of one session:  Approximately 15 mins. This is 
+		      1/3 of the entire data collecting procedure. The whole
+		      procedure took about one hour.
+                   Data collection procedure: Writers were asked to transcribe 
+		      words/text shown on the screen into combs that were 
+		      provided. There were a total of 44 isolated words plus
+		      9 equations. 
+                   Machines:  WACOM PL100-V connected to a PC.
+.X_DIM             7467
+.Y_DIM             1005
+.H_LINE		   375
+.V_LINE		   102 432 762 1092 1422 1752 2082 2412 2742 3072 3402 3732 
+		   4062 4392 4722 5052 5382 5712 6042 6372 6702 7032 7362 
+.X_POINTS_PER_MM   50
+.Y_POINTS_PER_MM   50
+.POINTS_PER_SECOND 200
+.COORD             X Y
+.HIERARCHY         TEXT CHARACTER

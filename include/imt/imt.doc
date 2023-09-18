@@ -1,0 +1,77 @@
+.VERSION 1.0
+
+.DATA_SOURCE 	impending_technologies
+.DATA_ID 	imt
+
+.COMMENT Use the .ALPHABET specified (the same for all the databases of the
+	 benchmark). It should be a superset of the character labels that
+	 you are using. Optionally use .ALPHABET_FREQ to specify character
+	 frequencies by replacing the 1's by appropriate values.
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" "\ "
+
+.ALPHABET_FREQ  0 0 0 0 0 0 0 0 0
+		0 0 0 0 0 0 0 0 0 0 0 0 0
+		0 0 0 0 0 0 0 0 0 0 0 0 0
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		0 0 0 0 0 0 0 0 0 0 0 0 0
+		0 0 0 0 0 0 0 0 0 0 0 0 0
+		0 0 0 0 0 0 0
+
+.HIERARCHY      WORD
+
+.DATA_CONTACT
+	 Name: John Brookes
+	 Affiliation: Impending Technologies
+	 Address: Suite 2020, 2140 Shattuck Ave., Berkeley, CA 94704
+	 Phone: (510) 428 0700
+	 Fax: (510) 428 2764
+	 Email: jbrook@netcom.com
+
+.SETUP   Site: Impending Technologies office  
+         Time: September 1994
+         Conditions: People sitting at a desk;
+		     word labels read aloud by a human voice and displayed on screen;
+		     handwriting displayed on screen; 
+		     possibility to correct the last word.
+                     The writers were asked to vary the position of their hand.
+	 Writers: Impending Technologies consultants
+         Form layout: None; the writers could write without baseline anywhere
+		      on the pad.
+
+.DATA_INFO    
+	 Set type: test
+	 ^^^^^^^^         
+	 Alphabet: lowercase letters
+         Lexicon: words from drawing and editing programs plus some unix commands.
+         Label distribution: uniform
+         Quantity: 5 sets of 500 words
+         Quality: good, but data not cleaned.
+         Number of Writer(s): 5
+         Writing Style: mixed
+         Segmentation: word level
+
+.PAD     Machine name: Sparc station 2
+         Display: monitor
+         Sensor: Seiko DT3613, electromagnetic
+         Pen: tethered
+         Driver: records point equally spaced in time.
+
+.X_DIM   3000
+.Y_DIM   3000
+
+.X_POINTS_PER_MM 10
+.Y_POINTS_PER_MM 10
+.POINTS_PER_SECOND 140
+.COORD             X Y
+
+
+

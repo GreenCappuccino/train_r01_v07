@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr538.dat
+.SEGMENT TEXT 0-65 OK "FEDERAL FUNDS: 9% high, 8 13/16% low, 8 7/8% near closing bid, 8 15/16% offered."

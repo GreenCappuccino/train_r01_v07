@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr191.dat
+.SEGMENT TEXT 0-69 OK "UAL Corp. moved up 4 to 175 on reports that Los Angeles investor Marvin Davis has asked United Airlines unions if they're interested in cooperating with him in a new bid for UAL."

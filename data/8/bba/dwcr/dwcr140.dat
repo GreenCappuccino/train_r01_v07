@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr140.dat
+.SEGMENT TEXT 0-29 OK "Sales fell 20%, to $3.7 billion from $4.6 billion."

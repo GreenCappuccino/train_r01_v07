@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr527.dat
+.SEGMENT TEXT 0-81 OK "So far as we can see only two persons are behaving with a dignity recognizing the seriousness of the issues: Mr. Lawson and Sir Alan Walters, the counterpoint of the Chancellor's difficulties, who also resigned as personal adviser to Mrs. Thatcher."

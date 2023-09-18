@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE art/data/art03trn.dat
+.SEGMENT TEXT 0-20 OK "you are about to go home"
+.SEGMENT TEXT 21-45 OK "but- few more befoe going!"
+.SEGMENT TEXT 97-111 OK "123 456 7890"
+.SEGMENT TEXT 141-166 OK "238$ + 154% = 366.52"
+.SEGMENT TEXT 237-275 OK "question: what is green and runs fast?"
+.SEGMENT TEXT 360-421 OK "QUERQUE ASKED JOJO THE WAY TO ZIMZOCH"
+.SEGMENT TEXT 460-494 OK "Vevy and Xuxlovp asked them to come;"
+.SEGMENT TEXT 495-521 OK "Querque started to sing:"
+.SEGMENT TEXT 553-581 OK "Xuxlovp whistled alot of $"
+.SEGMENT TEXT 611-641 OK "AND ALL TOGETHER:"
+.SEGMENT TEXT 642-678 OK "\"ABC DEF GHIJ KL MNOP\""
+.SEGMENT TEXT 774-803 OK "abc defg hij klmn opqrs tuv wxyz"
+.SEGMENT TEXT 804-851 OK "ABCD EFGH IJKLM NOPQR STUV WXYZ"
+.SEGMENT TEXT 852-871 OK "123 + 3456 - 890 = @"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl251.dat
+.SEGMENT TEXT 0-90 OK "Instead of helping his company in the defense spending slowdown, Dynamic Engineering Inc., a troubled subsidiary that makes wind tunnels for the space industry, contributed to much of QuesTech's $3.3 million loss on $55.6 million in revenue last year."

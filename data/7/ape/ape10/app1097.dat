@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1097.dat
+.SEGMENT WORD 0-10 ? "-6470.348"
+.SEGMENT WORD 11-18 ? "09/18/93"

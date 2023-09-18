@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai1.doc
+.INCLUDE kai/data/kai1/jjlee4.dat
+.SEGMENT WORD 0-1 OK "man"
+.SEGMENT WORD 30 OK "a"
+.SEGMENT WORD 56-58 OK "crush"
+.SEGMENT WORD 65-67 OK "drop"
+.SEGMENT WORD 81-83 OK "but"
+.SEGMENT WORD 108-109 OK "be"
+.SEGMENT WORD 195-196 OK "by"
+.SEGMENT WORD 273-275 OK "oxen"

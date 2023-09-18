@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl280.dat
+.SEGMENT TEXT 0-29 OK "Aichi is a machikin, Mr. Utsunomiya says, and \"one of the nasty ones.\""

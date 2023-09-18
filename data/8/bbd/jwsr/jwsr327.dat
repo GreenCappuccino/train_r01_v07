@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr327.dat
+.SEGMENT TEXT 0-62 OK "\"We saw good buying in Japan and excellent buying in London,\" said Jay Goldinger, market strategist and trader at Capital Insight Inc., Beverly Hills, Calif."

@@ -1,0 +1,17 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Schwartz.dat
+.SEGMENT TEXT 0-14 ? "Four red grapefruits ."
+.SEGMENT TEXT 15-23 ? "Zucchinis ,"
+.SEGMENT TEXT 67-89 ? "Large box of macaroni ."
+.SEGMENT TEXT 125-147 ? "Frozen pizza ."
+.SEGMENT TEXT 173-189 ? "Vanilla ice cream ."
+.SEGMENT TEXT 221-243 ? "Strawberry jelly ."
+.SEGMENT TEXT 267-281 ? "Raisin Bran ."
+.SEGMENT TEXT 866-922 ? "This left turn will be a U-turn ."
+.SEGMENT TEXT 923-1015 ? "Go on Audobon Highway to the next big intersection ."
+.SEGMENT TEXT 1107-1205 ? "Then if it works , I can make it available to anyone ."
+.SEGMENT TEXT 1206-1300 ? "I got our plane tickets in the mail about a week ago ."
+.SEGMENT TEXT 1483-1559 ? "Let me know when the journal and training data are ready ."
+.SEGMENT TEXT 1560-1640 ? "Let me know when the journal and training data are ready ."

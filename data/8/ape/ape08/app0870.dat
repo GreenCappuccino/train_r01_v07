@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0870.dat
+.SEGMENT TEXT 0-36 ? "Blue Springs Cedar Falls Coral Gables Santa Cruz"

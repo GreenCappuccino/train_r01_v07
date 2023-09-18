@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app12/app1253.dat
+.SEGMENT CHARACTER 15 ? ","

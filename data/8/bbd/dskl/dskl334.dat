@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl334.dat
+.SEGMENT TEXT 0-82 OK "If this pattern continues, the Labor Department said, 1989 will be the first year that the measure has shown an increase since 1981 when the department started comparing expiring contracts with those that replaced them."

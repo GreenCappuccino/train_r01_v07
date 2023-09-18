@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0218.dat
+.SEGMENT WORD 0-3 ? "Vicki"
+.SEGMENT WORD 4-7 ? "Walter"
+.SEGMENT WORD 8-10 ? "Yaw"
+.SEGMENT WORD 11-13 ? "Zack"

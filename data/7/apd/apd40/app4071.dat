@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd40/app4071.dat
+.SEGMENT WORD 0-11 ? "Washington"
+.SEGMENT WORD 12-21 ? "Tennessee"
+.SEGMENT WORD 22-29 ? "Kansas"
+.SEGMENT WORD 30-35 ? "Oregon"

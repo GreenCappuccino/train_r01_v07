@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr329.dat
+.SEGMENT TEXT 0-49 OK "Late in London, the dollar was quoted at 1.8410 West German marks and 142.70 Japanese yen, up from late Monday in New York."

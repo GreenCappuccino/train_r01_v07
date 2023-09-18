@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0378.dat
+.SEGMENT WORD 0-7 ? "-49.892"
+.SEGMENT WORD 8-22 ? "(408)974-8980"

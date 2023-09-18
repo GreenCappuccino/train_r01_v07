@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-scd.dat
+.SEGMENT TEXT 0-21 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 42-53 OK "Give me your arm ."
+.SEGMENT TEXT 148-187 OK "I went away and was gone about six weeks ."
+.SEGMENT TEXT 188-211 OK "Seven and eighty years have gone by ,"
+.SEGMENT TEXT 212-229 OK "from the day when our fathers"
+.SEGMENT TEXT 230-253 OK "gave to this land a new nation ."
+.SEGMENT TEXT 254-277 OK "To be or not to be ;"
+.SEGMENT TEXT 278-299 OK "That is the question ."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr132.dat
+.SEGMENT TEXT 0-71 OK "if the trust exercises its option as expected, mitsubishi will gain only a minority stake in the most prestigious section of the center, which was built during the great depression."

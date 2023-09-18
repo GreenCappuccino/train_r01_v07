@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE scr/scr.doc
+.INCLUDE scr/data/d1/st000011.dat
+.SEGMENT TEXT 0-42 OK "the quick brown fox jumps over the lazy dog."
+.SEGMENT TEXT 172-183 OK "0123456789"
+.SEGMENT TEXT 184-195 OK "9876543210"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr602.dat
+.SEGMENT TEXT 0-99 OK "And while last week the agency hired a top Chiat/Day/Mojo executive, Bill Hamilton, to try to bolster its work, \"Graham has to get the revenue of that New York office moving,\" says James Dougherty, an analyst with County NatWest Securities."

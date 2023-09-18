@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd41/app4133.dat
+.SEGMENT WORD 0-8 ? "Stanford"
+.SEGMENT WORD 9-21 ? "University"
+.SEGMENT WORD 22-27 ? "Water"
+.SEGMENT WORD 28-32 ? "Works"
+.SEGMENT WORD 39-46 ? "Pacific"
+.SEGMENT WORD 47-49 ? "Bell"

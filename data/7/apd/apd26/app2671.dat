@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2671.dat
+.SEGMENT WORD 0-5 ? "Phone"
+.SEGMENT WORD 6-9 ? "Bob"
+.SEGMENT WORD 10-12 ? "at"
+.SEGMENT WORD 13-22 ? "Apple."
+.SEGMENT WORD 23-30 ? "Number"
+.SEGMENT WORD 31-33 ? "is"
+.SEGMENT WORD 34-39 ? "(408)"
+.SEGMENT WORD 40-48 ? "975-3621"

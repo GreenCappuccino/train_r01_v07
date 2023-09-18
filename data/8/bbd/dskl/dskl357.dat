@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl357.dat
+.SEGMENT TEXT 0-69 OK "\"For the middle and upper-middle class {Filipino} is declasse,\" says Bien Lumbera, a Philippine-studies professor at Quezon City's University of the Philippines."

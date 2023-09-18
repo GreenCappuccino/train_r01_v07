@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3819.dat
+.SEGMENT WORD 0-9 ? "Editor"
+.SEGMENT WORD 10-11 ? "VP"
+.SEGMENT WORD 12-27 ? "Operations"
+.SEGMENT WORD 28-37 ? "Director"
+.SEGMENT WORD 38-47 ? "Treasury"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape06/app0670.dat
+.SEGMENT WORD 0-6 ? "Prof."
+.SEGMENT WORD 7-10 ? "Dr."
+.SEGMENT WORD 11-14 ? "Sir"
+.SEGMENT WORD 15-18 ? "Lady"

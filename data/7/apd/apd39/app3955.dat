@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3955.dat
+.SEGMENT WORD 0-2 ? "Do"
+.SEGMENT WORD 3-5 ? "you"
+.SEGMENT WORD 6-9 ? "have"
+.SEGMENT WORD 10-12 ? "the"
+.SEGMENT WORD 13-20 ? "time?"
+.SEGMENT WORD 21-25 ? "Not"
+.SEGMENT WORD 26-28 ? "me."

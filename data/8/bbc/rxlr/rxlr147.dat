@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr147.dat
+.SEGMENT TEXT 0-23 OK "@ Infotron Sys .13 ... .23 (3) 43.48"

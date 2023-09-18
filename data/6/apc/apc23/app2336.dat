@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2336.dat
+.SEGMENT WORD 0-4 ? "Fail"
+.SEGMENT WORD 5-11 ? "Familiar"
+.SEGMENT WORD 12-17 ? "Fasten"
+.SEGMENT WORD 18-22 ? "Feet"

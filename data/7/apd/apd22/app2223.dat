@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd22/app2223.dat
+.SEGMENT WORD 0-8 ? "Officer"
+.SEGMENT WORD 9-14 ? "Public"
+.SEGMENT WORD 15-26 ? "Relations"
+.SEGMENT WORD 27-42 ? "Coordinator"
+.SEGMENT WORD 43-47 ? "Art"

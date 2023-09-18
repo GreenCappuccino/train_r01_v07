@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr411.dat
+.SEGMENT TEXT 0-56 OK "The Canadian pig herd totaled 10,674,500 at Oct. 1, down 3% from a year earlier, said Statistics Canada, a federal agency."

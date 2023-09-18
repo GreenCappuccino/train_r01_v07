@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2491.dat
+.SEGMENT WORD 0-2 ? "Wheel"
+.SEGMENT WORD 3-7 ? "Wished"
+.SEGMENT WORD 8-11 ? "Worth"
+.SEGMENT WORD 12-17 ? "Wrist"

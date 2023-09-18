@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Balgi.dat
+.SEGMENT TEXT 0-76 ? "It is the violation of the copy right ."
+.SEGMENT TEXT 304-392 ? "The intelectual property rules are very confusing"
+.SEGMENT TEXT 393-489 ? "Other companies will fully infringe on their rights ."
+.SEGMENT TEXT 666-760 ? "Advertizing without prior consent is illegal ."
+.SEGMENT TEXT 870-940 ? "Consulting a pattent attorney is advisable ."
+.SEGMENT TEXT 941-1013 ? "Clearly , easysoft is the ..... party ."
+.SEGMENT TEXT 1014-1126 ? "There are several precidents for this type of infringement"

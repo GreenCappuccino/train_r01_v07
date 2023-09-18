@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/ajcr/ajcr101.dat
+.SEGMENT TEXT 0-35 OK "The trade surplus with Europe was pegged at $414 million, down 57% from a year ago."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0349.dat
+.SEGMENT WORD 0-4 ? "How"
+.SEGMENT WORD 5-8 ? "much"
+.SEGMENT WORD 9-12 ? "more"
+.SEGMENT WORD 13-14 ? "do"
+.SEGMENT WORD 15-16 ? "we"

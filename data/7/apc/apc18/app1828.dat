@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1828.dat
+.SEGMENT WORD 0-6 ? "Waist"
+.SEGMENT WORD 7-13 ? "Western"
+.SEGMENT WORD 14-17 ? "Wary"
+.SEGMENT WORD 18-25 ? "Whites"

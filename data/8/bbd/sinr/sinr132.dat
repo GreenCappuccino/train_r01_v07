@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr132.dat
+.SEGMENT TEXT 0-39 OK "france's unemployment rate was steady at a seasonally adjusted 9.5% in september, the social affairs ministry said."

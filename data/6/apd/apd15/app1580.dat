@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd15/app1580.dat
+.SEGMENT WORD 0-3 ? "For"
+.SEGMENT WORD 4-7 ? "direct"

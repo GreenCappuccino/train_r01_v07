@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2170.dat
+.SEGMENT TEXT 0-31 ? "common contain current daughter"

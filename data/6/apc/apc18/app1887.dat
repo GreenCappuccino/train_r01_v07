@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1887.dat
+.SEGMENT WORD 0-6 ? "Follow"
+.SEGMENT WORD 7-14 ? "Fortune"
+.SEGMENT WORD 15-22 ? "Friend"
+.SEGMENT WORD 23-26 ? "Gone"

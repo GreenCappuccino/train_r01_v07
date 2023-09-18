@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app08/app0814.dat
+.SEGMENT TEXT 0-34 ? "OVER THE LAZY BLACK DOG"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa13/app1324.dat
+.SEGMENT TEXT 0-47 ? "SIX BIG DEVILS FROM JAPAN"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr689.dat
+.SEGMENT TEXT 0-66 OK "Secretary of State for Trade and Industry Nicholas Ridley said later in the day that the government would abolish its golden share in Jaguar, the luxury auto maker being stalked by General Motors and Ford Motor."

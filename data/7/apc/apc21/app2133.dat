@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2133.dat
+.SEGMENT WORD 0-8 ? "improve"
+.SEGMENT WORD 9-15 ? "invent"
+.SEGMENT WORD 16-21 ? "isn't"
+.SEGMENT WORD 22-29 ? "journey"

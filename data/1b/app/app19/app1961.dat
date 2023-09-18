@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app19/app1961.dat
+.SEGMENT CHARACTER 0-2 ? "H"
+.SEGMENT CHARACTER 29-31 ? "H"

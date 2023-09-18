@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0483.dat
+.SEGMENT TEXT 0-29 ? "USA Australia U.K. Canada"

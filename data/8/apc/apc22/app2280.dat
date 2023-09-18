@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2280.dat
+.SEGMENT TEXT 0-31 ? "Joseph Jupiter Maria Napoleon"

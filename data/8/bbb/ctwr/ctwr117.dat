@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr117.dat
+.SEGMENT TEXT 0-53 OK "Alexander Brody, 56, will take on the newly created position of president of the world-wide agency and chief executive of its international operations."

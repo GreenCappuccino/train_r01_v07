@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0219.dat
+.SEGMENT WORD 0-5 ? "Enrique"
+.SEGMENT WORD 6 ? "Yu"
+.SEGMENT WORD 7-8 ? "Ying"
+.SEGMENT WORD 9-12 ? "Randall"
+.SEGMENT WORD 13-16 ? "Ichiro"

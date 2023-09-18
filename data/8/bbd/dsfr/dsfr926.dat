@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr926.dat
+.SEGMENT TEXT 0-55 OK "Under the agreement with the House and Senate leaders, the minimum wage would rise from the current $3.35 an hour to 4.25 an hour by April 1991."

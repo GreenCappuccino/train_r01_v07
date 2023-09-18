@@ -1,0 +1,52 @@
+.DATA_SOURCE INT-94-06
+.DATA_ID 94.06.01
+
+.DATA_CONTACT   Name:           Laurent Duneau / Bernadette Dorizzi
+                Affiliation:    Institut National des Telecommunications
+                Address:        9, rue Charles Fourier
+                                91011 Evry
+                                FRANCE
+                Phone:          33 (1) 60 76 47 02
+                Fax:            33 (1) 45 10 68 72
+                Email:          lo@etna.int-evry.fr / nad@etna.int-evry.fr
+
+.SETUP          Site:           INT
+                Time:           May 1994
+                Conditions:     Predefined box with baseline
+				one word at a time:
+                Writers:        12 nice friends
+
+                Acquisition
+                  software:     Home made 
+
+.DATA_INFO	Alphabet:	Latin, lower case
+		Lexicon:	1000 english words
+		Quantity:	1000 words per writer, 12 writers, files INTx.DAT
+		Quality:	raw data
+		Style:		(semi-)cursive
+		Segmentation:	none
+.PAD            Type:           Seiko D-SCAN DT-3503-12
+                Display:        On the station
+		Sensor:		Electomagnetic give and receive action
+		Pen:		standard non-stroke with tip and 
+				barrel switches
+		Driver:		Home made
+
+.X_POINTS_PER_INCH		500
+.Y_POINTS_PER_INCH		500
+.POINTS_PER_SECOND		200
+.HIERARCHY			WORD   
+.COORD				X Y
+
+.COMMENT
+	---------------------------------------------------------------------
+	There is a spatial sampling such as that a new point is recorded only
+	if it is sufficiently far (dx or dy is 2 points) from the last one. 
+	So, dynamical informations are lost when the radial speed is too low.
+	---------------------------------------------------------------------
+
+
+.STYLE   CURSIVE
+.COUNTRY FRANCE
+  
+     

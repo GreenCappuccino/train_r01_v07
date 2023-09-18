@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl289.dat
+.SEGMENT TEXT 0-16 OK "Mr. Morishita considers himself a connoisseur of art."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr690.dat
+.SEGMENT TEXT 0-34 OK "The golden share dates from Jaguar's public offering in 1984 and was designed to protect the company from takeover."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2180.dat
+.SEGMENT TEXT 0-28 ? "Gravity Hats Herself Here"

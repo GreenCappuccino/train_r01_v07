@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr838.dat
+.SEGMENT TEXT 0-61 OK "But some American defense officials believe the North Atlantic Treaty Organization should take more time to examine the long-term implications of the options being considered."

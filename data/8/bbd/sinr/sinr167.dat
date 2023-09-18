@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr167.dat
+.SEGMENT TEXT 0-34 OK "put march 31, 1992, at fixed 107 13/16 to yield 3.43%."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr282.dat
+.SEGMENT TEXT 0-40 OK "Despite these challenges, Marks & Spencer sees big potential in Brooks Brothers, noting the widely recognized name and global presence."

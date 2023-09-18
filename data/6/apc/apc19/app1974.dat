@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1974.dat
+.SEGMENT WORD 0-5 ? "please"
+.SEGMENT WORD 6-13 ? "points"
+.SEGMENT WORD 14-19 ? "poured"

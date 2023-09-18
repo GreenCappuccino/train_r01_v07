@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0250.dat
+.SEGMENT TEXT 0-23 ? "Salt Lake City San Diego London Madrid"

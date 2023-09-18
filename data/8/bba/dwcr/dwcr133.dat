@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr133.dat
+.SEGMENT TEXT 0-86 OK "The latest period included a $54 million gain from the sale of various oil and gas properties, a $22 million charge from the restructuring of Occidental's domestic oil and gas operations, and tax credits of $42 million."

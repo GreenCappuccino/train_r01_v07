@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr835.dat
+.SEGMENT TEXT 0-70 OK "Some U.S. allies are complaining that President Bush is pushing conventional-arms talks too quickly, creating a risk that negotiators will make errors that could affect the security of Western Europe for years."

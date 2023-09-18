@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr475.dat
+.SEGMENT TEXT 0-24 OK "Mr. Shiflett is an editorial writer for the Rocky Mountain News."

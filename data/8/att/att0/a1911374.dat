@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1911374.dat
+.SEGMENT TEXT 12-23 ? "+ ii ) ; if ( krud"
+.SEGMENT TEXT 50-67 ? "= EOF & ii = 0 )"
+.SEGMENT TEXT 68-86 ? "= EOF & ii = 0 )"
+.SEGMENT TEXT 87-103 ? "exit ( 0 ) ; fprintf ( stderr ,"
+.SEGMENT TEXT 104-122 ? "exit ( 0 ) ; fprintf ( stderr ,"
+.SEGMENT TEXT 123-137 ? "\" ? Bad input \\ n \" ) ;"
+.SEGMENT TEXT 138-154 ? "\" ? Bad input \\ n \" ) ;"
+.SEGMENT TEXT 178-194 ? "exit ( 1 ) ; } # elif"
+.SEGMENT TEXT 195-219 ? "BLINTERFACE int"

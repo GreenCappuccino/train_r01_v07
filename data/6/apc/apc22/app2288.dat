@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2288.dat
+.SEGMENT WORD 0-8 ? "Fight"
+.SEGMENT WORD 9-18 ? "Flight"
+.SEGMENT WORD 19-27 ? "Forever"
+.SEGMENT WORD 28-33 ? "Free"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/dwcr/dwcr141.dat
+.SEGMENT TEXT 0-59 OK "Arco's earnings from its 49.9% stake in Lyondell fell to $37 million from $156 million for the same period last year, when Lyondell was wholly owned."

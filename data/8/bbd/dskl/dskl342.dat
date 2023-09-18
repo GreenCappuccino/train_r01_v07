@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl342.dat
+.SEGMENT TEXT 0-42 OK "The Labor Department said wage increases in manufacturing industries continue to be smaller than those in other industries."

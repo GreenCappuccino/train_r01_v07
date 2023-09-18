@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22312403.dat
+.SEGMENT TEXT 9-21 ? "example file *"
+.SEGMENT TEXT 70-75 ? "static char sp"
+.SEGMENT TEXT 86-96 ? "= ' ' ; static"
+.SEGMENT TEXT 107-115 ? "char tab = ' ' ;"
+.SEGMENT TEXT 116-121 ? "static char nl"
+.SEGMENT TEXT 128-139 ? "= 10 ; static char"
+.SEGMENT TEXT 151-164 ? "hash = ' # ' ; int"
+.SEGMENT TEXT 165-178 ? "hash = ' # ' ; int"
+.SEGMENT TEXT 200-217 ? ", pnum ) FILE * fp ;"
+.SEGMENT TEXT 218-234 ? ", pnum ) FILE * fp ;"
+.SEGMENT TEXT 235-243 ? "char * control ;"
+.SEGMENT TEXT 244-250 ? "char * control ;"

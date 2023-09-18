@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd06/app0608.dat
+.SEGMENT WORD 3-5 ? "San"
+.SEGMENT WORD 6-15 ? "Antonio"
+.SEGMENT WORD 16-21 ? "Plaza"
+.SEGMENT WORD 24-28 ? "Grand"
+.SEGMENT WORD 29-34 ? "Square"
+.SEGMENT WORD 38-49 ? "Hollywood"
+.SEGMENT WORD 50-56 ? "Circle"
+.SEGMENT WORD 64-68 ? "Box"

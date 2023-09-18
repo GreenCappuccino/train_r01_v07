@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr336.dat
+.SEGMENT TEXT 0-56 OK "A reading below 50% indicates that the manufacturing industry is slowing while a reading above 50% suggests that the industry is expanding."

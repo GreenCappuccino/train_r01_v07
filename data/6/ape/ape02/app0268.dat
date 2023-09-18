@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0268.dat
+.SEGMENT WORD 0 ? "Be"
+.SEGMENT WORD 1 ? "aware"
+.SEGMENT WORD 2-4 ? "that"
+.SEGMENT WORD 5 ? "classes"
+.SEGMENT WORD 6-8 ? "start"
+.SEGMENT WORD 9-10 ? "promptly"
+.SEGMENT WORD 11-12 ? "at"
+.SEGMENT WORD 13-14 ? "posted"
+.SEGMENT WORD 15-17 ? "time"

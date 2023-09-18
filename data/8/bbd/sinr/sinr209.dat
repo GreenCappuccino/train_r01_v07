@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr209.dat
+.SEGMENT TEXT 0-92 OK "The Consumer Price Index \"A\", which measures price changes for the 50% of urban households that spend between 2,000 Hong Kong dollars (US$256.18) and HK$6,499 a month, edged up 1.5% in September from August."

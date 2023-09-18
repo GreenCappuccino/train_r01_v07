@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr468.dat
+.SEGMENT TEXT 0-96 OK "Another guy who thinks they're out there and closing fast is Whitley Strieber, whose new novel, \"Majestic\" (Putnam, 317 pages, $18.95), takes a look at a reported 1947 UFO crash near the Roswell Army Air Field in"

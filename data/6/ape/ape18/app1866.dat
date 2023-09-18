@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1866.dat
+.SEGMENT WORD 0-11 ? "Washington"
+.SEGMENT WORD 12-21 ? "Tennessee"
+.SEGMENT WORD 22-28 ? "Kansas"
+.SEGMENT WORD 29-34 ? "Oregon"

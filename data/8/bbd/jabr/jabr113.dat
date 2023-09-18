@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr113.dat
+.SEGMENT TEXT 0-61 OK "Southam agreed to sell its 47% stake in Selkirk Communications Ltd., a broadcasting concern, to Maclean Hunter Ltd. for about C$285 million last year."

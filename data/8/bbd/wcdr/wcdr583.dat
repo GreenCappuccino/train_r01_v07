@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr583.dat
+.SEGMENT TEXT 0-69 OK "The ad agency's pretax profit margins were slightly under 10% at the time of the takeover, according to analysts; London-based WPP's goal is to increase margins to 12%."

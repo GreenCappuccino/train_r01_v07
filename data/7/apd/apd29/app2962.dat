@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2962.dat
+.SEGMENT WORD 0-3 ? "tiny"
+.SEGMENT WORD 4-9 ? "towns"
+.SEGMENT WORD 10-19 ? "tremendous"
+.SEGMENT WORD 20-23 ? "tune"

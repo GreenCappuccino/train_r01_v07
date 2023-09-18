@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr102.dat
+.SEGMENT TEXT 0-32 OK "Net income increased 6.7% to 12.43 billion yen from 11.66 billion yen."

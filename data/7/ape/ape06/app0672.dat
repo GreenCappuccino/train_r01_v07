@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape06/app0672.dat
+.SEGMENT WORD 0-8 ? "Atlanta"
+.SEGMENT WORD 9-16 ? "Boise"
+.SEGMENT WORD 17-25 ? "Cleveland"
+.SEGMENT WORD 26-35 ? "Detroit"

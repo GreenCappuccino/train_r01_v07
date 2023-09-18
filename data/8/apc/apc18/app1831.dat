@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1831.dat
+.SEGMENT TEXT 0-24 ? "I'm Egypt Illinois Johnny"

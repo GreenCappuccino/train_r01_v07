@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app32/app3261.dat
+.SEGMENT TEXT 0-31 ? "If My Name = \"Your Friend,\""

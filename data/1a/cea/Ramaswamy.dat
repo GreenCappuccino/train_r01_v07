@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Ramaswamy.dat
+.SEGMENT CHARACTER 384 ? "1"
+.SEGMENT CHARACTER 386-388 ? "4"
+.SEGMENT CHARACTER 390 ? "0"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2127.dat
+.SEGMENT WORD 0-5 ? "Claim"
+.SEGMENT WORD 6-12 ? "Company"
+.SEGMENT WORD 13-26 ? "Composition"
+.SEGMENT WORD 27-34 ? "Counter"

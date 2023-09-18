@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1yuko.dat
+.SEGMENT TEXT 92-123 OK "He seems to have so little in common with us ."
+.SEGMENT TEXT 124-153 OK "I went away , and was gone about six weeks ."
+.SEGMENT TEXT 172-187 OK "from the day when our fathers"
+.SEGMENT TEXT 188-205 OK "gave to this land a new nation"
+.SEGMENT TEXT 206-225 OK "To be or not to be ;"

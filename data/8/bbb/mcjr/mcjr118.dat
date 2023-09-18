@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr118.dat
+.SEGMENT TEXT 0-19 OK "The Chosen Soren and the JSP immediately denied the report."

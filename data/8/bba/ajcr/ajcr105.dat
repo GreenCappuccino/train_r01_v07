@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/ajcr/ajcr105.dat
+.SEGMENT TEXT 0-31 OK "The agreement marks Bausch & Lomb's first venture selling its eye care products for use by veterinarians."

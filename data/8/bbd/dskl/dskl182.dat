@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl182.dat
+.SEGMENT TEXT 0-40 OK "\"I don't think it's anything that's going to cause a downturn in economic activity."

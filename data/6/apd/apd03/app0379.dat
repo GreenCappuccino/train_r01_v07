@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd03/app0379.dat
+.SEGMENT WORD 7-17 ? "Professor"

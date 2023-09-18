@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1865.dat
+.SEGMENT TEXT 0-43 ? "Agoura Hills Paris Ft. Lauderdale Munich"

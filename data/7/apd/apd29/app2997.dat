@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2997.dat
+.SEGMENT WORD 0-2 ? "bus"
+.SEGMENT WORD 3-9 ? "cactus"
+.SEGMENT WORD 10-14 ? "cargo"
+.SEGMENT WORD 15-19 ? "chase"

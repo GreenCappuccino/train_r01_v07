@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2174.dat
+.SEGMENT WORD 0-3 ? "all"
+.SEGMENT WORD 4-11 ? "active"
+.SEGMENT WORD 12-19 ? "afraid"
+.SEGMENT WORD 20-21 ? "an"

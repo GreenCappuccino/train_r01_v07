@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0815.dat
+.SEGMENT WORD 12-15 ? "have"
+.SEGMENT WORD 38-53 ? "manufacturing"
+.SEGMENT WORD 54-58 ? "work"
+.SEGMENT WORD 59-68 ? "together"
+.SEGMENT WORD 69-73 ? "from"

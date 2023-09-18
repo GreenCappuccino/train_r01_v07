@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2147.dat
+.SEGMENT WORD 0-4 ? "knew"
+.SEGMENT WORD 5-11 ? "kings"
+.SEGMENT WORD 12-20 ? "knocked"
+.SEGMENT WORD 21-25 ? "label"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr586.dat
+.SEGMENT TEXT 0-47 OK "Surrounded by stacks of paper, two computers and photos of himself boating and flying, Mr. Phillips laid out several changes he hopes to make at the agency."

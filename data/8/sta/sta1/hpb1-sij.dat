@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-sij.dat
+.SEGMENT TEXT 0-45 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 116-169 OK "Is that a house on the island ?"
+.SEGMENT TEXT 448-497 OK "gave to this land a new nation ."
+.SEGMENT TEXT 498-531 OK "To be or not to be ;"
+.SEGMENT TEXT 532-571 OK "That is the question ."

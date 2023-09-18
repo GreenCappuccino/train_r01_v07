@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2396.dat
+.SEGMENT WORD 0-2 ? "Grade"
+.SEGMENT WORD 3-4 ? "Gun"
+.SEGMENT WORD 5-8 ? "Happen"
+.SEGMENT WORD 9-14 ? "Heavier"

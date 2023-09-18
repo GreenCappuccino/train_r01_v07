@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1822.dat
+.SEGMENT WORD 0-3 ? "rider"
+.SEGMENT WORD 4-11 ? "rubbing"
+.SEGMENT WORD 12-15 ? "sank"
+.SEGMENT WORD 16-18 ? "score"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr229.dat
+.SEGMENT TEXT 0-45 OK "What the Big Board is considering is re-establishing a \"collar\" on program trading when the market moves significantly."

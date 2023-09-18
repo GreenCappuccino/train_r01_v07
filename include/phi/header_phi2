@@ -1,0 +1,77 @@
+
+
+.DATA_SOURCE philips
+.DATA_ID April-94-sentences
+.VERSION 1.0
+
+.DATA_CONTACT   Name:           Hans Dolfing
+                Affiliation:    Philips Research Laboratories
+                Address:        Prof. Holstlaan 4
+                                5656 AA Eindhoven
+                                (the Netherlands)
+                Phone:          +31-40-744747
+                Fax:            +31-40-744911
+                Email:          dolfing@prl.philips.nl
+                
+                Name:           Philippe Gentric
+                Affiliation:    Laboratoire d'Electronique Philips (LEP)
+                Address:        22, avenue Descartes
+                                94451 Limeil-Brevannes
+                                FRANCE
+                Phone:          33 (1) 45 10 68 12 or 33 (1) 45 10 56 34
+                Fax:            33 (1) 45 10 67 43
+                Email:          gentric@lep.lep-philips.fr
+
+.SETUP          Site:           Philips Research Laboratories/ SPC
+                Time:           May 93
+                Conditions:     Writers were sitted
+                Writers:        Volunteers
+                Form:           One box, only one sentence at a time:
+                                "Please write the sentence xxxx"
+                Acquisition
+                software:       "wordaki", LEP made Pen-Windows application
+                                running under Windows 3.1
+
+.DATA_INFO	Alphabet:	lower case
+		Lexicon:	50 sentences. ( see files "sentence_list" and "lexicon")
+		Adapted article titles from the 'New Scientist'.
+ 		Quantity:	50 sentences (per writer)
+		Quality:	Unchecked. 
+		Style:		Discrete characters
+		Segmentation:	NONE
+
+.PAD            Type:           Philips Advanced Interactive Display (PAID)
+                Display:        640x480 (VGA) 16 gray levels, backlit
+                                LCD screen.
+                Sensor:         Philips confidential
+                Driver:         PAID specific PenWindows driver.
+                                General driver description in:
+                                "Microsoft Windows for PenComputing:
+                                Programmer's reference".
+                Sampling:       Equidistant in time, continuous
+
+.COMMENT        The x and y dimensions are the screen size
+		in PenWindows coordinates.
+
+.X_DIM              6772
+.Y_DIM              5079
+.POINTS_PER_SECOND  170
+.COMMENT            Approx. sampling rate
+
+
+.STYLE		PRINTED
+.COORD X Y
+.SKILL		GOOD
+.COUNTRY	Netherlands
+
+
+.COMMENT	The writers were instructed to write discrete characters
+			but otherwise "normal". It has been observed
+			that some character pairs are connected.
+
+
+
+
+.HIERARCHY TEXT
+
+.COMMENT           WRITER_ID is specified for each file, one writer per file

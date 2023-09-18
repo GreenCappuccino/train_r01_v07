@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0172.dat
+.SEGMENT WORD 0-2 ? "is"
+.SEGMENT WORD 3-9 ? "largest"
+.SEGMENT WORD 10-22 ? "conglomerate"
+.SEGMENT WORD 23-25 ? "in"

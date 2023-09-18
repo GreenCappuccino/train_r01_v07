@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr130.dat
+.SEGMENT TEXT 0-63 OK "\"The ideal defense in a case involving an accident is to persuade the jurors to hold the accident victim responsible for his or her plight,\" Mr. Vinson has written."

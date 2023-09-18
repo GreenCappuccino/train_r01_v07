@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr119.dat
+.SEGMENT TEXT 0-57 OK "PaineWebber Group Inc. announced a pullback on Thursday from stock-index arbitrage, a controversial program-trading strategy blamed by many investors for encouraging big stock-market swings."

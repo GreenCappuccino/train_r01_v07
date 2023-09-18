@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1978.dat
+.SEGMENT WORD 0-3 ? "Rear"
+.SEGMENT WORD 4-11 ? "Running"
+.SEGMENT WORD 12-18 ? "Sailor"
+.SEGMENT WORD 19-24 ? "Scales"

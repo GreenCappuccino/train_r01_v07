@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0806.dat
+.SEGMENT TEXT 0-54 ? "Be aware that classes start promptly at posted times"

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai1.doc
+.INCLUDE kai/data/kai1/jhjung4.dat
+.SEGMENT WORD 82 OK "whose"
+.SEGMENT WORD 106 OK "my"
+.SEGMENT WORD 123 OK "of"
+.SEGMENT WORD 136 OK "where"
+.SEGMENT WORD 167 OK "all"
+.SEGMENT WORD 182-183 OK "hot"
+.SEGMENT WORD 276 OK "are"

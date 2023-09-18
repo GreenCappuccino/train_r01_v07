@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr163.dat
+.SEGMENT TEXT 0-48 OK "In the series, Virgil Tibbs (Howard Rollins) and his wife, Althea (Anne-Marie Johnson) have settled in Sparta, Miss."

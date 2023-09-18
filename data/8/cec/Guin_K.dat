@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Guin_K.dat
+.SEGMENT TEXT 0-30 ? "Could you step into my office sometime ?"
+.SEGMENT TEXT 82-108 ? "Now they have charged us $520 ."
+.SEGMENT TEXT 109-137 ? "I need to talk to you about this ."
+.SEGMENT TEXT 199-223 ? "It could run upto two hours ."
+.SEGMENT TEXT 224-264 ? "In the afternoon , I am busy with another meeting ."
+.SEGMENT TEXT 278-304 ? "It shouldn't take too long ."
+.SEGMENT TEXT 399-449 ? "It is important that all new students attend this meeting ."

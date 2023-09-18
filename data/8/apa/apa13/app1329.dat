@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa13/app1329.dat
+.SEGMENT TEXT 0-29 ? "01234 56789 01234 56789"

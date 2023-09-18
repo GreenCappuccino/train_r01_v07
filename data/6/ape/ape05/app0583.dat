@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0583.dat
+.SEGMENT WORD 0-5 ? "Second"
+.SEGMENT WORD 6-10 ? "quarter"
+.SEGMENT WORD 11-19 ? "corporate"
+.SEGMENT WORD 20-28 ? "profits"
+.SEGMENT WORD 29-32 ? "were"
+.SEGMENT WORD 38-48 ? "Profits"
+.SEGMENT WORD 49-52 ? "rose"
+.SEGMENT WORD 57-63 ? "compared"
+.SEGMENT WORD 64-68 ? "with"

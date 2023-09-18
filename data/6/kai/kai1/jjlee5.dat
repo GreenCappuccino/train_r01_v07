@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai1.doc
+.INCLUDE kai/data/kai1/jjlee5.dat
+.SEGMENT WORD 3-5 OK "but"
+.SEGMENT WORD 6 OK "a"
+.SEGMENT WORD 23-25 OK "but"
+.SEGMENT WORD 64 OK "a"
+.SEGMENT WORD 91-94 OK "were"
+.SEGMENT WORD 97-99 OK "crush"
+.SEGMENT WORD 191-192 OK "by"
+.SEGMENT WORD 257-262 OK "crazy"

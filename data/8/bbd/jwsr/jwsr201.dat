@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr201.dat
+.SEGMENT TEXT 0-56 OK "The scientists at Plant Genetic Systems N.V. isolated a gene that could lead to a generation of plants possessing a high-production trait."

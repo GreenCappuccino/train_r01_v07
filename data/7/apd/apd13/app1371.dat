@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1371.dat
+.SEGMENT WORD 0-2 ? "rear"
+.SEGMENT WORD 3-10 ? "running"
+.SEGMENT WORD 11-17 ? "sailor"
+.SEGMENT WORD 18-23 ? "scales"

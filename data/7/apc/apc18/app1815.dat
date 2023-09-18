@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1815.dat
+.SEGMENT WORD 0-10 ? "nevertheless"
+.SEGMENT WORD 11-17 ? "nickel"
+.SEGMENT WORD 18-20 ? "nor"
+.SEGMENT WORD 21-22 ? "or"

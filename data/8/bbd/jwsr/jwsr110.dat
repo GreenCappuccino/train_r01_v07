@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr110.dat
+.SEGMENT TEXT 0-93 OK "Pressed by Chairman Dan Rostenkowski [D., Ill.] of the House Ways and Means Committee, Treasury Undersecretary Robert Glauber told a congressional hearing that the administration would give up its demand for the capital-gains tax cut if faced with a potential default."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2375.dat
+.SEGMENT WORD 0-2 ? "accept"
+.SEGMENT WORD 3-8 ? "afford"
+.SEGMENT WORD 9-11 ? "art"
+.SEGMENT WORD 12-13 ? "answers"

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1411174.dat
+.SEGMENT TEXT 0-9 ? "if ( argc ) if ( argv )"
+.SEGMENT TEXT 10-19 ? "if ( argc ) if ( argv )"
+.SEGMENT TEXT 30-41 ? "; int krud ; char"
+.SEGMENT TEXT 79-87 ? "num ; for ( ; ) {"
+.SEGMENT TEXT 117-131 ? "\" % 99 s \" , str ) ;"
+.SEGMENT TEXT 132-146 ? "\" % 99 s \" , str ) ;"
+.SEGMENT TEXT 177-189 ? "break ; printf ( \" % d"

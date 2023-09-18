@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd24/app2437.dat
+.SEGMENT WORD 0 ? "rush"
+.SEGMENT WORD 1-3 ? "finance"
+.SEGMENT WORD 4-5 ? "completed"
+.SEGMENT WORD 6 ? "proposal"

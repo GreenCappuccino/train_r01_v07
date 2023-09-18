@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr626.dat
+.SEGMENT TEXT 0-43 OK "He said he was giving up the golden share \"to clear the way so the playing field is level between all contestants.\""

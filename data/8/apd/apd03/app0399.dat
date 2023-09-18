@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd03/app0399.dat
+.SEGMENT TEXT 0-54 ? "Eastern Furniture Towne Jewelers Lock Co. Budget"

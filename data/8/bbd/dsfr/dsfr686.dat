@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr686.dat
+.SEGMENT TEXT 0-33 OK "At the close, the narrower 30-share index was up 19.7 points to 1721.4."

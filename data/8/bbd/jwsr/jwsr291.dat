@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr291.dat
+.SEGMENT TEXT 0-32 OK "The Dow Jones industrials finished up 41.60, at 2645.08."

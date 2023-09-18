@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr331.dat
+.SEGMENT TEXT 0-43 OK "Merieux previously said it would ensure its bid remained open pending a final decision by Canadian regulators on whether to approve the takeover."

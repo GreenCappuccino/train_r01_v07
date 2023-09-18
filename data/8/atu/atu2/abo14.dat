@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu2/abo14.dat
+.SEGMENT TEXT 0 ? "Heute wird es regnen"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr490.dat
+.SEGMENT TEXT 0-35 OK "But he said Akzo is considering \"alliances\" with American drug companies, although he wouldn't elaborate."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1868.dat
+.SEGMENT WORD 0-9 ? "Editor"
+.SEGMENT WORD 10-11 ? "VP"
+.SEGMENT WORD 12-23 ? "Operations"
+.SEGMENT WORD 24-33 ? "Director"
+.SEGMENT WORD 34-43 ? "Treasury"

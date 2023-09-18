@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Parthasarathy.dat
+.SEGMENT CHARACTER 155 ? ","
+.SEGMENT CHARACTER 270 ? ","
+.SEGMENT CHARACTER 577:73-577:105 ? "'"
+.SEGMENT CHARACTER 587 ? ","

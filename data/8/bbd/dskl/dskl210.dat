@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl210.dat
+.SEGMENT TEXT 0-74 OK "Hudson's Bay said that Woodbridge Co., which currently holds about 77% of the ordinary shares, will subscribe for all the shares to which it is entitled and for any shares that aren't otherwise taken up."

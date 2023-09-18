@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl274.dat
+.SEGMENT TEXT 0-50 OK "Christies says it has had no contact with Mr. Morishita since the stock purchase, but that it's happy to deal with him."

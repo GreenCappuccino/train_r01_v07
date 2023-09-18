@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr270.dat
+.SEGMENT TEXT 0-19 OK "But we're not going back to 1970.\""

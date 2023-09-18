@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr234.dat
+.SEGMENT TEXT 0-59 OK "\"people are looking for an ability to try and read the market, rather than be manipulated,\" said dudley a. eppel, manager of equity trading at donaldson, lufkin & jenrette."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2029.dat
+.SEGMENT WORD 0-8 ? "Spirit"
+.SEGMENT WORD 9-20 ? "Statement"
+.SEGMENT WORD 21-27 ? "Stream"
+.SEGMENT WORD 28-31 ? "Sums"

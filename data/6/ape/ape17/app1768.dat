@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1768.dat
+.SEGMENT WORD 0-6 ? "Allison"
+.SEGMENT WORD 7-10 ? "Anna"
+.SEGMENT WORD 11-20 ? "Benjamin"
+.SEGMENT WORD 21-26 ? "Cheryl"

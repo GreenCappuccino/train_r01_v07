@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Toepfer.dat
+.SEGMENT TEXT 0-68 ? "Somebody from the english class has borrowed the proceedings from the conference"
+.SEGMENT TEXT 104-154 ? "if anyone has use for a spreadsheet program let me know"
+.SEGMENT TEXT 155-185 ? "i have one that seems to work fine"
+.SEGMENT TEXT 186-252 ? "if anyone wants to use it i will give it to you"
+.SEGMENT TEXT 253-317 ? "then if it works i can make it available to everyone"
+.SEGMENT TEXT 318-396 ? "did anyone get a copy of the transparencies from their talk this morning"
+.SEGMENT TEXT 426-486 ? "i got our plane tickets in the mail about a week ago"
+.SEGMENT TEXT 670-742 ? "i'll be in my office this am and on and off in the afternoon"
+.SEGMENT TEXT 828-894 ? "is the new journal ready yet the one with charolettes new question"
+.SEGMENT TEXT 895-957 ? "could you put the training data files there as soon as possible"
+.SEGMENT TEXT 958-1010 ? "let me know when the journal and training data are ready"

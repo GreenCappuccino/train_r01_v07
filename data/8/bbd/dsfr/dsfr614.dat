@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr614.dat
+.SEGMENT TEXT 0-44 OK "Although GM has U.S. approval to buy up to 15% of Jaguar's stock, it hasn't yet disclosed how many shares it now owns."

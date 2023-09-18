@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1760.dat
+.SEGMENT WORD 0 ? "Young"
+.SEGMENT WORD 1-2 ? "in"
+.SEGMENT WORD 3-4 ? "future"

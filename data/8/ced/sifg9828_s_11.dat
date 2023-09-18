@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ced/ced3.lex
+.INCLUDE ced/ced3.doc
+.INCLUDE ced/data/sifg9828_s_11.dat
+.SEGMENT TEXT 7-14 ? "statue"
+.SEGMENT TEXT 15-30 ? "edification"
+.SEGMENT TEXT 42-49 ? "kowtow"
+.SEGMENT TEXT 50-55 ? "pushy"
+.SEGMENT TEXT 56-75 ? "pitter-patter"
+.SEGMENT TEXT 76-83 ? "xavier"

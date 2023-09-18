@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0511244.dat
+.SEGMENT TEXT 31-39 ? "end of the line"
+.SEGMENT TEXT 53-58 ? "Restrictions :"
+.SEGMENT TEXT 64-69 ? "Only eats comments"
+.SEGMENT TEXT 70-72 ? "once. Therefore"
+.SEGMENT TEXT 73-75 ? "once. Therefore"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr574.dat
+.SEGMENT TEXT 0-51 OK "People's Savings Financial Corp. said it will buy back as much as 10% of its 2.4 million shares outstanding because the stock is undervalued."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2334.dat
+.SEGMENT WORD 0-3 ? "Among"
+.SEGMENT WORD 4-7 ? "Apple"
+.SEGMENT WORD 8-11 ? "Arrange"
+.SEGMENT WORD 12-15 ? "Average"

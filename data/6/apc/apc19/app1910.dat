@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1910.dat
+.SEGMENT WORD 0-7 ? "Object"
+.SEGMENT WORD 8-17 ? "Opposite"
+.SEGMENT WORD 18-21 ? "Ours"
+.SEGMENT WORD 22-25 ? "Oven"

@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/word/hwaa/hwaa1072.dat
+.SEGMENT WORD 0-1 ? "Motel"

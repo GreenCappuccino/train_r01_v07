@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl353.dat
+.SEGMENT TEXT 0-50 OK "The success of \"Batibot\" stands in marked contrast to many academic and government attempts to promote Filipino as a national language."

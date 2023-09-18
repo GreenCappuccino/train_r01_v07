@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr144.dat
+.SEGMENT TEXT 0-44 OK "David Rockefeller, chairman of Rockefeller Group, said the company talked with many potential investors in Japan, the United States and Europe."

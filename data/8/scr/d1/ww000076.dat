@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE scr/scr.doc
+.INCLUDE scr/data/d1/ww000076.dat
+.SEGMENT TEXT 0-42 OK "the quick brown fox jumps over the lazy dog."
+.SEGMENT TEXT 185-255 OK "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG!"
+.SEGMENT TEXT 342-353 OK "0123456789"
+.SEGMENT TEXT 366-390 OK "@#%*(-)+[=]<>;"

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1748.dat
+.SEGMENT WORD 0-1 ? "Judge"
+.SEGMENT WORD 2 ? "had"
+.SEGMENT WORD 3-4 ? "found"
+.SEGMENT WORD 5 ? "some"
+.SEGMENT WORD 6 ? "papers"

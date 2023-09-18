@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-jhc.dat
+.SEGMENT TEXT 0-23 OK "The grass has a sweet smell"
+.SEGMENT TEXT 24-50 OK "What a dirty trick !"
+.SEGMENT TEXT 104-122 OK "No one will see them ."
+.SEGMENT TEXT 168-204 OK "I went away , and was gone about six weeks ."
+.SEGMENT TEXT 205-228 OK "Seven and eighty years have gone by ,"
+.SEGMENT TEXT 229-256 OK "from the day when our fathers"
+.SEGMENT TEXT 287-310 OK "To be or not to be ;"

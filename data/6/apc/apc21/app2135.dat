@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2135.dat
+.SEGMENT WORD 0-10 ? "equivalent"
+.SEGMENT WORD 11-24 ? "examination"
+.SEGMENT WORD 25-33 ? "explore"
+.SEGMENT WORD 34-36 ? "eye"

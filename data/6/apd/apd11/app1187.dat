@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1187.dat
+.SEGMENT WORD 0 ? "crowd"
+.SEGMENT WORD 1-3 ? "certain"
+.SEGMENT WORD 4 ? "dance"
+.SEGMENT WORD 5-6 ? "defeat"

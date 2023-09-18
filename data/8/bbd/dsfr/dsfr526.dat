@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr526.dat
+.SEGMENT TEXT 0-44 OK "Stewart & Stevenson Services Inc. said it received two contracts totaling $19 million to build gas-turbine generators."

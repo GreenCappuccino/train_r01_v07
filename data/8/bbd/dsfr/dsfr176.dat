@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr176.dat
+.SEGMENT TEXT 0-57 OK "Activity was fairly brisk at the opening as hopes for a recovery from last week's string of five consecutive losses in the industrial average led some investors into the market."

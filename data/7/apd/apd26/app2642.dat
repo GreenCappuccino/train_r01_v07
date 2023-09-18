@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2642.dat
+.SEGMENT WORD 0 ? "call"
+.SEGMENT WORD 1-4 ? "client,"
+.SEGMENT WORD 5 ? "schedule"
+.SEGMENT WORD 6-9 ? "their"
+.SEGMENT WORD 10-12 ? "meeting"
+.SEGMENT WORD 13-15 ? "tonight"

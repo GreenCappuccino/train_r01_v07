@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr184.dat
+.SEGMENT TEXT 0-37 OK "The industrial average hit bottom near the 2500 level on both Oct. 13 and Oct. 16."

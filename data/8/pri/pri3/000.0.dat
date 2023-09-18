@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri3/000.0.dat
+.SEGMENT TEXT 0-643 ? "I do not breed prizewinning clams. I haven't scaled Kanchenjunga (sp?) and I haven't beaten Eviel Knieviel's motorcycle jumping record. My favorite species of moss is Leucobrium Glaukum, which just edges out Mnium Undulatum. (I think I said Mnium Undulatum at the last party I went to.) There are no praying mantises or finger-long roaches in my shower (last time I checked.) My collection of chainsaws generally stays unused when I'm in the library, since I can honestly say I have more self-control than almost anyone. These are just the salient points I wanted to mention."

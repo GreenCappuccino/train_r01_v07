@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr150.dat
+.SEGMENT TEXT 0-35 OK "Rockefeller Group's management unit will continue to manage Rockefeller Center, a stipulation insisted upon by Rockefeller Group."

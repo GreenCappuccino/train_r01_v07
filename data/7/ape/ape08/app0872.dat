@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0872.dat
+.SEGMENT WORD 0-8 ? "E.T.C."
+.SEGMENT WORD 9-14 ? "Carpet"
+.SEGMENT WORD 15-19 ? "Mills"
+.SEGMENT WORD 20-22 ? "IBM"
+.SEGMENT WORD 23-26 ? "Sharp"
+.SEGMENT WORD 27 ? "General"
+.SEGMENT WORD 28-31 ? "Electric"

@@ -1,0 +1,18 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Hu.dat
+.SEGMENT TEXT 0-22 ? "Four pink grapefruits"
+.SEGMENT TEXT 36-72 ? "One half pound wilfson sliced turkey"
+.SEGMENT TEXT 73-89 ? "Large box of macoroni"
+.SEGMENT TEXT 90-98 ? "Catch up"
+.SEGMENT TEXT 99-129 ? "Six cans of frozen oraje juice"
+.SEGMENT TEXT 130-138 ? "frozen pizza"
+.SEGMENT TEXT 139-167 ? "eight cans of diet cola"
+.SEGMENT TEXT 242-250 ? "raisen bround"
+.SEGMENT TEXT 251-285 ? "three car of 2 percent milk"
+.SEGMENT TEXT 415-477 ? "The advertising slogan for Zincs is Quips at your finger tips"
+.SEGMENT TEXT 478-538 ? "To display a quote , a user whore one of an area of a manual"
+.SEGMENT TEXT 592-664 ? "Even though , at least 4 megabites of RAM are required to run Zines"
+.SEGMENT TEXT 722-792 ? "The products are aimed at the intellectual business men with a sense of humor"
+.SEGMENT TEXT 793-841 ? "They hope the users will find it fun and inexpensive"

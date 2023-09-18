@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr629.dat
+.SEGMENT TEXT 0-64 OK "As previously reported, the account is troubled, with Philip Morris asking Backer Spielvogel Bates, Ogilvy & Mather, and possibly others to try their hand at developing new creative work."

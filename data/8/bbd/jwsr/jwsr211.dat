@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr211.dat
+.SEGMENT TEXT 0-45 OK "Ogden Projects Inc. said net income jumped to $6.6 million, or 18 cents a share, in the third quarter."

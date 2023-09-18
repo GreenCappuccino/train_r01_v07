@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2958.dat
+.SEGMENT WORD 0-5 ? "rifle"
+.SEGMENT WORD 6-9 ? "roll"
+.SEGMENT WORD 10-13 ? "sale"
+.SEGMENT WORD 14-18 ? "several"

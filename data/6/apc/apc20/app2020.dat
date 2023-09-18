@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2020.dat
+.SEGMENT WORD 0-8 ? "Nitrogen"
+.SEGMENT WORD 9-17 ? "Northern"
+.SEGMENT WORD 18-22 ? "Nurse"
+.SEGMENT WORD 23-29 ? "Observe"

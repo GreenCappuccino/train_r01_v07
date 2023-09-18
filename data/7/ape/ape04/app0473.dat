@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0473.dat
+.SEGMENT WORD 0-7 ? "Advertisements"
+.SEGMENT WORD 8 ? "are"
+.SEGMENT WORD 9-12 ? "aimed"
+.SEGMENT WORD 13-14 ? "at"
+.SEGMENT WORD 15-19 ? "private"
+.SEGMENT WORD 20-24 ? "consumers"

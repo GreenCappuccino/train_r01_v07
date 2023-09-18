@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb18/app1838.dat
+.SEGMENT TEXT 0-37 ? "3M A-1 Plimbing Apple Bank of the West"

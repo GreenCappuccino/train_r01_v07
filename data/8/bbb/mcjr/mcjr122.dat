@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr122.dat
+.SEGMENT TEXT 0-38 OK "So far, though, there have been no allegations that the contributions the LDP members received amounted to bribes."

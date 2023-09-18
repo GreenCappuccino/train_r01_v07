@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr719.dat
+.SEGMENT TEXT 0-65 OK "French consumer prices rose 0.2% in September from the previous month and were up 3.4% from a year earlier, according to definitive figures from the National Statistics Institute."

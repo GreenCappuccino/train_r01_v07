@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1133.dat
+.SEGMENT WORD 0-2 ? "sometimes"
+.SEGMENT WORD 3-5 ? "steadily"
+.SEGMENT WORD 6-9 ? "straight"
+.SEGMENT WORD 10-13 ? "techniques"

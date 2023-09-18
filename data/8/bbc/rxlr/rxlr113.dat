@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr113.dat
+.SEGMENT TEXT 0-52 OK "Behind second-place Morgan Stanley were Kidder, Peabody & Co., Goldman, Sachs & Co. and CS First Boston Inc.'s First Boston Corp. unit."

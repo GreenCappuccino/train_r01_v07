@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-ben.dat
+.SEGMENT TEXT 39-50 OK "Give me your arm ."
+.SEGMENT TEXT 91-124 OK "He seems to have so little in common with us ."
+.SEGMENT TEXT 145-162 OK "from the day when our fathers"
+.SEGMENT TEXT 163-186 OK "gave to this land a new nation"

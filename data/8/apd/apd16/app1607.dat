@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1607.dat
+.SEGMENT TEXT 0-9 ? "Buy: -milk -bananas"

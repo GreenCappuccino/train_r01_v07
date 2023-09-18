@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb10/app1023.dat
+.SEGMENT TEXT 0-47 ? "She needs to upgrade to latest version"

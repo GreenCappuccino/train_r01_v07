@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3803.dat
+.SEGMENT WORD 0-3 ? "Mrs."
+.SEGMENT WORD 4-6 ? "Mr."
+.SEGMENT WORD 7-16 ? "Professor"
+.SEGMENT WORD 17-21 ? "Sgt."

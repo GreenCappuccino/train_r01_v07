@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0856.dat
+.SEGMENT WORD 0-4 ? "Lake"
+.SEGMENT WORD 5-10 ? "City"
+.SEGMENT WORD 11-13 ? "San"
+.SEGMENT WORD 14-19 ? "Diego"
+.SEGMENT WORD 20-24 ? "London"
+.SEGMENT WORD 25-30 ? "Madrid"

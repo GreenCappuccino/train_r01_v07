@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr839.dat
+.SEGMENT TEXT 0-79 OK "For one thing, Pentagon officials, who asked not to be identified, worry that the U.S. will have a much tougher time persuading Europeans to keep some short-range nuclear weapons on their soil once Soviet armored forces are thinned out."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2093.dat
+.SEGMENT WORD 0-10 ? "frontier"
+.SEGMENT WORD 11-14 ? "gang"
+.SEGMENT WORD 15-24 ? "gentlemen"
+.SEGMENT WORD 25-31 ? "giant"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2625.dat
+.SEGMENT WORD 0 ? "Try"
+.SEGMENT WORD 1-2 ? "being"
+.SEGMENT WORD 3-7 ? "anything"
+.SEGMENT WORD 8 ? "you"

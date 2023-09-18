@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0380.dat
+.SEGMENT TEXT 0-16 ? "6,862 $12,738.50"

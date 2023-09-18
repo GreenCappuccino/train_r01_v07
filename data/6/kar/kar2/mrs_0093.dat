@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE kar/kar2.doc
+.INCLUDE kar/data/kar2/mrs_0093.dat
+.SEGMENT WORD 0 ? "beefs"
+.SEGMENT WORD 1-2 ? "begrudge"
+.SEGMENT WORD 4-5 ? "brummond"
+.SEGMENT WORD 20-23 ? "centofanti"
+.SEGMENT WORD 35-37 ? "enrich"
+.SEGMENT WORD 54-55 ? "haymore"
+.SEGMENT WORD 68-70 ? "longstaff"
+.SEGMENT WORD 71 ? "lubell"
+.SEGMENT WORD 72-75 ? "mains"
+.SEGMENT WORD 76-80 ? "metamucil"
+.SEGMENT WORD 99-101 ? "pax"
+.SEGMENT WORD 102-105 ? "protector"
+.SEGMENT WORD 121-124 ? "trinkets"

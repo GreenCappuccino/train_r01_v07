@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0382.dat
+.SEGMENT WORD 0-9 ? "x4-3759"
+.SEGMENT WORD 10-23 ? "(408)966-1010"

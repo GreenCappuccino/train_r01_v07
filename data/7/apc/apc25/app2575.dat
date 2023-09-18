@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2575.dat
+.SEGMENT WORD 0-6 ? "Fight"
+.SEGMENT WORD 7-12 ? "Flight"
+.SEGMENT WORD 13-15 ? "Forever"
+.SEGMENT WORD 16-18 ? "Free"

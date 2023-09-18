@@ -1,0 +1,67 @@
+.DATA_SOURCE Scribtech 
+.DATA_ID scr_unipen_1
+.DATA_CONTACT 
+	Name: William Weiderman
+	Affiliation: Scrib Tek
+	Address: P.O. Box 13064, Arlington, TX 76094-0064
+	Phone: (817) 860-9671
+	Fax: (817) 861-9084
+	Email: william@rei.com
+.DATA_INFO 
+	Set type: Training
+	Alphabet:	English keyboard alphanumerics and symbols 
+		from the ASCII set.
+	Lexicon: 
+	Label Distribution: 
+	Quantity:
+	Quality: no cleaning
+	Number of writers: one per file.
+	Writing style: printed
+	Segmentation: word 
+.SETUP
+	Site: Dallas Texas
+	Writer population: general
+	Writer motivation: volunteer
+	Writer Physical position: sitting
+	Instructions given to writer: Copy string on screen
+	Duration of one session: 5 minutes
+	Recognizer feedback: no
+	Form layout: ruled line.
+.PAD
+	Machine Type : NCR System 3125 pen computer
+	Brand : NCR
+	Serial Nr. : 17-23835312
+	Sensor: MS-Windows for Pen
+	Pen: MS-Windows for Pen
+	Driver: MS-Windows for Pen
+	Sampling mode: Please refer to NCR documentation.
+	Accuracy: Please refer to NCR documentation.
+	Width: Please refer to NCR documentation.
+	Height: Please refer to NCR documentation.
+	Display: 640x480 VGA
+	Inking: Please refer to NCR documentation.
+.COORD X Y
+.HIERARCHY TEXT
+.ALPHABET
+	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9"
+	"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+	"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+	"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+	"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+	"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+	"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+	"," "." ";" "'" "`" "_" " "
+.STYLE PRINTED
+.X_DIM 2000
+.Y_DIM 1500
+.X_POINTS_PER_INCH 250
+.Y_POINTS_PER_INCH 250
+.POINTS_PER_SECOND 100
+.H_LINE 130
+
+.COMMENT
+	The line is 500 pixels long with the initial offset in the x direction of
+	20 pixels and offset in the y direction of 130 pixels.
+
+	The x-coordinates range from [-11 .. 7782].
+	The y-coordinates range from [1348 .. 4838].

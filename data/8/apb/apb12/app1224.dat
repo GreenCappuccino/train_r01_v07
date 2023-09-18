@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb12/app1224.dat
+.SEGMENT TEXT 0-33 ? "Doe Fox Garcia Hansen"

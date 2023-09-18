@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr134.dat
+.SEGMENT TEXT 0-62 OK "the following were among yesterday's offerings and pricings in the u.s. and non-u.s. capital markets, with terms and syndicate manager, as compiled by dow jones capital markets report:"

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0516.dat
+.SEGMENT WORD 0-2 ? "Sr."
+.SEGMENT WORD 3-13 ? "Engineer"
+.SEGMENT WORD 14-20 ? "Manager"
+.SEGMENT WORD 21-28 ? "Sales"
+.SEGMENT WORD 29-48 ? "Representative"
+.SEGMENT WORD 49-53 ? "CEO"

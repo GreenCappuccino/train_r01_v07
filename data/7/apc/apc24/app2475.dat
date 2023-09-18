@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2475.dat
+.SEGMENT WORD 0-5 ? "Mind"
+.SEGMENT WORD 6-11 ? "Moonlight"
+.SEGMENT WORD 12-15 ? "Master"
+.SEGMENT WORD 16-28 ? "Multiplication"

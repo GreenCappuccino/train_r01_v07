@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr129.dat
+.SEGMENT TEXT 0-47 OK "Nearly 6.3 million shares, or about 11.5% of the company's shares outstanding, changed hands in Big Board composite trading."

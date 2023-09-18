@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl124.dat
+.SEGMENT TEXT 0-61 OK "This is slightly adapted from remarks Oct. 7 by former Secretary of State George P. Shultz to an alumni gathering at the Stanford Business School, where he has returned to the faculty:"

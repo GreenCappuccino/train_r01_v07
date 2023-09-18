@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr265.dat
+.SEGMENT TEXT 0-20 OK "\"We want them to buy more of their wardrobe here.\""

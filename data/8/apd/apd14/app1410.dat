@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd14/app1410.dat
+.SEGMENT TEXT 0-43 ? "Fabrizio Fei Kenn Fran Gabriele"

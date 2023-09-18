@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app14/app1474.dat
+.SEGMENT TEXT 0-18 ? "was while he was thus"

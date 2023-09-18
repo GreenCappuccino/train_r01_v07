@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1139.dat
+.SEGMENT WORD 0 ? "works"
+.SEGMENT WORD 1-2 ? "what"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1999.dat
+.SEGMENT WORD 0-4 ? "died"
+.SEGMENT WORD 5-9 ? "dolls"
+.SEGMENT WORD 10-16 ? "drink"
+.SEGMENT WORD 17-20 ? "earn"

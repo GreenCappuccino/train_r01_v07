@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3974.dat
+.SEGMENT WORD 0-3 ? "Ken"
+.SEGMENT WORD 4-5 ? "can"
+.SEGMENT WORD 6-7 ? "be"
+.SEGMENT WORD 8-12 ? "found"
+.SEGMENT WORD 13-18 ? "with"
+.SEGMENT WORD 19-22 ? "his"
+.SEGMENT WORD 23-25 ? "car"

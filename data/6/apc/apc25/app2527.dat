@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2527.dat
+.SEGMENT WORD 0-2 ? "Does"
+.SEGMENT WORD 3 ? "he"
+.SEGMENT WORD 9-13 ? "Tell"
+.SEGMENT WORD 14-15 ? "him"

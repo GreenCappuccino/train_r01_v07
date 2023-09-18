@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr395.dat
+.SEGMENT TEXT 0-53 OK "Dow Jones said it extended the offer to allow shareholders time to review a supplement to the Dow Jones tender offer circular that it mailed last Friday."

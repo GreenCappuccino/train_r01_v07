@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb38/app3891.dat
+.SEGMENT TEXT 0-41 ? "Agoura Hills Paris Ft. Lauderdale Munich"

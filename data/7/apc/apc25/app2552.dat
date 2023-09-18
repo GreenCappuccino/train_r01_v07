@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2552.dat
+.SEGMENT WORD 0-2 ? "seasons"
+.SEGMENT WORD 3-4 ? "shape"
+.SEGMENT WORD 5-7 ? "shed"
+.SEGMENT WORD 8-10 ? "silent"

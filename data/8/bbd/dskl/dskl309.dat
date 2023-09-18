@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl309.dat
+.SEGMENT TEXT 0-42 OK "The seventh child of a store owner in Aichi prefecture, Mr. Morishita started out in the textile business."

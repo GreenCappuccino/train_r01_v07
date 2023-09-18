@@ -1,0 +1,16 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/eng4.dat
+.SEGMENT WORD 0 ? "bred"
+.SEGMENT WORD 6-9 ? "liberty"
+.SEGMENT WORD 13-14 ? "laser"
+.SEGMENT WORD 15 ? "read"
+.SEGMENT WORD 21-23 ? "joke"
+.SEGMENT WORD 24 ? "medal"
+.SEGMENT WORD 25-26 ? "fill"
+.SEGMENT WORD 32-34 ? "little"
+.SEGMENT WORD 36-37 ? "garden"
+.SEGMENT WORD 42 ? "overlay"
+.SEGMENT WORD 43 ? "coffee"
+.SEGMENT WORD 44-45 ? "stop"
+.SEGMENT WORD 46 ? "carve"

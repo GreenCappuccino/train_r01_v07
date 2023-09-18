@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu1/aah03.dat
+.SEGMENT TEXT 0 ? "Ich gehe nach Hause"

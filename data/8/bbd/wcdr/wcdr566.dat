@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr566.dat
+.SEGMENT TEXT 0-33 OK "Alan Reynolds of Polyconomics adds his suspicion that the unrecognized inflationary culprit is the budget surplus."

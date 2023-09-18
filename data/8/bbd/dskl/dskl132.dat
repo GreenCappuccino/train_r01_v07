@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl132.dat
+.SEGMENT TEXT 0-91 OK "the efforts to get to the people who are addicted, try to rehabilitate them; if they cannot be rehabilitated, at least to contain them; to educate people, to strongly discourage use of drugs by people who are casual users and first users, to stop this"

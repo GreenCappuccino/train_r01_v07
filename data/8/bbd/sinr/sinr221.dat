@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr221.dat
+.SEGMENT TEXT 0-25 OK "Net fell 1% to 3.23 billion yen from 3.26 billion yen."

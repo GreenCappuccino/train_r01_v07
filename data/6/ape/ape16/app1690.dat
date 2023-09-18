@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape16/app1690.dat
+.SEGMENT WORD 0-4 ? "Pedro"
+.SEGMENT WORD 5-9 ? "Phil"
+.SEGMENT WORD 10-15 ? "Rachel"
+.SEGMENT WORD 16-20 ? "Roger"

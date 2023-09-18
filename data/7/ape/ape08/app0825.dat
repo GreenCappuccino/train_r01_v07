@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0825.dat
+.SEGMENT WORD 0-3 ? "He"
+.SEGMENT WORD 4-10 ? "said,"
+.SEGMENT WORD 11-18 ? "\"There"
+.SEGMENT WORD 19-23 ? "will"
+.SEGMENT WORD 24-25 ? "be"
+.SEGMENT WORD 26-27 ? "no"
+.SEGMENT WORD 28-33 ? "change"
+.SEGMENT WORD 34-36 ? "in"
+.SEGMENT WORD 37-53 ? "organization\""

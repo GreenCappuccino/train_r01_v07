@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl109.dat
+.SEGMENT TEXT 0-70 OK "\"At this time, we elected not to get involved because we have been able to satisfy our need {for DRAMs} from the market as a rule,\" said Ed Juge, Tandy's director of market planning."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr695.dat
+.SEGMENT TEXT 0-43 OK "On the Frankfurt Stock Exchange, share prices closed higher in fairly thin trading, as selective buying by foreigners helped propel prices."

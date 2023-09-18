@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl134.dat
+.SEGMENT TEXT 0-56 OK "What part did U.S. warnings play in the major's unwillingness to pull the trigger when he had General Noriega in custody, but was under attack by pro-Noriega troops?"

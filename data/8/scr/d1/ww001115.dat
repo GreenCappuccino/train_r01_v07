@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE scr/scr.doc
+.INCLUDE scr/data/d1/ww001115.dat
+.SEGMENT TEXT 43-89 OK "Above, the frogs quickly jump down by six zebras."
+.SEGMENT TEXT 90-152 OK "THE FROGS ABOVE QUICKLY JUMP DOWN BY SIX ZEBRAS?"
+.SEGMENT TEXT 313-324 OK "9876543210"
+.SEGMENT TEXT 325-348 OK "@#%*(-)+[=]<>;"

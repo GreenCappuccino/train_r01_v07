@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl261.dat
+.SEGMENT TEXT 0-52 OK "The company not only merged three military-electronics manufacturing operations, but also closed an unrelated plant that makes ordnance devices used in fighter planes and missiles."

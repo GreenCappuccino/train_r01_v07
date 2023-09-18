@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1565.dat
+.SEGMENT TEXT 0-58 ? "890 San Antonio Plaza Square 34 Hollywood Circle 78 P.O. Box"

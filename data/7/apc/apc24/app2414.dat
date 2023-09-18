@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2414.dat
+.SEGMENT WORD 0-1 ? "crowd"
+.SEGMENT WORD 2-4 ? "certain"
+.SEGMENT WORD 5-7 ? "dance"
+.SEGMENT WORD 8-10 ? "defeat"

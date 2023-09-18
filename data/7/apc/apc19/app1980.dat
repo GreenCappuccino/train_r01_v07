@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1980.dat
+.SEGMENT WORD 0-5 ? "Slender"
+.SEGMENT WORD 6-9 ? "Snap"
+.SEGMENT WORD 10-14 ? "Solar"
+.SEGMENT WORD 15-19 ? "Spark"

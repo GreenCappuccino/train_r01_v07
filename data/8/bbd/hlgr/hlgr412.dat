@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr412.dat
+.SEGMENT TEXT 0-72 OK "A governing body of both the Financial Accounting Standards Board and the Governmental Accounting Standards Board voted to give the FASB jurisdiction over accounting standards for certain government-owned entities."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr146.dat
+.SEGMENT TEXT 0-56 OK "City and County of Honolulu - $75 million of general obligation bonds, 1989 Series B, due 1993-2009, through a Bear, Stearns & Co. group."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1390.dat
+.SEGMENT WORD 0-2 ? "gun"
+.SEGMENT WORD 3-8 ? "happens"
+.SEGMENT WORD 9-13 ? "heavens"
+.SEGMENT WORD 14-17 ? "hello"

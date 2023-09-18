@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb08/app0806.dat
+.SEGMENT TEXT 0-23 ? "They should hold on Apple"

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1744.dat
+.SEGMENT WORD 0-3 ? "travel"
+.SEGMENT WORD 4-6 ? "46"
+.SEGMENT WORD 7-11 ? "miles"
+.SEGMENT WORD 12 ? "due"
+.SEGMENT WORD 13-17 ? "north,"
+.SEGMENT WORD 18-19 ? "then"
+.SEGMENT WORD 20-21 ? "turn"
+.SEGMENT WORD 22-26 ? "right"

@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/me.dat
+.SEGMENT WORD 0 ? "arrive"
+.SEGMENT WORD 1-4 ? "butter"
+.SEGMENT WORD 5 ? "error"
+.SEGMENT WORD 8-9 ? "chief"
+.SEGMENT WORD 10 ? "liquid"
+.SEGMENT WORD 11 ? "laser"
+.SEGMENT WORD 12-13 ? "funny"
+.SEGMENT WORD 15-17 ? "exist"
+.SEGMENT WORD 18 ? "sphere"

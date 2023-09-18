@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr453.dat
+.SEGMENT TEXT 0-77 OK "Jimmy Carter went further in a 1976 campaign promise: \"If I become president, I'll make every piece of information this country has about UFO sightings available to the public, and the scientists."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr279.dat
+.SEGMENT TEXT 0-45 OK "Brooks Brothers' aim is for 20% of total sales to come from the women's department, up from the current 12%."

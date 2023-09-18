@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2251.dat
+.SEGMENT WORD 0-5 ? "Just"
+.SEGMENT WORD 6-7 ? "do"
+.SEGMENT WORD 17-22 ? "Its"
+.SEGMENT WORD 23-28 ? "just"
+.SEGMENT WORD 29-36 ? "through"
+.SEGMENT WORD 37-42 ? "that"
+.SEGMENT WORD 43-46 ? "door"

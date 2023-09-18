@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2656.dat
+.SEGMENT WORD 0-5 ? "George"
+.SEGMENT WORD 6-8 ? "can"
+.SEGMENT WORD 9-11 ? "be"
+.SEGMENT WORD 12-19 ? "reached"
+.SEGMENT WORD 20-22 ? "at"
+.SEGMENT WORD 23-34 ? "extension"
+.SEGMENT WORD 35-40 ? "number"

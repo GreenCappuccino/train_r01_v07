@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr160.dat
+.SEGMENT TEXT 0-37 OK "Imperial Holly fell 1 5/8 to 27 1/8 in the wake of its third-quarter earnings report."

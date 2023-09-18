@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2415.dat
+.SEGMENT WORD 0-6 ? "Dinosaur"
+.SEGMENT WORD 7-15 ? "Distant"
+.SEGMENT WORD 16-21 ? "Drift"
+.SEGMENT WORD 22-25 ? "Donkey"

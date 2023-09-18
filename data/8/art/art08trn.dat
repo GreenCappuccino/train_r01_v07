@@ -1,0 +1,17 @@
+.VERSION 1.0
+.INCLUDE art/data/art08trn.dat
+.SEGMENT TEXT 21-48 OK "but- few more before going!"
+.SEGMENT TEXT 49-64 OK "Are you tired?"
+.SEGMENT TEXT 109-138 OK "Don't be fool - stay in school."
+.SEGMENT TEXT 259-284 OK "answer: a racing cucumber;"
+.SEGMENT TEXT 285-305 OK "987 + 456 - 1230 * 76"
+.SEGMENT TEXT 339-389 OK "QUERQUE ASKED JOJO THE WAY TO ZIMZOCH"
+.SEGMENT TEXT 390-428 OK "and Jojo offered Querque to join him."
+.SEGMENT TEXT 465-489 OK "Querque started to sng:"
+.SEGMENT TEXT 490-522 OK "abcd efgh ijklm nop qrst uvwx yz."
+.SEGMENT TEXT 523-551 OK "Xuxlovp whistled alot of $"
+.SEGMENT TEXT 608-635 OK "\"ABC DEF GHIJ KL MNOP\""
+.SEGMENT TEXT 710-725 OK "z , p, v, k, x!!"
+.SEGMENT TEXT 726-757 OK "abc defg hij klmn opqrs tuv wxyz"
+.SEGMENT TEXT 758-797 OK "ABCD EFGH IJKLM NOPQR STUV WXYZ"
+.SEGMENT TEXT 798-814 OK "123 + 3456 - 890 = @"

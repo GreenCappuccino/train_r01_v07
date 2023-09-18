@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/word/hwaa/hwaa1305.dat
+.SEGMENT WORD 0-1 ? "Geburtstag"

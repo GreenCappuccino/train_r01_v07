@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2328.dat
+.SEGMENT WORD 0-4 ? "crack"
+.SEGMENT WORD 5 ? "curve"
+.SEGMENT WORD 6-9 ? "dark"
+.SEGMENT WORD 10 ? "deer"

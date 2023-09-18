@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2068.dat
+.SEGMENT WORD 0-8 ? "nothing"
+.SEGMENT WORD 9-12 ? "none"
+.SEGMENT WORD 13-19 ? "numbers"
+.SEGMENT WORD 20-23 ? "odor"

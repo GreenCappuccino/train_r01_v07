@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0821.dat
+.SEGMENT TEXT 0-66 ? "I've just arrived here; can you please tell me where supposed to go?"

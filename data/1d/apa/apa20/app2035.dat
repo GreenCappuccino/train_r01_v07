@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa20/app2035.dat
+.SEGMENT CHARACTER 30 ? "."
+.SEGMENT CHARACTER 40 ? ","

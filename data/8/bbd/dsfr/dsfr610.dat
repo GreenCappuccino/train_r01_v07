@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr610.dat
+.SEGMENT TEXT 0-73 OK "U.S. auto analysts also noted that Ford is in the best position to benefit from the large number of Jaguar shares that have moved over the past month into the hands of arbitragers waiting for the highest"

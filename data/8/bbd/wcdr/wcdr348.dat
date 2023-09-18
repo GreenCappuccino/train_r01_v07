@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr348.dat
+.SEGMENT TEXT 0-38 OK "The authority will issue a total of $446.5 million of pollution-control revenue bonds."

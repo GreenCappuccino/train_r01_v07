@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1841.dat
+.SEGMENT WORD 0-11 ? "Environment"
+.SEGMENT WORD 12-22 ? "Eventually"
+.SEGMENT WORD 23-31 ? "Exercise"
+.SEGMENT WORD 32-40 ? "Extent"

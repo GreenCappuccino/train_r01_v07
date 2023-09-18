@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2152.dat
+.SEGMENT WORD 0-6 ? "Nowhere"
+.SEGMENT WORD 7-9 ? "Of"
+.SEGMENT WORD 10-15 ? "Olive"
+.SEGMENT WORD 16-24 ? "Orchestra"

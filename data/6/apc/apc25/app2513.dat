@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2513.dat
+.SEGMENT WORD 0-4 ? "Touching"
+.SEGMENT WORD 5-9 ? "Twelve"
+.SEGMENT WORD 10-16 ? "Typical"

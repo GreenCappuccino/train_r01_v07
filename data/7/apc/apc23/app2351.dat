@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2351.dat
+.SEGMENT WORD 0-3 ? "mission"
+.SEGMENT WORD 4-10 ? "mountains"
+.SEGMENT WORD 11-14 ? "motor"
+.SEGMENT WORD 15-16 ? "mud"

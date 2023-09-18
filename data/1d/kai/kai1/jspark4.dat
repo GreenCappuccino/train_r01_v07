@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai1.doc
+.INCLUDE kai/data/kai1/jspark4.dat
+.SEGMENT CHARACTER 192:0-192:2 OK  "\@"
+.SEGMENT CHARACTER 937:0-937:2 OK  "\@"

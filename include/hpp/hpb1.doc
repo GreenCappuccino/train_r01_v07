@@ -1,0 +1,133 @@
+.VERSION 1.0
+.COMMENT #################################################################
+	 # 								   #
+	 #    This is the Stanford University / Hewlett Packard dataset.   #
+	 #    It was orginally collected by:				   #
+	 #	        Prof. David Rumelhart				   #
+	 #	        Psychology Department				   #
+	 #	        Stanford					   #
+	 #    With funding assistance and additional data cleaning from	   #
+	 #    Hewlett Packard Laboratories. HP is named as the data 	   #
+	 #    contact to reduce the work load on Stanford but we 	   #
+	 #    gratefully acknowledge Prof. Rumelhart's willingness to 	   #
+	 #    donate this data to the community.			   #
+	 # 								   #
+	 ################################################################
+
+.DATA_SOURCE 	Stanford University/Hewlett Packard Laboratories
+.DATA_ID 	hpb1
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" "\ "
+
+.ALPHABET_FREQ  1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1
+
+.HIERARCHY      TEXT WORD
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+         #####################
+
+.DATA_CONTACT 
+         Name:        	Dave Reynolds
+         Affiliation: 	Hewlett Packard Laboratories
+         Address:     	Filton Road,
+			Stoke Gifford,
+			Bristol, BS12 6QZ, UK
+         Phone: 	+44-272-228165
+         Fax:   	+44-272-228128
+			(Area code will change to 1179 in April 95)
+         Email: 	der@hplb.hpl.hp.com
+	 N.B. Dave Reynolds merely organised the donation and format
+	 conversion of the data and gratefully acknowledges the willingness
+	 of Prof. Rumelhart to donate this data to the community.
+
+.SETUP   Site:  	Stanford University
+         Time:  	Summer 1991
+	 Writer population:	Students and staff of Stanford University
+	 Writer motivation:     Paid (few $ per 1000 words)
+         Writer physical position:	Sitting at desk.
+	 Instructions given to the writer:
+		"Write words as neatly and naturally as possible."
+		Single words, numbers and sentences, read out in random order
+		from audio tape. 
+		Experimenter continuously monitored collection on second
+		screen and sometimes asked for words to be rewritten.
+	 Duration of one session: Approximately 2 hours.
+	 Recognizer feedback: No.
+         Form layout:  
+		Lined paper, appoximately 3 words written per line.  Initial
+         	segmentation carried by time (sync to tape recorder) rather
+         	than by spatial position.
+
+.DATA_INFO    
+	 Set type: training and test, writer subset designated for test
+	 ^^^^^^^^         
+	 Alphabet: English keyboard alphanumerics and symbols 
+		   from the ASCII set
+         Lexicon:  basic.lex, Basic English
+         Label distribution: ??
+         Quantity: 750 words, 50 numbers, 12 sentences per writer
+		   This data set contains segmented sentence data, words and
+		   numbers in separate data set (hpb0).
+         Quality:  
+		(a) Initial monitoring by experimenter to request rewrites.
+		(b) Detection of suspect cases using preliminary recogniser
+		    Manual inspection of suspect cases with labelling or
+		    correction as appropriate.
+         Number of Writer(s): 95
+         Writing Style: 
+		"Natural", includes primarly printed, primarily
+                cursive and mixed.
+         Segmentation:
+		(a) Time based segmentation of words from stimulus.
+		(b) Manual correction of segmentation errors in suspect words.
+		(c) Manual segmentation of sentence data into words.
+			
+
+.PAD     Machine name: 	Wacom 420-L
+	 Brand:		Wacom
+	 Type:		420-L
+	 Serial Nr.:	?
+         Sensor:	Electromagnetic, wireless pen
+         Pen:		Untethered inking pen, tip switch, ball point refill
+			Tip switch used for pen up/down sensing.
+         Driver:	UNIX serial line data capature, equi-time sampling.
+	 Sampling mode: Equi-time continuous sample
+	 Sampling rate: 200 [Hz]
+	 Resolution:	.001 [inch]
+	 Accuracy:	.5  [mm] ??
+	 Width:		12  [inch]
+	 Height:	12  [inch]
+         Display:	Lined paper, direct inking by Pen.
+			No electronic feedback to subject.
+	 Inking:	Ballpoint pen refil.
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+.X_DIM   12000
+.Y_DIM   12000
+
+.COMMENT #####################
+         ###  UNIT SYSTEM  ###
+         #####################
+
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+.POINTS_PER_SECOND 200
+.COORD             X Y

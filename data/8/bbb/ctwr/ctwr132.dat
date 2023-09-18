@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr132.dat
+.SEGMENT TEXT 0-80 OK "After talking on and off for the past four weeks, Mr. Roman said, he agreed to take the job because \"it's the right time, it's a terrific opportunity, and I think I leave the company in very strong hands."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd28/app2823.dat
+.SEGMENT TEXT 0-91 ? "The Splendid Feast Yosh for Hair National Glass, Inc. Foothill Landscaping"

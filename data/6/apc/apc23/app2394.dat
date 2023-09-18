@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2394.dat
+.SEGMENT WORD 0-3 ? "Peaceful"
+.SEGMENT WORD 4-6 ? "Pie"
+.SEGMENT WORD 7-13 ? "Planting"
+.SEGMENT WORD 14-20 ? "Political"

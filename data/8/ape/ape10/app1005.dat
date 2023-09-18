@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1005.dat
+.SEGMENT TEXT 0-42 ? "President Assistant Broker Art Director"

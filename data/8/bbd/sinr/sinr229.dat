@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr229.dat
+.SEGMENT TEXT 0-68 OK "Preliminary cost-of-living data for the current month are calculated based on inflation data from the four largest West German states - Baden-Wuerttemberg, North Rhine-Westphalia, Bavaria and Hesse."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0411454.dat
+.SEGMENT TEXT 99-104 ? "or newline. * /"
+.SEGMENT TEXT 113-119 ? "/ * Usage example :"
+.SEGMENT TEXT 140-155 ? "* # include < stdio.h >"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2634.dat
+.SEGMENT TEXT 0-18 ? "Does he know? Tell him"

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE scr/scr.doc
+.INCLUDE scr/data/d1/ww000085.dat
+.SEGMENT TEXT 0-32 OK "the quick brown fox jumps over the lazy dog."
+.SEGMENT TEXT 33-73 OK "Above, the frogs quickly jump down by six zebras."
+.SEGMENT TEXT 74-128 OK "THE FROGS ABOVE QUICKLY JUMP DOWN BY SIX ZEBRAS?"
+.SEGMENT TEXT 192-223 OK "abcdefghijklmnopqrstuvwxyz"
+.SEGMENT TEXT 224-261 OK "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+.SEGMENT TEXT 283-305 OK "@#%*(-)+[=]<>;"

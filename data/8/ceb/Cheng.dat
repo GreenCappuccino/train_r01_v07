@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Cheng.dat
+.SEGMENT TEXT 167-213 ? "Next take 290 west to the 990 north bound"
+.SEGMENT TEXT 405-443 ? "This left turn will be an U turn"
+.SEGMENT TEXT 444-510 ? "Go on outterbound parkway to the next big intersection"
+.SEGMENT TEXT 631-681 ? "Turn left until white Road at the next stop sign ."
+.SEGMENT TEXT 682-738 ? "Park in Furnas parking lot at the end of white road"
+.SEGMENT TEXT 739-781 ? "It is the last parking lot on the right ."
+.SEGMENT TEXT 782-848 ? "If you have any questions , call Elizabeth at 5551234"

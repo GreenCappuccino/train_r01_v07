@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr646.dat
+.SEGMENT TEXT 0-30 OK "Mr. Kuehn, the company said, will retain the rest of the current management team."

@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2407.dat
+.SEGMENT WORD 0-3 ? "Hold"
+.SEGMENT WORD 4 ? "on"
+.SEGMENT WORD 5 ? "to"
+.SEGMENT WORD 6-7 ? "your"
+.SEGMENT WORD 8-13 ? "stock"
+.SEGMENT WORD 14-16 ? "another"
+.SEGMENT WORD 17-18 ? "day"

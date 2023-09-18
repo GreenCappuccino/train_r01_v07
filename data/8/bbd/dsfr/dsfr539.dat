@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr539.dat
+.SEGMENT TEXT 0-25 OK "Reserves traded among commercial banks for overnight use in amounts of $1 million or more."

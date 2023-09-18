@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0742.dat
+.SEGMENT WORD 0-3 ? "settlement"
+.SEGMENT WORD 4-5 ? "shut"
+.SEGMENT WORD 6-10 ? "somewhat"
+.SEGMENT WORD 11 ? "suddenly"

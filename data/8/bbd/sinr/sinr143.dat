@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr143.dat
+.SEGMENT TEXT 0-44 OK "The bonds are tentatively priced to yield from 6.90% in 1996 to 7.55% in 2023."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1764.dat
+.SEGMENT WORD 0-4 ? "Grew"
+.SEGMENT WORD 5-12 ? "Guests"
+.SEGMENT WORD 13-18 ? "Hat"
+.SEGMENT WORD 19-24 ? "Have"

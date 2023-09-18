@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2198.dat
+.SEGMENT WORD 0-5 ? "Slowed"
+.SEGMENT WORD 6-12 ? "Tongue"
+.SEGMENT WORD 13-19 ? "Taste"
+.SEGMENT WORD 20-31 ? "Territory"

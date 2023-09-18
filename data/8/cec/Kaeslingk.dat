@@ -1,0 +1,25 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Kaeslingk.dat
+.SEGMENT TEXT 31-73 ? "ES-SOFT has a legitimate case for suing ."
+.SEGMENT TEXT 74-106 ? "An out of court settlement is probably best ."
+.SEGMENT TEXT 126-154 ? "We should ask for one million dollars as compensation ."
+.SEGMENT TEXT 182-216 ? "Other companies willfully infringed on their rights ."
+.SEGMENT TEXT 217-243 ? "The software license agreement is binding ."
+.SEGMENT TEXT 244-276 ? "Disputing clause 7 would probably be justified ."
+.SEGMENT TEXT 277-313 ? "Advertising without prior consent is illegal ."
+.SEGMENT TEXT 314-346 ? "They are liable for prosecution under state provisions ."
+.SEGMENT TEXT 347-373 ? "Consulting a patent attorney is advisable ."
+.SEGMENT TEXT 487-515 ? "Could you step into my office sometime ?"
+.SEGMENT TEXT 516-566 ? "When I called the warehouse some days ago , I was quoted $350 for the system ."
+.SEGMENT TEXT 567-589 ? "Now they have charged us $520 ."
+.SEGMENT TEXT 590-618 ? "I need to talk to you about this ."
+.SEGMENT TEXT 676-696 ? "It could run up to two hours ."
+.SEGMENT TEXT 697-731 ? "In the afternoon , I am busy with another meeting ."
+.SEGMENT TEXT 732-744 ? "You can stop by whenever ."
+.SEGMENT TEXT 745-767 ? "It shouldn't take too long ."
+.SEGMENT TEXT 825-857 ? "We could talk on Tuesday if you prefer that ."
+.SEGMENT TEXT 858-906 ? "It is important that all new students attend this meeting ."
+.SEGMENT TEXT 907-955 ? "We'll be meeting in Rita's office in Baldy ."
+.SEGMENT TEXT 956-1010 ? "P.S. I suspect that the Tuesday session won't be very long either ."

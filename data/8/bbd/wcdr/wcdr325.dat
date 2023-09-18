@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr325.dat
+.SEGMENT TEXT 0-50 OK "The TVS spokesman said Mr. Price still holds about an 8% TVS stake, acquired as part of the MTM acquisition."

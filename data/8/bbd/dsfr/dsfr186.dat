@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr186.dat
+.SEGMENT TEXT 0-44 OK "He added that the floor could prove to be well above the recent price lows, depending on whether the economic data ease concerns about slower growth."

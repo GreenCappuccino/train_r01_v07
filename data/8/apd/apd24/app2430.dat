@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd24/app2430.dat
+.SEGMENT TEXT 0-13 ? "Fax her the results Mon. morning"

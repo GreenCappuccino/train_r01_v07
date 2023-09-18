@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri1/000.0.dat
+.SEGMENT TEXT 19-27 ? "pillow sham"
+.SEGMENT TEXT 28-40 ? "corpus delicti"
+.SEGMENT TEXT 138-162 ? "capitalization issue"
+.SEGMENT TEXT 264-276 ? "string along"
+.SEGMENT TEXT 288-306 ? "thermal conductivity"
+.SEGMENT TEXT 307-311 ? "blood heat"
+.SEGMENT TEXT 336-342 ? "games theory"
+.SEGMENT TEXT 483-491 ? "parrot fever"
+.SEGMENT TEXT 506-512 ? "alpha iron"
+.SEGMENT TEXT 801-819 ? "electric potential"
+.SEGMENT TEXT 827-849 ? "categorical imperative"

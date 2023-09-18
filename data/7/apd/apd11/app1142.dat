@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1142.dat
+.SEGMENT WORD 0-1 ? "counter"
+.SEGMENT WORD 2 ? "crown"
+.SEGMENT WORD 3-5 ? "curtain"
+.SEGMENT WORD 6 ? "damp"

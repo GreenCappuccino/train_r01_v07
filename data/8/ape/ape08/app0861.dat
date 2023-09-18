@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0861.dat
+.SEGMENT TEXT 0-35 ? "Hawaii North Carolina West Virginia Colorado"

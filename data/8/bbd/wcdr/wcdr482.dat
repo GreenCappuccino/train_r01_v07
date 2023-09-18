@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr482.dat
+.SEGMENT TEXT 0-34 OK "Now, as a new downturn in the chemical industry looms, Akzo says it is in far better shape to cope."

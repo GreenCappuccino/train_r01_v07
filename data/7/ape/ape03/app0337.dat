@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0337.dat
+.SEGMENT WORD 0 ? "Blue"
+.SEGMENT WORD 1-2 ? "Springs"
+.SEGMENT WORD 3 ? "Cedar"
+.SEGMENT WORD 4-6 ? "Falls"
+.SEGMENT WORD 7 ? "Coral"
+.SEGMENT WORD 8 ? "Gables"
+.SEGMENT WORD 9-10 ? "Santa"
+.SEGMENT WORD 11 ? "Cruz"

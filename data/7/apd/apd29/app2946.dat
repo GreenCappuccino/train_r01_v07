@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2946.dat
+.SEGMENT WORD 0-11 ? "grandmother"
+.SEGMENT WORD 12-16 ? "guide"
+.SEGMENT WORD 17-24 ? "hadn't"
+.SEGMENT WORD 25-32 ? "helpful"

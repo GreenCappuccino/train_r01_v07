@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr538.dat
+.SEGMENT TEXT 0-47 OK "At 12:01 a.m. EST today, the federal government's temporary $2.87 trillion debt limit expired."

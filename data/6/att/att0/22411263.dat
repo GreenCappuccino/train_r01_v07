@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22411263.dat
+.SEGMENT WORD 61-69 ? "static"
+.SEGMENT WORD 70-76 ? "FILE"
+.SEGMENT WORD 208-211 ? "int"
+.SEGMENT WORD 212-221 ? "nminit"
+.SEGMENT WORD 246-249 ? "user"
+.SEGMENT WORD 251-255 ? "clock"
+.SEGMENT WORD 270-279 ? "register"
+.SEGMENT WORD 280-283 ? "char"

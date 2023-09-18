@@ -1,0 +1,76 @@
+.VERSION 1.0
+
+.DATA_SOURCE IBM Hawthorne, New York
+.DATA_ID     ibm1
+
+.COMMENT Alphabet is empirically determined from data.
+
+.ALPHABET "." "A" "B" "C" "D" "E" "F" "G" "I" "J" "M" "N" 
+          "O" "P" "R" "S" "T" "U" "W" "Y" "a" "b" "c" "d" 
+          "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" 
+          "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+
+.ALPHABET_FREQ 1 129 17 9 17 17 45 29 17 38 55 51 
+               17 41 26 113 8 33 17 17 4323 667 2419 1726 
+               6672 826 1109 1811 4190 54 293 2341 1384 3726 3683 1167 
+               27 3844 3940 4731 1677 671 729 44 878 108 
+.COMMENT Total characters in database: 38000 . 46 character classes.
+
+.DATA_CONTACT
+         Name:		Andrew W. Senior
+         Affiliation:	IBM T. J. Watson Research Center
+         Address:	30 Saw Mill River Rd. Hawthorne, NY 10532
+         Phone:		(914) 784-7701
+         Fax:		(914) 784-6534
+         Email:		aws@watson.ibm.com
+
+.HIERARCHY      WORD
+
+.SETUP   Site: IBM Boca
+         Time:
+         Writer population: 
+         Writer motivation: paid
+         Writer physical position: sitting
+         Instructions given to the writer:
+         Duration of one session:
+         Recognizer feedback: yes
+         Form layout: 
+
+.DATA_INFO
+         Set type: training or test
+         Alphabet: English keyboard alphanumerics basic punctuation
+         Lexicon: word.lex
+         Label distribution:
+         Quantity: See comment.
+         Quality: cleaning
+         Number of Writer(s): 1
+         Writing Style: cursive
+         Segmentation: word
+
+
+.PAD     Machine name: Bluestone
+         Brand:        IBM
+         Type:
+         Serial Nr.:
+         Sensor:        Microtouch, conductive film on glass overlay
+         Pen:           tethered, conductive polymer tip, or pencil-lead tip
+         Driver:        custom device driver, custom bus interface
+         Sampling mode: equal time, programmable rate, contact only
+         Sampling rate: typically 200/sec, higher rates possible
+         Resolution:    0.04mm
+         Accuracy:      < 0.5mm after calibration, degrades over time
+         Width:
+         Height:
+         Display:       mono backlight LCD
+         Inking:        hardware inking ?
+
+.X_POINTS_PER_INCH 254
+.Y_POINTS_PER_INCH 254
+.POINTS_PER_SECOND 100  
+.COORD             X Y
+
+.COMMENT     Dimensions are empirically determined.
+           Minimum x,y coords observed were 9,588.
+
+.X_DIM     2456
+.Y_DIM     1865

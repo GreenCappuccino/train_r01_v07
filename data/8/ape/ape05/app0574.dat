@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0574.dat
+.SEGMENT TEXT 0-40 ? "March 21 marks the beginning of Spring"

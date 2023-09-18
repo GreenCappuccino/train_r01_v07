@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr123.dat
+.SEGMENT TEXT 0-28 OK "Aside from the takeover news, big buy orders were placed for blue-chip shares in afternoon trading."

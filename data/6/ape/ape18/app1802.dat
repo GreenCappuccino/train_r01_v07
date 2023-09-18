@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1802.dat
+.SEGMENT WORD 0-9 ? "Cupertino"
+.SEGMENT WORD 10-19 ? "Florist"
+.SEGMENT WORD 20-26 ? "Ford"
+.SEGMENT WORD 27-36 ? "Sunnyvale"
+.SEGMENT WORD 37-40 ? "El"
+.SEGMENT WORD 41-46 ? "Camino"
+.SEGMENT WORD 47-56 ? "Hospital"
+.SEGMENT WORD 57-64 ? "Century"

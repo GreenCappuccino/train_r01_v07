@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr620.dat
+.SEGMENT TEXT 0-49 OK "Mr. Klein will work with Mr. Kroll on some of the agency's joint venture activities and acquisitions while the case is pending."

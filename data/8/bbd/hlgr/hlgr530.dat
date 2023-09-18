@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr530.dat
+.SEGMENT TEXT 0-38 OK "Pierre Vinken, 61 years old, owes AT&T $30,981 by Nov. 21, 1989."

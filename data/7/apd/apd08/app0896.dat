@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd08/app0896.dat
+.SEGMENT WORD 0-2 ? "CA"
+.SEGMENT WORD 3-5 ? "UT"
+.SEGMENT WORD 6-8 ? "MA"
+.SEGMENT WORD 9-11 ? "FL"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0599.dat
+.SEGMENT TEXT 0-27 ? "Dinner at Max's: Palo Alto"

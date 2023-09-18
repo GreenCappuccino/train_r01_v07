@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb31/app3172.dat
+.SEGMENT TEXT 0-29 ? "Peggy Sue Shirley Yi Zachary"

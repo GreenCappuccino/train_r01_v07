@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr110.dat
+.SEGMENT TEXT 0-22 OK "Overall, Salomon reported program trading volume of 75.2 million shares."

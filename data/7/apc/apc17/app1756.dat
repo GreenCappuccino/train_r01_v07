@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1756.dat
+.SEGMENT WORD 0-6 ? "Engineer"
+.SEGMENT WORD 7-11 ? "Equal"
+.SEGMENT WORD 12-22 ? "Estimated"
+.SEGMENT WORD 23-31 ? "Exchange"

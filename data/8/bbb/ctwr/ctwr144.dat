@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr144.dat
+.SEGMENT TEXT 0-17 OK "\"I consider this a second career,\" he said."

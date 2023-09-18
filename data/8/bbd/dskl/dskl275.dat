@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl275.dat
+.SEGMENT TEXT 0-44 OK "\"We like to make our own judgments\" about Mr. Morishita, says Christopher Davidge, Christies' group managing director."

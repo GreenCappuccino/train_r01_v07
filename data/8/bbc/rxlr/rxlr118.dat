@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr118.dat
+.SEGMENT TEXT 0-64 OK "Imperial is in the midst of reducing its junk-bond holdings and getting out of the investment banking business in order to return to traditional thrift activities."

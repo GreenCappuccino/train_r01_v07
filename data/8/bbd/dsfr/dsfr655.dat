@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr655.dat
+.SEGMENT TEXT 0-41 OK "In Tokyo, the Nikkei index of 225 selected issues was up 132.00 points to 35549.44."

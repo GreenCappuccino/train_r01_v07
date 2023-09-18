@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1796.dat
+.SEGMENT WORD 0-4 ? "drawn"
+.SEGMENT WORD 5-10 ? "drill"
+.SEGMENT WORD 11-15 ? "duty"
+.SEGMENT WORD 16-19 ? "each"

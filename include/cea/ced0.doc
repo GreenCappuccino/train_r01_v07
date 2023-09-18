@@ -1,0 +1,92 @@
+.VERSION           1.0
+.DATA_SOURCE       Center of Excellence for Document Analysis and 
+                   Recognition (CEDAR)
+.DATA_ID           ced0
+.ALPHABET          "0" "1" "2" "3" "4" "5" "6" "7" "8" "9"
+                   "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                   "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+                   "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                   "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z"
+                   "$" "%" "&" "-" "?" "\"" ":" "," "."
+.ALPHABET_FREQ	   36 12 8 12 10 11 1 5 4 6
+		   28 17 22 18 12 14 11 26 94 10 6 10 16
+		   12 13 25 9 12 31 86 6 5 32 4 6 13
+		   1007 187 329 388 1621 311 272 564 876 37 134 533 276
+		   913 999 238 36 753 850 1142 447 137 219 41 274 48
+		   6 2 3 27 24 18 2 75 244
+.DATA_CONTACT
+                   Name:            Rohini K. Srihari
+                   Address:         UB Commons, 520 Lee Entrance - Suite 202
+                                    Buffalo, New York 14228-2567
+                   Phone:           (716) 645-6164  Ext. 102
+                   Fax:             (716) 645-6176
+                   E-mail:          rohini@cs.buffalo.edu
+                   
+.DATA_INFO
+                   Set type:        Training
+                   Alphabet:        English keyboard alphanumerics and symbols
+                                    from the ASCII set
+                   Lexicon:         Words are from the English language (with
+                                    some misspellings) plus proper names.
+                                    877 unique words.
+                   No. of Writers:  22
+		   Quantity:        347 sentences
+				    3,348 words
+                                    13,734 characters
+                   Segmentation:    Manual segmentation at the word and 
+				    character level.
+
+.PAD
+                   Machine name:    WACOM SD-311E
+                   Brand:           WACOM
+                   Model number:    SD-311E
+                   Serial number:   OLOJB0012
+                   Description:     Opaque tablet with electrostatic
+                                    adhesion surface.
+                   Sampling rate:   105 points per second
+                   Resolution:      50 points per mm
+                   Width:           18 inches (457.2 mm)
+                   Height:          12 inches (304.8 mm)
+                   Pen:             WACOM SP-200
+                                    Untethered, wireless, inking pen 
+                                    with tip switch and side button.  
+                                    Tip switch used for PenUp/PenDown 
+                                    determination.
+                   Sensor:          Electromagnetic resonance sensor.
+                   Driver:          Home-made driver and interface for SUN
+                                    workstation.
+                                    Time-equidistant sampling between .PEN_UP
+                                    and .PEN_DOWN.
+
+.SETUP
+                   Site:   CEDAR Offices, 520 Lee Entrance, Suite 202
+                           State University of New York at Buffalo
+                   Dates:  June - September 1994
+                   Writer population:  Most of the writers were students
+                      at SUNY/Buffalo.  However, there were some from other
+                      parts of the Western New York area.
+                   Writer motivation:  The majority of writers were paid
+                      $7.00 for their participation.  However, there were
+                      also many volunteers.  (Most volunteers were people
+                      who worked at CEDAR.)
+                   Writer physical position:  Sitting.
+                   Instructions given to the writer: No special instructions
+		      given. They were told to write naturally. 
+                   Duration of one session:  Approximately one hour.
+                   Data collection procedure:  Writers listened to spoken
+                      sentences on a pair of headphones.  After hearing 
+                      each sentence, they wrote it in on a blank sheet 
+                      of lined paper which had been placed on the tablet.  
+                      Writers had the option to replay and rewrite the 
+                      sentence as many times as they wanted.
+                   Machines:  WACOM SD-311E tablet connected to SUN
+                      SPARCstation IPC.  Sentences displayed on SUN monitor.
+
+.X_DIM             10401
+.Y_DIM             1895
+.X_POINTS_PER_MM   50
+.Y_POINTS_PER_MM   50
+.POINTS_PER_SECOND 100
+.COORD             X Y
+
+.HIERARCHY         TEXT WORD CHARACTER

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr137.dat
+.SEGMENT TEXT 0-26 OK "During the past 15 years, the report showed, housing prices increased nearly fivefold."

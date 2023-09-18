@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb27/app2737.dat
+.SEGMENT TEXT 0-40 ? "few quips galvanized the mock jury box"

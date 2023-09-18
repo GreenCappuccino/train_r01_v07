@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr174.dat
+.SEGMENT TEXT 0-44 OK "The two leaders are expected to discuss changes sweeping the East bloc as well as human-rights issues, regional disputes and economic cooperation."

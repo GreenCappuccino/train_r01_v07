@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri1/150.0.dat
+.SEGMENT TEXT 17-31 ? "three-legged race"
+.SEGMENT TEXT 147-167 ? "principal focus"
+.SEGMENT TEXT 312-328 ? "straight flush"
+.SEGMENT TEXT 366-382 ? "pilot whale"
+.SEGMENT TEXT 383-405 ? "oxygen acid"
+.SEGMENT TEXT 476-498 ? "commissioner for oaths"
+.SEGMENT TEXT 537-549 ? "cantus firmus"
+.SEGMENT TEXT 586-598 ? "sweet cicely"
+.SEGMENT TEXT 599-611 ? "sotto voce"
+.SEGMENT TEXT 955-967 ? "make with"
+.SEGMENT TEXT 1070-1086 ? "virtual image"
+.SEGMENT TEXT 1157-1173 ? "systems engineering"
+.SEGMENT TEXT 1174-1182 ? "moss rose"

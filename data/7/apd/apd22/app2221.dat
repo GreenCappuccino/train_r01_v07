@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd22/app2221.dat
+.SEGMENT WORD 0-4 ? "Miss."
+.SEGMENT WORD 5-9 ? "Minn."
+.SEGMENT WORD 10-11 ? "N."
+.SEGMENT WORD 12-18 ? "Dak."
+.SEGMENT WORD 19-23 ? "Conn."

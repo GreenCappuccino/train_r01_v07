@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl284.dat
+.SEGMENT TEXT 0-49 OK "And the acquisition, which made Aska one of Christies' top five shareholders, left many people wondering who this man was and what his intentions were."

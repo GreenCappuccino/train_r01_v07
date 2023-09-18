@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2553.dat
+.SEGMENT WORD 0-2 ? "Slender"
+.SEGMENT WORD 3-5 ? "Snap"
+.SEGMENT WORD 6-9 ? "Solar"
+.SEGMENT WORD 10-13 ? "Spark"

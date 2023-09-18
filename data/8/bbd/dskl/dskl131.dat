@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl131.dat
+.SEGMENT TEXT 0-22 OK "i welcome the emphasis that is now being put on the drug problem."

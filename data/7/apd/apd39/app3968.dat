@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3968.dat
+.SEGMENT WORD 0-2 ? "My"
+.SEGMENT WORD 3-4 ? "son"
+.SEGMENT WORD 5-10 ? "counts"
+.SEGMENT WORD 11 ? "up"
+.SEGMENT WORD 12-14 ? "to"
+.SEGMENT WORD 15-20 ? "six."
+.SEGMENT WORD 21-25 ? "One,"
+.SEGMENT WORD 26-30 ? "two,"
+.SEGMENT WORD 31-36 ? "three."

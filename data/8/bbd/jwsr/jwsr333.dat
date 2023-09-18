@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr333.dat
+.SEGMENT TEXT 0-55 OK "Economists said the report raised speculation that the economic slowdown could turn into a recession, which would pave the way for the Federal Reserve to lower interest rates."

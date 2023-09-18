@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl321.dat
+.SEGMENT TEXT 0-30 OK "Mr. Morishita says he intends to expand his business to many other areas at home and abroad."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr135.dat
+.SEGMENT TEXT 0-98 OK "Growing pressures on the Arizona real-estate market are affecting the thrift; Pinnacle West told Dow Jones Professional Investor Report it may consider filing for Chapter 11 bankruptcy protection if it can't reach an agreement with federal regulators to provide additional capital to MeraBank."

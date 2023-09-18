@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr102.dat
+.SEGMENT TEXT 0-43 OK "\"It's just like weather forecasting,\" says Energy Transportation trial attorney Harry Reasoner of Vinson & Elkins."

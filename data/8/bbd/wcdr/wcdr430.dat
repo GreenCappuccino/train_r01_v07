@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr430.dat
+.SEGMENT TEXT 0-49 OK "Douglas H. Miller, self-employed in the oil and gas securities business, was named chairman of this oil and gas exploration company, filling a vacancy."

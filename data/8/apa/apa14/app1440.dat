@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa14/app1440.dat
+.SEGMENT TEXT 0-45 ? "FIRST MATE EXPECTED A JEJUNE"

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-asl.dat
+.SEGMENT TEXT 18-37 OK "What a dirty trick !"
+.SEGMENT TEXT 38-49 OK "Give me your arm ."
+.SEGMENT TEXT 160-175 OK "Seven and eighty years have gone by"
+.SEGMENT TEXT 176-193 OK "from the day when our fathers ,"
+.SEGMENT TEXT 234-253 OK "that is the question ."

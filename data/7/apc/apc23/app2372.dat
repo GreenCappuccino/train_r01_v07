@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2372.dat
+.SEGMENT WORD 0-1 ? "drawn"
+.SEGMENT WORD 2-3 ? "drill"
+.SEGMENT WORD 4-5 ? "duty"
+.SEGMENT WORD 6-8 ? "each"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb10/app1061.dat
+.SEGMENT CHARACTER 0 ? "3"
+.SEGMENT CHARACTER 4 ? "1"

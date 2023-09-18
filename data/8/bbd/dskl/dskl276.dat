@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl276.dat
+.SEGMENT TEXT 0-20 OK "\"People have a different reputation country by country.\""

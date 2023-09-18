@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1872.dat
+.SEGMENT WORD 0-2 ? "Stroke"
+.SEGMENT WORD 3-10 ? "Survive"
+.SEGMENT WORD 11-23 ? "Television"
+.SEGMENT WORD 24-30 ? "Though"

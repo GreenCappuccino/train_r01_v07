@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2473.dat
+.SEGMENT WORD 0 ? "been"
+.SEGMENT WORD 1-3 ? "bound"
+.SEGMENT WORD 4-7 ? "brilliant"

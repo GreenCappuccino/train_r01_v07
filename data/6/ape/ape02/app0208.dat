@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape02/app0208.dat
+.SEGMENT WORD 0-6 ? "French"
+.SEGMENT WORD 7-11 ? "salad"
+.SEGMENT WORD 12-14 ? "is"
+.SEGMENT WORD 15-22 ? "favored"
+.SEGMENT WORD 23-24 ? "by"
+.SEGMENT WORD 25-28 ? "many"
+.SEGMENT WORD 29-38 ? "Europeans"

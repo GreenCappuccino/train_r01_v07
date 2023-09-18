@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0412064.dat
+.SEGMENT WORD 3-3 ? "s"
+.SEGMENT WORD 5-5 ? "n"
+.SEGMENT WORD 9-14 ? "krud"
+.SEGMENT WORD 16-19 ? "str"
+.SEGMENT WORD 46-51 ? "krud"
+.SEGMENT WORD 54-55 ? "f"
+.SEGMENT WORD 65-72 ? "stdin"
+.SEGMENT WORD 144-149 ? "krud"
+.SEGMENT WORD 153-158 ? "break"
+.SEGMENT WORD 235-240 ? "krud"
+.SEGMENT WORD 242-244 ? "num"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb14/app1454.dat
+.SEGMENT TEXT 0-50 ? "Rosenberg Frichette Fritsch Cohen Ghini"

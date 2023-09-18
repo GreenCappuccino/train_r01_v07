@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1072.dat
+.SEGMENT TEXT 0-16 ? "All together now"

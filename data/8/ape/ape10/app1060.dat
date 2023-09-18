@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1060.dat
+.SEGMENT TEXT 0-34 ? "On vacation from 5/27 until May 29"

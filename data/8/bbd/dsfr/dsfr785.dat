@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr785.dat
+.SEGMENT TEXT 0-52 OK "When it wasn't my turn in the balloon I followed its progress from the \"chase car\", listening to the driver holler into a walkie-talkie."

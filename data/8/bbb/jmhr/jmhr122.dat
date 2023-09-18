@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr122.dat
+.SEGMENT TEXT 0-55 OK "Once a jury is selected, the consultants often continue to determine what the jurors' attitudes are likely to be and help shape the lawyers' presentation accordingly."

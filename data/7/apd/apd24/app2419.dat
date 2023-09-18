@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd24/app2419.dat
+.SEGMENT WORD 0-3 ? "All"
+.SEGMENT WORD 4-12 ? "together"
+.SEGMENT WORD 13-15 ? "now"

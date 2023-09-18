@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl147.dat
+.SEGMENT TEXT 0-52 OK "If I am catching your attention, then read a bold and informative article in this September's issue of Science by Ethan Nadelmann on this subject."

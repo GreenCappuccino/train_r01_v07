@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd14/app1434.dat
+.SEGMENT WORD 0-9 ? "Contract"
+.SEGMENT WORD 10-26 ? "Administrator"
+.SEGMENT WORD 27-37 ? "Attorney"
+.SEGMENT WORD 38-43 ? "Vice"
+.SEGMENT WORD 44-56 ? "President"
+.SEGMENT WORD 57-63 ? "Public"
+.SEGMENT WORD 64-75 ? "Relations"

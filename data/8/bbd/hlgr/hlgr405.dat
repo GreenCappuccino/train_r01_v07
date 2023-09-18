@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr405.dat
+.SEGMENT TEXT 0-40 OK "British government bonds were little changed as investors awaited an address on economic policy by John Major, the new Chancellor of the Exchequer."

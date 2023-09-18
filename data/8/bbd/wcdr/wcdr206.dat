@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr206.dat
+.SEGMENT TEXT 0-76 OK "Additionally, Crossland reported a third-quarter loss of $175.5 million, or $13.44 a share, compared with net income of $27.1 million, or $1.16 a share, a year ago."

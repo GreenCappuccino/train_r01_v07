@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr451.dat
+.SEGMENT TEXT 0-70 OK "Gerald Ford, a fairly down-to-earth fellow, once sent a letter to the chairman of the Armed Services Committee recommending that \"there be a committee investigation of the UFO phenomenon."

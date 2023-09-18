@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr346.dat
+.SEGMENT TEXT 0-40 OK "IBM's visits to the debt market are closely watched by treasurers at other corporations and by credit market analysts."

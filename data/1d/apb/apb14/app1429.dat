@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb14/app1429.dat
+.SEGMENT CHARACTER 54 ? "."

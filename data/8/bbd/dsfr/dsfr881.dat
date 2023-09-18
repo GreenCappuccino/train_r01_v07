@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr881.dat
+.SEGMENT TEXT 0-49 OK "In countries such as Taiwan, South Korea and Singapore, economies are growing, resulting in a rise in disposable income that consumers can use for soft drinks."

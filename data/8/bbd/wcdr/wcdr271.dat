@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr271.dat
+.SEGMENT TEXT 0-34 OK "Many clothiers, especially Ralph Lauren, have cashed in on the recent popularity of updating Ivy League and English styles."

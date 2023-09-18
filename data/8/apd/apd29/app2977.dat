@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2977.dat
+.SEGMENT TEXT 0-21 ? "dad delicious develop dime"

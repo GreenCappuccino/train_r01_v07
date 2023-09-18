@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr328.dat
+.SEGMENT TEXT 0-24 OK "The market's tempo was helped by the dollar's resiliency, he said."

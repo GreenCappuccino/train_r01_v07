@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1148.dat
+.SEGMENT WORD 0-2 ? "gift"
+.SEGMENT WORD 3 ? "glue"
+.SEGMENT WORD 4 ? "goods"
+.SEGMENT WORD 5-6 ? "grant"

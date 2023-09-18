@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/159.3.dat
+.SEGMENT TEXT 0-101 ? "Rates cannot and should not fall until it is economically responsible."

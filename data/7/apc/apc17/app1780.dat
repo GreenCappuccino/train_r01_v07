@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1780.dat
+.SEGMENT WORD 0-12 ? "outstanding"
+.SEGMENT WORD 13-19 ? "o'clock"
+.SEGMENT WORD 20-24 ? "pair"
+.SEGMENT WORD 25-32 ? "passenger"

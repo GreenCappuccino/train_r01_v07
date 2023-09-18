@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1857.dat
+.SEGMENT WORD 0-6 ? "Klein"
+.SEGMENT WORD 7-10 ? "Lund"
+.SEGMENT WORD 11-19 ? "MacDonald"
+.SEGMENT WORD 20-26 ? "Newton"

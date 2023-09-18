@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr540.dat
+.SEGMENT TEXT 0-51 OK "At this point, the options were: Crunch money to stop the boost in the aggregates, as Sir Alan surely advised, and forget the soaring pound."

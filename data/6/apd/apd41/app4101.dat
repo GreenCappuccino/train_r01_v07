@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd41/app4101.dat
+.SEGMENT WORD 5-8 ? "Park"
+.SEGMENT WORD 18-24 ? "Salina"
+.SEGMENT WORD 31-34 ? "Big"
+.SEGMENT WORD 35-40 ? "Beaver"
+.SEGMENT WORD 41-42 ? "Rd"
+.SEGMENT WORD 45-54 ? "Wilshire"

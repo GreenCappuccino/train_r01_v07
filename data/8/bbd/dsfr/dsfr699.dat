@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr699.dat
+.SEGMENT TEXT 0-35 OK "Additionally, the end of the month position-squandering might have also played a minor role, traders said."

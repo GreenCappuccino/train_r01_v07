@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr292.dat
+.SEGMENT TEXT 0-36 OK "Because the biggest growth in menswear is in casual sportswear, Brooks Brothers is chasing more of that business."

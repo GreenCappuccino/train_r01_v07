@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl258.dat
+.SEGMENT TEXT 0-66 OK "Telos responded by combining three of its five divisions to reduce expenses and \"bring more focus to potentially fewer bidding opportunities,\" says Lin Conger, Telos chairman and controlling shareholder."

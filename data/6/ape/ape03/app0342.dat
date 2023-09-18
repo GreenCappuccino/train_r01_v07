@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0342.dat
+.SEGMENT WORD 0-6 ? "review"
+.SEGMENT WORD 7-11 ? "last"
+.SEGMENT WORD 21-27 ? "budget"

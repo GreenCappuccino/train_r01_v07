@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr340.dat
+.SEGMENT TEXT 0-26 OK "New two-year notes ended unchanged while three-year and four-year notes were slightly lower."

@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd26/app2626.dat
+.SEGMENT WORD 0-1 ? "Our"
+.SEGMENT WORD 2 ? "own"
+.SEGMENT WORD 3-9 ? "people"
+.SEGMENT WORD 10 ? "are"
+.SEGMENT WORD 11-16 ? "taking"
+.SEGMENT WORD 17 ? "care"
+.SEGMENT WORD 18 ? "of"
+.SEGMENT WORD 19-21 ? "it"

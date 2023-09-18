@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd34/app3428.dat
+.SEGMENT WORD 0-10 ? "Cupertino"
+.SEGMENT WORD 11-21 ? "Florist"
+.SEGMENT WORD 22-27 ? "Ford"
+.SEGMENT WORD 28-36 ? "Sunnyvale"
+.SEGMENT WORD 37-43 ? "Camino"
+.SEGMENT WORD 44-51 ? "Century"
+.SEGMENT WORD 52-53 ? "21"

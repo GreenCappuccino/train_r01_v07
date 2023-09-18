@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1368.dat
+.SEGMENT WORD 0-6 ? "plateau"
+.SEGMENT WORD 7-12 ? "please"
+.SEGMENT WORD 13-20 ? "points"
+.SEGMENT WORD 21-25 ? "poured"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1814.dat
+.SEGMENT TEXT 0-25 ? "Mountains Must Naming Need"

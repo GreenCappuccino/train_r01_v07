@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1864.dat
+.SEGMENT WORD 0-5 ? "Perhaps"
+.SEGMENT WORD 6-10 ? "Period"
+.SEGMENT WORD 11-18 ? "Pitcher"
+.SEGMENT WORD 19-24 ? "Pleasure"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1121.dat
+.SEGMENT WORD 0 ? "narrow"
+.SEGMENT WORD 1 ? "nearer"
+.SEGMENT WORD 2-3 ? "nevertheless"
+.SEGMENT WORD 4 ? "nonsense"

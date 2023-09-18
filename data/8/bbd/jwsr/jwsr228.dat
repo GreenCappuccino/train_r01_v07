@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr228.dat
+.SEGMENT TEXT 0-43 OK "Mr. Phelan hasn't been making public remarks in recent days, and many people have urged him to take more of a leadership role on the program trading issue."

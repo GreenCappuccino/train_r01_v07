@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr923.dat
+.SEGMENT TEXT 0-30 OK "The agreement ended a long impasse between the congressional leaders and the White House over the wage issue."

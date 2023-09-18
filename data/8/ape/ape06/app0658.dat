@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape06/app0658.dat
+.SEGMENT TEXT 0-19 ? "Vicki Walter Yaw Zack"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1938.dat
+.SEGMENT WORD 0-5 ? "Square"
+.SEGMENT WORD 6-13 ? "Stick"
+.SEGMENT WORD 14-20 ? "Success"
+.SEGMENT WORD 21-28 ? "Swift"

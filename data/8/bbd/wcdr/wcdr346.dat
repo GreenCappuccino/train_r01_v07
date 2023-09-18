@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr346.dat
+.SEGMENT TEXT 0-37 OK "In New York Stock Exchange trading Friday, Conseco closed at $19.50, down 25 cents."

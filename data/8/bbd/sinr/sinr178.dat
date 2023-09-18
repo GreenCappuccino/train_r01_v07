@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr178.dat
+.SEGMENT TEXT 0-27 OK "Maryland National Bank's retail finance division will continue to service the loans."

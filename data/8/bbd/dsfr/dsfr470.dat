@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr470.dat
+.SEGMENT TEXT 0-73 OK "Eventually, about 250 made the trip to Florida to compete for the available slots. (Players have to be 35 or older, except for catchers, who are eligible at 32 because life behind the plate is so rough.)"

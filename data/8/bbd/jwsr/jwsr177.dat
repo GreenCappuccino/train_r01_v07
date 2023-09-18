@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr177.dat
+.SEGMENT TEXT 0-60 OK "While residents claimed a victory, military authorities said they had confiscated the equivalent of more than $1.5 million to make up for the unpaid taxes."

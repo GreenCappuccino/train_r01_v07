@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr215.dat
+.SEGMENT TEXT 0-40 OK "The approval, which had been expected, permits West Germany's second-largest bank to acquire shares of the French investment bank."

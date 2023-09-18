@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1953.dat
+.SEGMENT WORD 0-4 ? "crawl"
+.SEGMENT WORD 5-7 ? "cup"
+.SEGMENT WORD 8-11 ? "dare"
+.SEGMENT WORD 12-19 ? "define"

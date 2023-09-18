@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2158.dat
+.SEGMENT WORD 0-8 ? "Bicycle"
+.SEGMENT WORD 9-14 ? "Board"
+.SEGMENT WORD 15-27 ? "Brilliant"
+.SEGMENT WORD 28-35 ? "Buried"

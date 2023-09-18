@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app14/app1443.dat
+.SEGMENT TEXT 0-40 ? "@ 12:34:56 _Jugglers_ _will_ _descend_."

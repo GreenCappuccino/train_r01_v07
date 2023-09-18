@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb12/app1229.dat
+.SEGMENT TEXT 0-62 ? "456-7890 x.34 967 2345, ext 123 800-901-4678 x4-2354"

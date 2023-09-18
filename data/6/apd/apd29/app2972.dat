@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2972.dat
+.SEGMENT WORD 0-13 ? "Thanksgiving"
+.SEGMENT WORD 14-20 ? "William"
+.SEGMENT WORD 21-27 ? "between"
+.SEGMENT WORD 28-39 ? "activities"

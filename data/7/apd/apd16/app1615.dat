@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1615.dat
+.SEGMENT WORD 0-1 ? "Very"
+.SEGMENT WORD 2 ? "well"
+.SEGMENT WORD 3-4 ? "indeed"

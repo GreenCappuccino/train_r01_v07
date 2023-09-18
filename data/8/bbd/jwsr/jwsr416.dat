@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr416.dat
+.SEGMENT TEXT 0-79 OK "The GASB had told governments they didn't have to follow FASB rules on depreciation, making it difficult for bond-rating agencies to compare private and state-owned schools, which compete in the public bond market."

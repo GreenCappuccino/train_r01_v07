@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Kaeslingk.dat
+.SEGMENT TEXT 132-180 ? "He is also failing math and he has a D- in German ."
+.SEGMENT TEXT 224-256:18 ? "He's very quiet and he's never lazy ."
+.SEGMENT TEXT 288-324:13 ? "His guidance counselor could also come to the meeting ."
+.SEGMENT TEXT 428-460:9 ? "Let me know if this is a crazy idea ."

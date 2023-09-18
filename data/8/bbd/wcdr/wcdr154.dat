@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr154.dat
+.SEGMENT TEXT 0-75 OK "Stock-index arbitrage, because it sells the more \"expensive\" market and buys the \"cheaper\" one, attempts to reestablish the link between the stock and futures markets, and the adjustments are often abrupt."

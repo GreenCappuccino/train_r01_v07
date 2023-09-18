@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1533.dat
+.SEGMENT TEXT 0-49 ? "Call John to remind him of lunch with the client"

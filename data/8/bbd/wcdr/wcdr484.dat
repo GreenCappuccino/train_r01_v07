@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr484.dat
+.SEGMENT TEXT 0-67 OK "Aside from slashing costs and investing heavily in its plants, Akzo has spent 3.9 billion guilders ($1.88 billion) on acquisitions since 1983 to give it better balance."

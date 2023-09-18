@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr141.dat
+.SEGMENT TEXT 0-47 OK "Mitsubishi has agreed to acquire 627,000 shares of Rockefeller common stock held by trusts established by John D. Rockefeller in 1934."

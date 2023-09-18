@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr392.dat
+.SEGMENT TEXT 0-58 OK "Automatic Data is redeeming the bonds because the after-tax cost of the interest on the bonds is higher than the dividend yield on the common, a spokesman said."

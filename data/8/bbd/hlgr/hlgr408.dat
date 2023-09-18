@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr408.dat
+.SEGMENT TEXT 0-75 OK "The two units are Prentice Hall Information Services, which publishes tax, financial planning and business law information, among other services, and Prentice Hall Information Network, which electronically delivers tax information."

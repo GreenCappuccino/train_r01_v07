@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22411423.dat
+.SEGMENT WORD 3-7 ? "putc"
+.SEGMENT WORD 26-28 ? "fp"
+.SEGMENT WORD 32-39 ? "return"
+.SEGMENT WORD 40-42 ? "OK"
+.SEGMENT WORD 147-150 ? "char"
+.SEGMENT WORD 155-164 ? "buffer"
+.SEGMENT WORD 190-199 ? "register"
+.SEGMENT WORD 200-204 ? "int"
+.SEGMENT WORD 205-208 ? "cnt"
+.SEGMENT WORD 360-366 ? "return"
+.SEGMENT WORD 367-372 ? "NOTOK"

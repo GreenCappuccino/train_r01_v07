@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE pcl/pcl.doc
+.INCLUDE pcl/data/eng3.dat
+.SEGMENT WORD 0-3 ? "clone"
+.SEGMENT WORD 4 ? "case"
+.SEGMENT WORD 5 ? "call"
+.SEGMENT WORD 6-7 ? "over"
+.SEGMENT WORD 13-14 ? "been"
+.SEGMENT WORD 17-18 ? "coffee"
+.SEGMENT WORD 19-21 ? "overlay"
+.SEGMENT WORD 22-28 ? "software"
+.SEGMENT WORD 29-32 ? "garden"
+.SEGMENT WORD 33-35 ? "throw"

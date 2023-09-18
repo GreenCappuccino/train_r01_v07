@@ -1,0 +1,23 @@
+.VERSION 1.0
+.INCLUDE kar/kar2.doc
+.INCLUDE kar/data/kar2/fsr_0099.dat
+.SEGMENT WORD 12-16 ? "bohan"
+.SEGMENT WORD 32-38 ? "cite"
+.SEGMENT WORD 71-78 ? "fulfilled"
+.SEGMENT WORD 79-88 ? "indonesians"
+.SEGMENT WORD 103-108 ? "kielb"
+.SEGMENT WORD 109-114 ? "kiesow"
+.SEGMENT WORD 115-118 ? "kot"
+.SEGMENT WORD 129-132 ? "laba"
+.SEGMENT WORD 133-138 ? "logston"
+.SEGMENT WORD 139-144 ? "lucite"
+.SEGMENT WORD 149-157 ? "masterminding"
+.SEGMENT WORD 163-165 ? "newbauer"
+.SEGMENT WORD 175-180 ? "phipps"
+.SEGMENT WORD 190-193 ? "randa"
+.SEGMENT WORD 195-201 ? "sgroi"
+.SEGMENT WORD 202-207 ? "spectrum"
+.SEGMENT WORD 208-210 ? "sucher"
+.SEGMENT WORD 211-219 ? "transco's"
+.SEGMENT WORD 231-233 ? "ussr"
+.SEGMENT WORD 239-245 ? "woolard"

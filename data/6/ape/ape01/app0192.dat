@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0192.dat
+.SEGMENT WORD 0-1 ? "Improve"
+.SEGMENT WORD 2-5 ? "my"
+.SEGMENT WORD 6 ? "investment"
+.SEGMENT WORD 7-10 ? "portfolio"

@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1912194.dat
+.SEGMENT TEXT 24-47 ? "char quefil [ BUFSIZ ] ;"
+.SEGMENT TEXT 158-172 ? "fp ; long time"
+.SEGMENT TEXT 173-187 ? "fp ; long time"
+.SEGMENT TEXT 225-243 ? "( ) , * ctime ( ) ;"
+.SEGMENT TEXT 244-261 ? "( ) , * ctime ( ) ;"
+.SEGMENT TEXT 287-314 ? "/ * * / int nminit"
+.SEGMENT TEXT 355-367 ? "register char"
+.SEGMENT TEXT 368-388 ? "* user ; register"
+.SEGMENT TEXT 407-423 ? "long * clock ; {"
+.SEGMENT TEXT 424-440 ? "long * clock ; {"

@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/char/oaba/oaba4605.dat
+.SEGMENT CHARACTER 0 ? "n"

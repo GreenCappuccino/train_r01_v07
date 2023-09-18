@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape06/app0687.dat
+.SEGMENT WORD 0-9 ? "Contract"
+.SEGMENT WORD 10-24 ? "Administrator"
+.SEGMENT WORD 25-33 ? "Attorney"
+.SEGMENT WORD 34-37 ? "Vice"
+.SEGMENT WORD 38-47 ? "President"
+.SEGMENT WORD 48-56 ? "Public"
+.SEGMENT WORD 57-66 ? "Relations"

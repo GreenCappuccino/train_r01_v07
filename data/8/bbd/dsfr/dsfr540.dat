@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr540.dat
+.SEGMENT TEXT 0-17 OK "Source: Fulton Prebon (U.S.A.) Inc."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2308.dat
+.SEGMENT WORD 0-1 ? "call"
+.SEGMENT WORD 7-10 ? "schedule"
+.SEGMENT WORD 11-14 ? "their"
+.SEGMENT WORD 15-19 ? "meeting"
+.SEGMENT WORD 20-25 ? "tonight"

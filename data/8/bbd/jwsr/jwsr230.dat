@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr230.dat
+.SEGMENT TEXT 0-84 OK "Early last year, after a 140-point, one-day drop in the Dow, the Big Board instituted the collar, which banned program trading through the Big Board's computers whenever the Dow moved 50 points up or down in a day."

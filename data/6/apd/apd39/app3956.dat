@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3956.dat
+.SEGMENT WORD 0-3 ? "Fax"
+.SEGMENT WORD 4-5 ? "her"
+.SEGMENT WORD 6-8 ? "the"
+.SEGMENT WORD 9-16 ? "results"
+.SEGMENT WORD 20-27 ? "morning"

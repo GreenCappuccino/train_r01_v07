@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl363.dat
+.SEGMENT TEXT 0-62 OK "As they did when the Philippines was a colony of the U.S., teachers for the most part teach in English, even though it is a foreign language for most Philippine children."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr933.dat
+.SEGMENT TEXT 0-58 OK "Under the compromise, the $4.25 level would be reached nine months earlier, while the training subminimum would be shorter, unless it is tied to a training plan."

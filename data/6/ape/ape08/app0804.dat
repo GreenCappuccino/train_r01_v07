@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0804.dat
+.SEGMENT WORD 0-8 ? "Tsunami"
+.SEGMENT WORD 9-13 ? "hit"
+.SEGMENT WORD 32-35 ? "Dec"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1878.dat
+.SEGMENT WORD 0-2 ? "body"
+.SEGMENT WORD 3-6 ? "calf"
+.SEGMENT WORD 7-11 ? "canoe"
+.SEGMENT WORD 12-16 ? "chain"

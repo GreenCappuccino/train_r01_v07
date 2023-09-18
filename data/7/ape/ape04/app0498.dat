@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0498.dat
+.SEGMENT WORD 0-3 ? "Miss"
+.SEGMENT WORD 4-6 ? "Ms."
+.SEGMENT WORD 7-9 ? "Mr."
+.SEGMENT WORD 10-18 ? "Admiral"

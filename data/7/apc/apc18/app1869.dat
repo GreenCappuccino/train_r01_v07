@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1869.dat
+.SEGMENT WORD 0-2 ? "ready"
+.SEGMENT WORD 3-11 ? "relative"
+.SEGMENT WORD 12-18 ? "result"
+.SEGMENT WORD 19-26 ? "rights"

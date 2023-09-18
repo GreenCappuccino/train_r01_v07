@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr103.dat
+.SEGMENT TEXT 0-80 OK "\"None of the activities being reviewed has any adverse effect on the financial condition of the bank or its depositors,\" First Federal Savings Bank & Trust's president, Leo D. Ottoni, said."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1875.dat
+.SEGMENT WORD 0-6 ? "Recife"
+.SEGMENT WORD 7-14 ? "Riverside"
+.SEGMENT WORD 15-17 ? "Dublin"
+.SEGMENT WORD 18-20 ? "Cairo"

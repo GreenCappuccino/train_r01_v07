@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr514.dat
+.SEGMENT TEXT 0-44 OK "White-haired Pedro Ramos, at 54 the league's oldest player and a pitcher-coach with the Suns, has lost even more speed."

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-nco.dat
+.SEGMENT TEXT 0-19 OK "What a dirty trick !"
+.SEGMENT TEXT 20-33 OK "Give me your arm ."
+.SEGMENT TEXT 106-139 OK "I went away , and was gone about six weeks ."
+.SEGMENT TEXT 162-183 OK "from the day when our fathers"
+.SEGMENT TEXT 232-247 OK "That is the question ."

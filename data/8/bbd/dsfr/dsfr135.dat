@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr135.dat
+.SEGMENT TEXT 0-47 OK "managers of rockefeller's cushman & wakefield inc., a national real estate brokerage, have reportedly structured a company buy-out plan which was rejected by its parent."

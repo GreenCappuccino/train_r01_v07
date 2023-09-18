@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr553.dat
+.SEGMENT TEXT 0-28 OK "Unlike the U.S., Britain never achieved even a momentary reduction in real wages."

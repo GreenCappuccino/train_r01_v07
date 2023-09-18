@@ -1,0 +1,243 @@
+.VERSION 1.0
+
+.COMMENT         	##############################################
+			### DOCUMENTATION FILE of the lou1 TESTSET ###
+			##############################################
+
+.DATA_SOURCE  UCL
+
+.DATA_ID      lou1
+
+.DATA_CONTACT Name : Jean-Luc Voz, Jean-Didier Legat
+              Affiliation : Universite Catholique de Louvain
+                            Microelectronics Laboratory
+              Address : Place du Levant 3, B-1348 Louvain-La-Neuve, Belgium
+              Phone : +32.10.47.25.40 +32.10.47.25.51
+              Fax   : +32.10.47.86.67
+              Email : voz@dice.ucl.ac.be, jdl@dice.ucl.ac.be
+
+
+.DATA_INFO      Set type:       Test.
+
+	        Alphabet:	English keyboard alphanumerics and symbols
+                                from the ASCII set.
+
+				Thus: latin alphabet uppercase, lowercase, 
+                                digits(few) and symbols: "-", ".", "'".
+				See the .ALPHABET and .ALPHABET_FREQ here
+				below.
+
+		Lexicon:	The text from a letter in the IEEE
+                                SPECTRUM of February 1994 (page 15):
+
+                                Technically speaking, "The pocket 
+				computer's many aliases", Kevin Self.
+
+				See the .LEXICON_INFO in the 
+				"lou1.lex" included file.
+
+				All the punctuation signs were removed, except
+				the points of abbreviated words ("Calif.",
+				"Mass.", "Inc.", "Corp."), the apostrophes
+				("doesn't", "today's", "clients'", 
+				"computer's") and the hyphen of compound
+				words ("pen-based", "write-o", 
+				"Globe-trotters", "well-educated")
+				which were all considered as one word.
+
+				All the numerals were kept as words 
+				("1995", "92", "85", "1994", "15")
+
+				All the uppercases were kept: Names of
+				people, companies, cities, begin 
+				of sentences, ...
+
+				There are also uppercase words:
+				("IEEE", "FEBRUARY", "SPECTRUM", "BIS")
+                                         
+                Quantity:       The entire text contains 458 isolated
+				words (2410 characters).
+				The present database contains all the
+				words of the text written 15 times 
+				by different writers.
+				Thus 6870 words - 36150 characters.
+
+                THERE IS ONE FILE PER ENTIRE TEXT: "ff_llNN.dat"
+                WHERE ff CORRESPONDS TO THE INITIALS OF THE WRITER'S FIRST
+		NAME, ll TO THE INITIALS OF ITS LAST NAME AND NN is A NUMBER 
+		(WHEN THE SAME WRITER WROTE THE TEXT MORE THAN ONCE)
+
+		Quality:        Writers were asked to rewrite 
+				each scratched or too bad-written words.
+				Each word was double checked and 
+				the legibility was checked by a different
+				person than the writer.
+				
+		Number of writers: 10: 8 of them have written the 
+					 text once,
+				       1 has written 3 times,
+				       1 has written 4 times.
+				Seven of these 10 writers have also written 
+				the lou0 database.
+				     
+		Writing style:	Natural (no constraint).
+				Thus Mixed Cursive, Discrete, Run-on Discrete
+				and printed (for uppercase words and digits).
+
+		Segmentation:	Words written in one box, one by one.
+				 
+				For the segmentation "computer's", "write-o",
+				"today's", "pen-based" were considered as 
+				one word.
+
+.ALPHABET       "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+                "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+                "~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+                "=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+                "," "." ";" "'" "`" "_" " "
+
+.ALPHABET_FREQ  0   3   1   0   1   3   0   0   1   5
+                7   3   13  2   6   2   2   2   8   3   1   1   5
+                2   0   2   0   5   13  9   2   1   4   0   1   0
+                190 36  80  66  302 50  48  88  155 1   25  77  73
+                164 180 62  4   179 147 208 62  13  36  3   34  2
+                0   0   0   0   0   0   0   0   0   0   0   5   0
+                0   0   0   0   0   0   0   0   0   0   0   0   0
+                0   8   0   4   0   0   0
+
+.HIERARCHY              WORD
+.COMMENT Numerals and printed words were also refered as WORD 
+         (see the lexicon info).
+
+
+
+.SETUP		Site:		Microelectronics Laboratory, 
+				Office a134 (the best).
+
+		Time:		May, Augustus and September 1994.
+
+		Writer population: Members of the laboratory, 
+				   students working in the area of
+				   Character Recognition.
+
+		Writers motivation: volunteer.
+
+		Conditions:	Supervised recording conditions.
+
+			        The different words of the text
+				were proposed one by one.
+				It was thus very difficult for the writer to 
+				understand the meaning of the text he was 
+				writing.
+
+				No time constraint.
+
+				Writers were first trained on about
+				60 words before the creation of the database.
+
+				Writers were asked to rewrite 
+				each scratched or too bad-written words.
+
+                Writer physical position: People sitting at a desk with 
+				the screen of the Macintosh at about 
+				0.5 meter.
+				People were asked to take the more
+				comfortable position for the writing
+				on the tablet.
+
+                Duration of one session: About one hour.
+
+		Recognizer feedback:	no 
+
+	  
+		Form layout:	Window with 
+				A 74x330 box with a dashed baseline
+				  at 2/3 from the top (to help the writer).
+				A box to indicate the word to write.  
+				Buttons CLEAR (if the writing of a word 
+				was bad) and NEXT (for the presentation 
+				and the writing of the next word)
+				A slider to check the database or move
+				into it. Home-made interface, see the
+             			postcript "layout.eps" document for more 
+				info.
+
+
+
+.PAD			Machine name:	CIC-MacHandwriter (CalComp digitizer 
+                                        connected to a Macintosh IICi).
+
+			Brand:		Calcomp
+
+			Model Nr.:	31090A
+
+			Serial Nr.:	034CA2818
+
+			Sensor:		Electromagnetic, wireless pen.
+
+			Pen:		Untethered Pen, tip switch and 
+                                        side button.
+                                        Tip switch used for PenUp/PenDown 
+					determination.
+
+			Driver:         UCL-made MAC driver and interface
+					using the "Position", "Ink" and "Pen"
+					extentions provided with the 
+					CIC-MacHandwriter. 
+
+                        Sampling mode:  Time-equidistant sampling between 
+                                        .PEN_DOWN and .PEN_UP.
+
+                        Algorithm:      while(word){
+                                           when(PEN_DOWN){
+                                              store(".PEN_DOWN");
+                                              while(PEN_DOWN){
+                                                 store (X and Y) every 8ms ;
+                                                 }
+                                              store(".PEN_UP");
+                                              }
+                                            }
+
+	         	Sample rate:       125            [Hz]
+         		Resolution:        80             [points/inch]
+         		Width:             202            [mm]
+         		Height:            152            [mm]
+
+
+
+			Display:	Macintosh's screen:
+					Apple monitor
+					640x480 points
+                                        72 pixels per inch.
+
+                        Inking: 	black on white; 1 pixel thick.
+
+
+
+.COMMENT	Elapsed time measured when pen was immobile or out 
+		of proximity of the pad sensors were not recorded.
+		Thus no .DT information.
+		No data was recorded when the pen was in the up positions.
+
+
+.COMMENT		###################
+			### DATA LAYOUT ###
+			###################
+
+.X_DIM			330
+.Y_DIM			74
+.H_LINE                 25
+
+
+.COMMENT		###################
+			### UNIT SYSTEM ###
+			###################
+
+	
+.X_POINTS_PER_INCH	80
+.Y_POINTS_PER_INCH	80
+.POINTS_PER_SECOND      125
+.COORD                  X Y

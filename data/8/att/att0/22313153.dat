@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22313153.dat
+.SEGMENT TEXT 44-55 ? "0, 0 , 0 , 0 , 0 } ;"
+.SEGMENT TEXT 125-139 ? "char * argv ) { /"
+.SEGMENT TEXT 157-173 ? "pick up filename"
+.SEGMENT TEXT 174-191 ? "from command line ,"
+.SEGMENT TEXT 192-208 ? "from command line ,"
+.SEGMENT TEXT 209-224 ? "or use default :"
+.SEGMENT TEXT 241-260 ? "char * name = argc > 1"
+.SEGMENT TEXT 261-279 ? "char * name = argc > 1"
+.SEGMENT TEXT 307-334 ? "? argv [ 1 ] : \" test1. fp \" ;"
+.SEGMENT TEXT 362-388 ? "FILE * fp = fopen ( name ,"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr101.dat
+.SEGMENT TEXT 0-32 OK "Sales jumped 12.2% to 232.12 billion yen from 206.87 billion yen."

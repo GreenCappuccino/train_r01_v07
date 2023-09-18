@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0511244.dat
+.SEGMENT WORD 31-33 ? "end"
+.SEGMENT WORD 34-34 ? "of"
+.SEGMENT WORD 35-37 ? "the"
+.SEGMENT WORD 38-39 ? "line"
+.SEGMENT WORD 72-72 ? "Therefore"

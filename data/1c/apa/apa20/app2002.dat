@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa20/app2002.dat
+.SEGMENT CHARACTER 0 ? "o"
+.SEGMENT CHARACTER 1 ? "r"

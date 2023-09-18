@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr373.dat
+.SEGMENT TEXT 0-52 OK "Meanwhile, settlement negotiations continue between Mr. Hunt and the IRS, which has already reached a tentative agreement with Nelson Bunker Hunt."

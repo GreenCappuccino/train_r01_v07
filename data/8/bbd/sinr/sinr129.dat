@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr129.dat
+.SEGMENT TEXT 0-36 OK "However, he added that that estimate, made before extensive development drilling, currently is being reappraised."

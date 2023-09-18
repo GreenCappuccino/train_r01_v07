@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1765.dat
+.SEGMENT WORD 0-4 ? "heard"
+.SEGMENT WORD 5-8 ? "held"
+.SEGMENT WORD 9-11 ? "hen"
+.SEGMENT WORD 12-17 ? "hits"

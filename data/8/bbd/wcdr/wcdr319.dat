@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr319.dat
+.SEGMENT TEXT 0-20 OK "Further staff cuts are likely, the spokesman indicated."

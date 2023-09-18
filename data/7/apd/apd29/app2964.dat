@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2964.dat
+.SEGMENT WORD 0-8 ? "vertical"
+.SEGMENT WORD 9-16 ? "villages"
+.SEGMENT WORD 17-22 ? "voyage"
+.SEGMENT WORD 23-26 ? "walk"

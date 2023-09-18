@@ -1,0 +1,28 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Larson.dat
+.SEGMENT TEXT 0-66 ? "Drive out of the airport and turn right on Genesee Street"
+.SEGMENT TEXT 209-271 ? "Next take 290 west to the 990 northbound"
+.SEGMENT TEXT 519-551 ? "This left turn will be a U-turn"
+.SEGMENT TEXT 552-606 ? "Go on Audobon Parkway to the next big intersection"
+.SEGMENT TEXT 650-708 ? "Make a right turn onto Hamilton Street"
+.SEGMENT TEXT 709-769 ? "Turn left onto White Road at the next stop sign"
+.SEGMENT TEXT 914-1000 ? "If you have any questions , call Elizabeth at 555-1234"
+.SEGMENT TEXT 1056-1116 ? "He failed the midterm exam March 7th"
+.SEGMENT TEXT 1117-1197 ? "The class average was eighty eight and his score was forty seven"
+.SEGMENT TEXT 1198-1252 ? "I talked to some of his other teachers"
+.SEGMENT TEXT 1253-1329 ? "He is also failing math and has a D- in German"
+.SEGMENT TEXT 1407-1445 ? "He is always quiet but never lazy"
+.SEGMENT TEXT 1446-1498 ? "Maybe we should meet with his parents on Tuesday"
+.SEGMENT TEXT 1643-1715 ? "We could find a tutor to give him extra help"
+.SEGMENT TEXT 1896-1994 ? "Should I talk with her tomorrow after 10th period"
+.SEGMENT TEXT 2034-2074 ? "Could you step into my office sometime"
+.SEGMENT TEXT 2160-2200 ? "Now they have charged up 520 dollars"
+.SEGMENT TEXT 2240-2348 ? "The IBM talk for today has been moved up an hour , from 11 o'clock to 10 o'clock"
+.SEGMENT TEXT 2349-2377 ? "It could run up to two hours"
+.SEGMENT TEXT 2378-2436 ? "In the afternoon , I am busy with another meeting"
+.SEGMENT TEXT 2437-2463 ? "You can stop by when ever"
+.SEGMENT TEXT 2464-2496 ? "It shouldn't take too long"
+.SEGMENT TEXT 2607-2681 ? "It is important that all new student attend this meeting ."
+.SEGMENT TEXT 2820-2874 ? "If you can't make it , I can update you on it later"

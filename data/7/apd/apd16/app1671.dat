@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd16/app1671.dat
+.SEGMENT WORD 0-2 ? "Yes,"
+.SEGMENT WORD 3-7 ? "its"
+.SEGMENT WORD 8-12 ? "4:30"
+.SEGMENT WORD 13 ? "pm"

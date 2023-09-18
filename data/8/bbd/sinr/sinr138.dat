@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr138.dat
+.SEGMENT TEXT 0-55 OK "Rated Baa-2 by Moody's Investors Service Inc. and triple-B-plus by Standard & Poor's Corp., the issue will be sold through underwriters led by Merrill Lynch Capital Markets."

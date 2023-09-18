@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr290.dat
+.SEGMENT TEXT 0-30 OK "Stock prices rallied as the Georgia-Pacific bid broke the market's recent gloom."

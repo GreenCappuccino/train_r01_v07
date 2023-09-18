@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0386.dat
+.SEGMENT TEXT 0-47 ? "call client, schedule their meeting tonight"

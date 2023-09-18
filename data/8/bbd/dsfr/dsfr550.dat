@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr550.dat
+.SEGMENT TEXT 0-49 OK "Typical rates in the secondary market: 8.53% one month; 8.50% three months; 8.30% six months."

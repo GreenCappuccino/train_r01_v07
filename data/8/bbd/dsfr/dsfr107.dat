@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr107.dat
+.SEGMENT TEXT 0-39 OK "First Federal named Mr. Ottoni president and chief executive to succeed Mr. Clarkson and elected him as a director."

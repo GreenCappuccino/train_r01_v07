@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr702.dat
+.SEGMENT TEXT 0-35 OK "Stocks closed higher in Hong Kong, Manila, Singapore, Sydney and Wellington, but were lower in Seoul."

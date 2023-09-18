@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd29/app2990.dat
+.SEGMENT WORD 0-3 ? "rate"
+.SEGMENT WORD 4-8 ? "reach"
+.SEGMENT WORD 9-14 ? "records"
+.SEGMENT WORD 15-19 ? "rides"

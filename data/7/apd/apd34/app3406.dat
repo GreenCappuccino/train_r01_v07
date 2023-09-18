@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd34/app3406.dat
+.SEGMENT WORD 0-5 ? "Rabbi"
+.SEGMENT WORD 6-10 ? "Esq."
+.SEGMENT WORD 11-17 ? "Father"
+.SEGMENT WORD 18-25 ? "Brother"

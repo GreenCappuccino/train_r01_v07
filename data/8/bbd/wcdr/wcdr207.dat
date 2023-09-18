@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr207.dat
+.SEGMENT TEXT 0-40 OK "A major factor in the third-quarter loss was the write-down of $143.6 million of goodwill."

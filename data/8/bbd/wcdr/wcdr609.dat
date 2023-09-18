@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr609.dat
+.SEGMENT TEXT 0-38 OK "The move, budgeted at about $7 million, actually came in at about $10 million, he said."

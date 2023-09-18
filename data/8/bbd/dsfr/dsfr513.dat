@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr513.dat
+.SEGMENT TEXT 0-30 OK "\"I won't be throwing 90 mph, but I will throw 80-plus,\" he says."

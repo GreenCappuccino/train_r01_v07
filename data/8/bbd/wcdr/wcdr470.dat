@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr470.dat
+.SEGMENT TEXT 0-69 OK "He even had sex with one -- sort of, and not intentionally -- as readers learned in his \"Communion\" (a book recently described in the New York Times as a \"nonfiction best seller\")."

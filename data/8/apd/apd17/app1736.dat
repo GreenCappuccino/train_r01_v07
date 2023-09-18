@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd17/app1736.dat
+.SEGMENT TEXT 0-12 ? "Start project early Walter!"

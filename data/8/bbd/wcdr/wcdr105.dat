@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr105.dat
+.SEGMENT TEXT 0-35 OK "Indeed, a few economists maintain that global forces will continue to govern Hong Kong's economic rhythm."

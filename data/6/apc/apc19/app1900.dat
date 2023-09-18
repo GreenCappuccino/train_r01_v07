@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1900.dat
+.SEGMENT WORD 0-8 ? "Knocked"
+.SEGMENT WORD 9-13 ? "Level"
+.SEGMENT WORD 14-22 ? "Landscape"
+.SEGMENT WORD 23-26 ? "Later"

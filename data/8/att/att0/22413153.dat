@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22413153.dat
+.SEGMENT TEXT 31-40 ? "{ for ( ; ) { ch"
+.SEGMENT TEXT 41-54 ? "= getc ( fp ) ; if"
+.SEGMENT TEXT 55-69 ? "= getc ( fp ) ; if"
+.SEGMENT TEXT 83-95 ? "( ch = EOF ) goto"
+.SEGMENT TEXT 133-150 ? "nl ) break ; } continue ;"
+.SEGMENT TEXT 151-164 ? "} / * here if it"
+.SEGMENT TEXT 186-190 ? "was a readable"
+.SEGMENT TEXT 191-209 ? "character * / ungetc ( ch ,"
+.SEGMENT TEXT 210-225 ? "character * / ungetc ( ch ,"
+.SEGMENT TEXT 250-257 ? "done : return ("
+.SEGMENT TEXT 258-267 ? "done : return ("

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr113.dat
+.SEGMENT TEXT 0-58 OK "The government predicts that annual outflows will level off over the next few years at as much as 60,000 -- a projection that is widely regarded as unrealistically low."

@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0470.dat
+.SEGMENT WORD 0-2 ? "Dear"
+.SEGMENT WORD 3-7 ? "Oscar,"
+.SEGMENT WORD 8-13 ? "please"
+.SEGMENT WORD 14-17 ? "announce"
+.SEGMENT WORD 18-23 ? "Linda's"
+.SEGMENT WORD 24-30 ? "promotion"
+.SEGMENT WORD 31-32 ? "at"
+.SEGMENT WORD 33-34 ? "the"
+.SEGMENT WORD 35-40 ? "meeting."
+.SEGMENT WORD 41-46 ? "Thanks,"
+.SEGMENT WORD 47-51 ? "Susan."

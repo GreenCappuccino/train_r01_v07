@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr244.dat
+.SEGMENT TEXT 0-77 OK "Two rumored restructuring candidates in the oil industry moved higher: Chevron, which rose 1 3/4 to 68 1/4 on 3.5 million shares, and USX, which gained 1 1/4 to 34 5/8."

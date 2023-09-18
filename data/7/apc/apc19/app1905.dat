@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1905.dat
+.SEGMENT WORD 0-6 ? "orchestra"
+.SEGMENT WORD 7-9 ? "order"
+.SEGMENT WORD 10-12 ? "ones"
+.SEGMENT WORD 13-18 ? "pants"

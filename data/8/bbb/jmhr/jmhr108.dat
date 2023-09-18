@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/jmhr/jmhr108.dat
+.SEGMENT TEXT 0-69 OK "Instead, Mr. Vinson says, interviews with thousands of jurors reveal that they start with firmly entrenched attitudes and try to shoe-horn the facts of the case to fit their views."

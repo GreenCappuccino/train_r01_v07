@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd08/app0808.dat
+.SEGMENT WORD 0-9 ? "Riccione"
+.SEGMENT WORD 10-14 ? "Hong"
+.SEGMENT WORD 15-19 ? "Kong"
+.SEGMENT WORD 20-25 ? "Buenos"
+.SEGMENT WORD 26-32 ? "Aires"
+.SEGMENT WORD 33-38 ? "Sydney"

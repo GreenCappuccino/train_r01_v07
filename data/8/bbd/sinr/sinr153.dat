@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr153.dat
+.SEGMENT TEXT 0-83 OK "Kyushu Electric Power Co. (Japan) - $200 million of 8 7/8% bonds due Nov. 28, 1996, priced at 101 7/8 to yield 8 7/8% less full fees, via Yamaichi International Europe Ltd. Fees 1 7/8."

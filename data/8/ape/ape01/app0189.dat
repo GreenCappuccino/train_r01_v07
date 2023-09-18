@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0189.dat
+.SEGMENT TEXT 0-49 ? "The new president of Microsoft's name is Steven Bell"

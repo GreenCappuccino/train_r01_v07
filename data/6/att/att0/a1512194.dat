@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1512194.dat
+.SEGMENT WORD 0-3 ? "if"
+.SEGMENT WORD 7-9 ? "fp"
+.SEGMENT WORD 11-17 ? "exit"
+.SEGMENT WORD 154-156 ? "in"
+.SEGMENT WORD 157-160 ? "the"
+.SEGMENT WORD 161-169 ? "weights"

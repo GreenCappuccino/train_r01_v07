@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1393.dat
+.SEGMENT WORD 0-4 ? "kill"
+.SEGMENT WORD 5-10 ? "knot"
+.SEGMENT WORD 11-13 ? "lay"
+.SEGMENT WORD 14-17 ? "leap"

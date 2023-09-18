@@ -1,0 +1,107 @@
+
+
+.VERSION 1.0
+.COMMENT ######################################################################
+         ### SKELETON OF DOCUMENTATION FILE FOR ISOLATED CHARACTER DATABASE ###
+         ######################################################################
+
+.DATA_SOURCE    Lexicus Corp.
+.DATA_ID        lex0
+
+.COMMENT Use the .ALPHABET specified (the same for all the databases of the
+         benchmark). It should be a superset of the character labels that
+         you are using. Optionally use .ALPHABET_FREQ to specify character
+         frequencies by replacing the 1's by appropriate values. The character
+		 frequencies are defined in file lex0.freq
+
+.COMMENT Use .HIERARCHY TEXT for unsegmented text.
+         Use .HIERARCHY TEXT WORD if both .SEGMENT types TEXT and
+         WORD appear in the data file in which this file is included.
+         Use .HIERARCHY TEXT WORD CHARACTER if all three types are
+         used. The text labels may contain any characters from .ALPHABET.
+         If there are restrictions on the character set, please
+         specify them with .ALPHABET_SET in the data file directly.
+
+.HIERARCHY      TEXT WORD
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+         #####################
+
+	 Please fill up the blanks and add any other relevant information.
+
+.DATA_CONTACT
+         Name:			Liyang Zhou
+         Affiliation:	Lexicus Corp.
+         Address:		490 California Ave, Suite 300
+         Phone:			415-462-6811
+         Fax:			415-323-4772
+         Email:			liyang@lexicus.com
+
+.SETUP   Site:	Lexicus HQ, Palo Alto, California, USA
+         Time:	June-August, 1994
+         Writer population:	San Francisco Bay Area, California, USA
+         Writer motivation: 	paid
+         Writer physical position: Seated
+         Instructions given to the writer: Write neatly and naturally
+         Duration of one session:	1 to 4 hours, usually 2 hours
+         Recognizer feedback: 	no
+         Form layout:
+			This is a sentence.
+			[Writers writing .......]
+			This is another sentence,
+			[Writers writing ......]
+			A sequence of symbols ABXF
+			[Writers writing......]
+			Note words often have punctuation attached
+
+.DATA_INFO
+         Set type: test
+         ^^^^^^^^
+         Alphabet: English keyboard alphanumerics and symbols
+                   from the ASCII set, including punctuation
+         Lexicon:
+         Label distribution:
+         Quantity:
+         Quality: no cleaning
+         Number of Writer(s):
+         Writing Style: mixed
+         Segmentation: at word level only and will include attached punctuation
+
+.PAD     Machine name: Concerto/Northgate/UNIQ PCs with WACOM PL100-V
+         Brand:	Compaq
+         Type: 486
+         Serial Nr.:	
+         Sensor:		electromagnetic
+         Pen:			Calcomp on Concerto, Wacom on others
+         Driver:		Windows for Pen
+         Sampling mode:	penup and pen down
+         Sampling rate:	66pts/sec
+         Resolution:	200dpi
+         Accuracy:
+         Width:
+         Height:
+         Display:
+         Inking:
+
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+         Please replace numbers by adequate values. .X_DIM and .Y_DIM define
+         the bounding box. .H_LINE is the baseline which may be optionally
+         specified. All characters must fit in the same bounding box. The
+         UNIPEN coordinate system must be strictly observed (0 at the lower
+         left corner, X axis pointing to the right, Y axis pointing to the
+         top).
+
+.X_DIM   6978
+.Y_DIM   845
+.H_LINE  507
+
+
+.X_POINTS_PER_MM 20
+.Y_POINTS_PER_MM 20
+.POINTS_PER_SECOND 66
+.COORD        X Y

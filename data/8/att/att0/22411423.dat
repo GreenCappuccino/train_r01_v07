@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22411423.dat
+.SEGMENT TEXT 0-12 ? "( ) { putc ( ' \\ n',"
+.SEGMENT TEXT 26-44 ? "fp ) ; return OK ;"
+.SEGMENT TEXT 45-63 ? "fp ) ; return OK ;"
+.SEGMENT TEXT 147-169 ? "char * buffer ;"
+.SEGMENT TEXT 190-210 ? "register int cnt ;"
+.SEGMENT TEXT 360-374 ? "return NOTOK ;"
+.SEGMENT TEXT 375-391 ? "return NOTOK ;"

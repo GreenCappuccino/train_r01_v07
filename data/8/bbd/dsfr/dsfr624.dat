@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr624.dat
+.SEGMENT TEXT 0-51 OK "At the same time, the government didn't want to appear to favor GM by allowing a minority stake that might preclude a full bid by Ford."

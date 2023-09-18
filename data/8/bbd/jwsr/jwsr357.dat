@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr357.dat
+.SEGMENT TEXT 0-58 OK "The benchmark 30-year bond was quoted late at 102 12/32 to yield 7.90% compared with 102 7/32 to yield 7.92% Monday."

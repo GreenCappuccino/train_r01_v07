@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2188.dat
+.SEGMENT WORD 0-7 ? "nation"
+.SEGMENT WORD 8-13 ? "needle"
+.SEGMENT WORD 14-18 ? "nice"
+.SEGMENT WORD 19-26 ? "numerous"

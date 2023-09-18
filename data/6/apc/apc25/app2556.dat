@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2556.dat
+.SEGMENT WORD 0-4 ? "touched"
+.SEGMENT WORD 5-12 ? "transportation"
+.SEGMENT WORD 13-16 ? "twins"
+.SEGMENT WORD 17-22 ? "university"

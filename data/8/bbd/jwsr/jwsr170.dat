@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr170.dat
+.SEGMENT TEXT 0-61 OK "the president said that he and the kremlin leader would meet dec. 2-3 aboard u.s. and soviet naval vessels in the mediterranean to discuss a wide range of issues without a formal agenda."

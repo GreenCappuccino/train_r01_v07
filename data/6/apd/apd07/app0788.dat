@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0788.dat
+.SEGMENT WORD 0-5 ? "Allen"
+.SEGMENT WORD 6-15 ? "Britton"
+.SEGMENT WORD 16-21 ? "Brown"
+.SEGMENT WORD 22-28 ? "Coleman"

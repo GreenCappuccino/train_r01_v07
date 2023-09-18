@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd39/app3965.dat
+.SEGMENT WORD 0-1 ? "Up"
+.SEGMENT WORD 2-3 ? "and"
+.SEGMENT WORD 9-14 ? "side"
+.SEGMENT WORD 15-16 ? "to"
+.SEGMENT WORD 23-25 ? "the"
+.SEGMENT WORD 26-30 ? "tune"
+.SEGMENT WORD 31-34 ? "goes"

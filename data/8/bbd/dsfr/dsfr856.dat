@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr856.dat
+.SEGMENT TEXT 0-57 OK "Greece and Turkey, for example, are suspected of overstating their arsenals in hopes that they can emerge from the arms-reduction treaty with large remaining forces to deter each other."

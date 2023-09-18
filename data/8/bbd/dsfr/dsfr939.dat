@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr939.dat
+.SEGMENT TEXT 0-53 OK "The House is scheduled to vote this week on the compromise, as a substitute to a new Democratic bill, itself watered down from last spring's version."

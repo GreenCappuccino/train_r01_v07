@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr944.dat
+.SEGMENT TEXT 0-61 OK "With only 16-year-olds eligible, 68% of workers getting less than $4.25 an hour, who are adults, won't be subject to the training wage, he said."

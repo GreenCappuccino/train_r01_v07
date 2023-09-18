@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb28/app2820.dat
+.SEGMENT TEXT 0-25 ? "456-7890 X.34 967 2345"

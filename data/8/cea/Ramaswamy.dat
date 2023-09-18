@@ -1,0 +1,11 @@
+.VERSION 1.0
+.INCLUDE cea/ced0.lex
+.INCLUDE cea/ced0.doc
+.INCLUDE cea/data/Ramaswamy.dat
+.SEGMENT TEXT 53-117 ? "Wince Young our first string QB has an ankle injury"
+.SEGMENT TEXT 242-288 ? "Tell Jackson not to throw too many long bombs"
+.SEGMENT TEXT 326-396 ? "When they played Cleaveland last November , Walker rushed 140 yards"
+.SEGMENT TEXT 397-463 ? "If he keeps playing like that , he will make it to the pro-bowl"
+.SEGMENT TEXT 601-639 ? "The weather could either work for us or against us"
+.SEGMENT TEXT 640-680 ? "We would have the advantage in blizzard conditions"
+.SEGMENT TEXT 740-800 ? "A win against Houston will clinch a play-off spot for us"

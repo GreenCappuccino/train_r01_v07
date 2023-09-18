@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr342.dat
+.SEGMENT TEXT 0-39 OK "The university had sought an injunction blocking Connaught's board from recommending or supporting an offer for the company by Merieux."

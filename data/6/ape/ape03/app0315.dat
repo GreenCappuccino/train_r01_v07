@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0315.dat
+.SEGMENT WORD 6-8 ? "Sir"
+.SEGMENT WORD 9-10 ? "Lady"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr439.dat
+.SEGMENT TEXT 0-43 OK "Here is a bible for UFO watchers, complete with pictures of people who say they've had personal relationships with aliens."

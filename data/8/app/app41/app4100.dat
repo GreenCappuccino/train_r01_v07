@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app41/app4100.dat
+.SEGMENT TEXT 0-31 ? "{Brace Yourself}; @ ease @ last."

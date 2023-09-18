@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1136.dat
+.SEGMENT WORD 0-2 ? "twenty"
+.SEGMENT WORD 3-5 ? "unexpected"
+.SEGMENT WORD 6-8 ? "until"
+.SEGMENT WORD 9 ? "unless"

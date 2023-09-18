@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0804.dat
+.SEGMENT TEXT 0-42 ? "Tsunami hit Tokyo; 6:49 am, Dec 14, 1973"

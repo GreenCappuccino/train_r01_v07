@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr627.dat
+.SEGMENT TEXT 0-33 OK "She said it was too early to say what would happen to its clients, including Reebok and Apple."

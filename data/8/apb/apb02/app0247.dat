@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb02/app0247.dat
+.SEGMENT TEXT 0-22 ? "Mrs. Mr. Professor Sgt."

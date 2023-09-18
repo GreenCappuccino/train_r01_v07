@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr334.dat
+.SEGMENT TEXT 0-40 OK "But later in the day, a report by the Purchasing Management Association of Chicago cast doubt on the recession scenario."

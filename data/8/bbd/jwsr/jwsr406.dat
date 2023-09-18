@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr406.dat
+.SEGMENT TEXT 0-98 OK "Britain's benchmark 11 3/4% bond due 2003/2007 rose 2/32 to 111 1/2 to yield 10.14% while the 11 3/4% notes due 1991 were unchanged at 98 21/32 to yield 12.95%."

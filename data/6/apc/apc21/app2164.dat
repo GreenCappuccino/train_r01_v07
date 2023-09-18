@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2164.dat
+.SEGMENT WORD 0-10 ? "Underwater"
+.SEGMENT WORD 11-20 ? "Upstairs"

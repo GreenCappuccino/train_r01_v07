@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2274.dat
+.SEGMENT WORD 0-4 ? "We'll"
+.SEGMENT WORD 5-9 ? "Will"
+.SEGMENT WORD 10-13 ? "Wood"
+.SEGMENT WORD 14-17 ? "Wool"

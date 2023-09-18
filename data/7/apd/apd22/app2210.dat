@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd22/app2210.dat
+.SEGMENT WORD 0-7 ? "Gilbert"
+.SEGMENT WORD 8-14 ? "Hunt"
+.SEGMENT WORD 15-22 ? "Joyner"
+.SEGMENT WORD 23-30 ? "Katz"

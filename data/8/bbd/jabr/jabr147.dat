@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr147.dat
+.SEGMENT TEXT 0-74 OK "In fact, during the past three months there have been several demonstrations at the office complex where the Land Bureau is housed, and at the National Assembly, demanding the government put a stop to real-estate speculation."

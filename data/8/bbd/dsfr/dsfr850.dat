@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr850.dat
+.SEGMENT TEXT 0-57 OK "And some U.S. Army analysts worry that the proposed Soviet redefinition is aimed at blocking the U.S. from developing lighter, more transportable, high-technology tanks."

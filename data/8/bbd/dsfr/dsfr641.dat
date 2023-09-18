@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr641.dat
+.SEGMENT TEXT 0-44 OK "SFE Technologies said William P. Kuehn was elected chairman and chief executive officer of this troubled electronics parts maker."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr110.dat
+.SEGMENT TEXT 0-68 OK "But the total of all those pinging balls has created an industry with a reported annual income of 13 trillion yen (almost $92 billion), nearly the size of Japan's vaunted automobile industry."

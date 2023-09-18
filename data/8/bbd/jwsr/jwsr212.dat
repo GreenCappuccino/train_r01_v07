@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr212.dat
+.SEGMENT TEXT 0-60 OK "The Fairfield, N.J., company, which is 92%-owned by Ogden Corp., New York, had a net of $1.1 million, or four cents a share, a year ago."

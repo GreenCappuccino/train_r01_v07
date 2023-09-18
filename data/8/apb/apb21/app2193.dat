@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb21/app2193.dat
+.SEGMENT TEXT 0-38 ? "Sr. Engineer Manager Sales Represent CEO"

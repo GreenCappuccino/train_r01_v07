@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai2.doc
+.INCLUDE kai/data/kai2/scoh4.dat
+.SEGMENT WORD 103 OK "he"

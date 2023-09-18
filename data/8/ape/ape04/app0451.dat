@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0451.dat
+.SEGMENT TEXT 0-27 ? "ill, bill, will, till, fill, kill!"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0370.dat
+.SEGMENT WORD 0-14 ? "#1,345,763"
+.SEGMENT WORD 15-20 ? "-.334"

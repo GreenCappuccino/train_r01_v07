@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr282.dat
+.SEGMENT TEXT 0-62 OK "The compromise proposal, ending a long impasse between Democrats and the president, would boost the minimum wage to $4.25 an hour by April 1991 from $3.35 now."

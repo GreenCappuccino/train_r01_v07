@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl225.dat
+.SEGMENT TEXT 0-28 OK "For many companies, the instinctive first response is to cut costs."

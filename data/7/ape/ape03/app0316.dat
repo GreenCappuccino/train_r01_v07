@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0316.dat
+.SEGMENT WORD 0 ? "Allen"
+.SEGMENT WORD 1-3 ? "Britton"
+.SEGMENT WORD 4 ? "Brown"
+.SEGMENT WORD 5 ? "Coleman"

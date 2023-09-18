@@ -1,0 +1,25 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Butsch.dat
+.SEGMENT WORD 0-4 ? "It"
+.SEGMENT WORD 6-10 ? "is"
+.SEGMENT WORD 12 ? "a"
+.SEGMENT WORD 14-26 ? "violation"
+.SEGMENT WORD 28-30 ? "of"
+.SEGMENT WORD 32 ? "the"
+.SEGMENT WORD 34-48 ? "copywrite"
+.SEGMENT WORD 50 ? "."
+.SEGMENT WORD 51 ? "A"
+.SEGMENT WORD 53-65 ? "lawsuit"
+.SEGMENT WORD 67-71 ? "would"
+.SEGMENT WORD 73-77 ? "take"
+.SEGMENT WORD 79-85 ? "forever"
+.SEGMENT WORD 87 ? "."
+.SEGMENT WORD 549-555 ? "Clearly"
+.SEGMENT WORD 557-577 ? "EZ-SOFT"
+.SEGMENT WORD 579-581 ? "is"
+.SEGMENT WORD 583 ? "the"
+.SEGMENT WORD 585-595 ? "injured"
+.SEGMENT WORD 597-603 ? "party"
+.SEGMENT WORD 605 ? "."

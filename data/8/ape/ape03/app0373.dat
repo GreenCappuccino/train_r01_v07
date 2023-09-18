@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0373.dat
+.SEGMENT TEXT 0-33 ? "rush finance completed proposal"

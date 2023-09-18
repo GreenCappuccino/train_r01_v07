@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr530.dat
+.SEGMENT TEXT 0-36 OK "There are the supply-side globalists, who seek to spread the advantages of a common currency through fixed exchange rates."

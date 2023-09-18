@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0485.dat
+.SEGMENT WORD 0-2 ? "6/8"
+.SEGMENT WORD 3-7 ? "8/4"
+.SEGMENT WORD 8-11 ? "11/1"
+.SEGMENT WORD 12-15 ? "9/7"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1861.dat
+.SEGMENT WORD 0-9 ? "Aguilar"
+.SEGMENT WORD 10-19 ? "Atkins"
+.SEGMENT WORD 20-21 ? "Bond"
+.SEGMENT WORD 22-25 ? "Carter"

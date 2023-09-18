@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr238.dat
+.SEGMENT TEXT 0-66 OK "TransCanada PipeLines Ltd. said it plans to shift its headquarters to Calgary, Alberta, from Toronto next year to cut costs and be closer to the upstream natural-gas industry."

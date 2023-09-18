@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app11/app1170.dat
+.SEGMENT TEXT 0-23 ? "VEXING DAFT JIM"

@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0412514.dat
+.SEGMENT TEXT 0-24 ? "\" fprop.h \" # include"
+.SEGMENT TEXT 25-47 ? "\" fprop.h \" # include"
+.SEGMENT TEXT 71-93 ? "\" fpeng.h \" # include"
+.SEGMENT TEXT 94-119 ? "\" readnet.h \" # include"
+.SEGMENT TEXT 148-173 ? "\" f 1scanf.h \" # include"
+.SEGMENT TEXT 224-245 ? "\" iodef.h \" / ISA :"
+.SEGMENT TEXT 246-261 ? "important for"
+.SEGMENT TEXT 262-277 ? "important for"
+.SEGMENT TEXT 278-296 ? "I / O definition"
+.SEGMENT TEXT 338-359 ? "extern FILE * in"

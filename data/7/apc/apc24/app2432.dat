@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2432.dat
+.SEGMENT WORD 0-1 ? "ax"
+.SEGMENT WORD 2-4 ? "bananas"
+.SEGMENT WORD 5-6 ? "bad"
+.SEGMENT WORD 7-8 ? "bean"

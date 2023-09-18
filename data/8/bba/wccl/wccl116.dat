@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl116.dat
+.SEGMENT TEXT 0-21 OK "But so far, most potential participants haven't decided."

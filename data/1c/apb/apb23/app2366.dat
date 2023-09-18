@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb23/app2366.dat
+.SEGMENT CHARACTER 1-2 ? "i"
+.SEGMENT CHARACTER 3 ? "c"
+.SEGMENT CHARACTER 4 ? "e"

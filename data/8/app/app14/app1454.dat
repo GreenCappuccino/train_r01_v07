@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app14/app1454.dat
+.SEGMENT TEXT 0-23 ? "As the fumes cleared from"

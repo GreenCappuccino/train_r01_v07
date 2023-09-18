@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr756.dat
+.SEGMENT TEXT 0-45 OK "The average two-year and five-year jumbos were up 0.02 of a percentage point to 7.91% and 7.96%, respectively."

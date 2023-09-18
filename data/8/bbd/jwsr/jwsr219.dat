@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr219.dat
+.SEGMENT TEXT 0-80 OK "Under attack by its own listed companies and powerful floor traders, the New York Stock Exchange is considering reinstituting a \"collar\" on program trading that it abandoned last year, according to people familiar with the Big Board."

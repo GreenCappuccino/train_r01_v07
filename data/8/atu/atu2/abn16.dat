@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE atu/data/atu2/abn16.dat
+.SEGMENT TEXT 0 ? "Egon telefoniert am Nachmittag"

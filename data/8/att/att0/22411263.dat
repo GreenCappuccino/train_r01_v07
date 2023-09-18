@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22411263.dat
+.SEGMENT TEXT 61-77 ? "static FILE *"
+.SEGMENT TEXT 197-221 ? "/ * * / int nminit"
+.SEGMENT TEXT 245-256 ? "( user , clock )"
+.SEGMENT TEXT 257-269 ? "( user , clock )"
+.SEGMENT TEXT 270-283 ? "register char"
+.SEGMENT TEXT 284-297 ? "register char"
+.SEGMENT TEXT 355-371 ? "long * clock ; {"
+.SEGMENT TEXT 391-408 ? "quefile ( quefil ,"

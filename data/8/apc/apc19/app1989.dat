@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1989.dat
+.SEGMENT TEXT 0-25 ? "written yellow years you're"

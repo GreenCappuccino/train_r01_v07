@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl120.dat
+.SEGMENT TEXT 0-47 OK "A Compaq Computer Corp. spokeswoman said that the company hasn't made a decision yet, although \"it isn't under active consideration.\""

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr131.dat
+.SEGMENT TEXT 0-89 OK "Other weak blue-chip issues included Chevron, which went down 2 to 64 7/8 in Big Board composite trading of 1.3 million shares; Goodyear Tire & Rubber, off 1 1/2 to 46 3/4, and American Express, down 3/4 to 37 1/4."

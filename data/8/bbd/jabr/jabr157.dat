@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr157.dat
+.SEGMENT TEXT 0-29 OK "- Grace periods ranging from two to five years before the full scope of the penalties takes effect."

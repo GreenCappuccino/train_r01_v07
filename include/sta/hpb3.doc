@@ -1,0 +1,109 @@
+.VERSION 1.0
+.COMMENT #################################################################
+	 # 								   #
+	 #    Hewlett Packard Laboratories, Palo Alto, Printed dataset     #
+	 # 								   #
+	 ################################################################
+
+.DATA_SOURCE 	Hewlett Packard Laboratories
+.DATA_ID 	hpb3
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" "\ "
+
+.ALPHABET_FREQ  1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1 1 1 1 1 1 1
+		1 1 1 1 1 1 1
+
+.HIERARCHY      WORD
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+         #####################
+
+.DATA_CONTACT 
+         Name:        	Dave Reynolds
+         Affiliation: 	Hewlett Packard Laboratories
+         Address:     	Filton Road,
+			Stoke Gifford,
+			Bristol, BS12 6QZ, UK
+         Phone: 	+44-272-228165
+         Fax:   	+44-272-228128
+			(Area code will change to 1179 in April 95)
+         Email: 	der@hplb.hpl.hp.com
+ 	 N.B. Dave Reynolds merely organised the donation and format
+	 conversion of the data and gratefully acknowledges the willingness
+	 of the Palo Alto group (notably Jim Stinger and Larry Hubby) to
+	 donate this data to the community.
+
+.SETUP   Site:  	Hewlett Packard Laboratories, Palo Alto
+         Time:  	June 1993
+	 Writer population:	Staff at HP Labs Palo Alto
+	 Writer motivation:     Volunteer
+         Writer physical position:	Sitting at desk.
+	 Instructions given to the writer:
+		Copy word or phrase prompted on the screen in printed form.
+		Never go back over your writing, just keep going.
+	 Duration of one session: Approx 2 hours.
+	 Recognizer feedback: No.
+         Form layout: Randomly placed blank dialogue boxes.
+
+.DATA_INFO    
+	 Set type: test
+	 Alphabet: English keyboard alphanumerics and symbols 
+		   from the ASCII set
+         Lexicon:  Common words, digits, isolated letters.
+         Label distribution: 
+         Quantity: 1000 words
+         Quality:  Self validation by writer, post checking and segmention by
+                   experimenter for 22 writers, rest only validated by writer.
+         Number of Writer(s): 48
+         Writing Style: Printed
+         Segmentation:  Semi-automatic segmentation of phrases followed by
+         		manual checking.
+
+.PAD     Machine name: 	Wacom HD648A
+	 Brand:		Wacom
+	 Type:		HD648A
+	 Serial Nr.:	?
+         Sensor:	Electromagnetic, wireless pen
+         Pen:		Untethered inking pen, tip switch, ball point refill
+			Tip switch used for pen up/down sensing.
+         Driver:	Custom driver which uses direct calls to GetPenHwData
+         		under MS WIndows for Pen Computing.
+	 Sampling mode: Equi-time sampling.
+	 Sampling rate: 100 [Hz]
+	 Resolution:	0.02 mm
+	 Accuracy:	.1  [mm]
+	 Width:		
+	 Height:	
+         Display:	Wacom backlit LCD screen (640x480).
+	 Inking:	Graphically emulated, black on white, 1 pixel thick.
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+.X_DIM   3020
+.Y_DIM   4640
+
+.COMMENT #####################
+         ###  UNIT SYSTEM  ###
+         #####################
+
+.X_POINTS_PER_INCH 1000
+.Y_POINTS_PER_INCH 1000
+
+.POINTS_PER_SECOND 100
+.COORD             X Y

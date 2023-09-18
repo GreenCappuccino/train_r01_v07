@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0187.dat
+.SEGMENT WORD 0-3 ? "Send"
+.SEGMENT WORD 4-6 ? "in"
+.SEGMENT WORD 7-10 ? "day"
+.SEGMENT WORD 11-14 ? "care"
+.SEGMENT WORD 15-30 ? "registration"

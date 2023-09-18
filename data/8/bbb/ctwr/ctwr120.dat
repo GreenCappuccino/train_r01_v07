@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr120.dat
+.SEGMENT TEXT 0-17 OK "Mr. Roman appears custom-made for the American Express job."

@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/150.1.dat
+.SEGMENT TEXT 0-66 ? "Options buyers who got in a few days ago have already taken a bath."

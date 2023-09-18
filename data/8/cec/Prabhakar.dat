@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Prabhakar.dat
+.SEGMENT TEXT 71-111 ? "the midterm exam this March 7th"
+.SEGMENT TEXT 112-162 ? "The class average was 88 and his score was 47 ."
+.SEGMENT TEXT 210-276 ? "He is always failing Math and he has a D- in german ."
+.SEGMENT TEXT 385-433 ? "Maybe we should meet with his parents on Tuesday ."
+.SEGMENT TEXT 491-525 ? "Do you have any recommendations ?"
+.SEGMENT TEXT 581-639 ? "Elaine Parker would be an excellent person for the job ."
+.SEGMENT TEXT 640-712 ? "She always gets straight As and she knows how to work well with others ."
+.SEGMENT TEXT 713-787 ? "Should I talk with her tommorrow after 10th period ?"
+.SEGMENT TEXT 788-828 ? "Let me know if this is a crazy idea ."

@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape18/app1854.dat
+.SEGMENT WORD 0-9 ? "Stamford"
+.SEGMENT WORD 10-11 ? "La"
+.SEGMENT WORD 12-18 ? "Jolla"
+.SEGMENT WORD 19-27 ? "Seattle"
+.SEGMENT WORD 28-32 ? "Key"
+.SEGMENT WORD 33-37 ? "West"

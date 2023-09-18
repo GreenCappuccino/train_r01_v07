@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl333.dat
+.SEGMENT TEXT 0-67 OK "The last time parties to these settlements negotiated wage increases, mostly in 1986 or 1987, wages increased an average of 2.4% a year over the life of the contracts."

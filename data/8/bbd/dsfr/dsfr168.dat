@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr168.dat
+.SEGMENT TEXT 0-34 OK "allwaste inc. declared a 2-for-1 stock split, payable dec. 1, to stock of record nov. 15."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr422.dat
+.SEGMENT TEXT 0-60 OK "Not only can they block Wellington from raising money in Japan, bankers here say, but as the largest underwriters in the Eurobond market, they might be able to scuttle borrowings there, too."

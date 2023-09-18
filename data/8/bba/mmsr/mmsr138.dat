@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/mmsr/mmsr138.dat
+.SEGMENT TEXT 0-51 OK "Thrifts raised capital mostly by selling mortgages and mortgage-backed securities, which were reduced by $7.8 billion in August from the prior month."

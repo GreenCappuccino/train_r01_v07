@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr162.dat
+.SEGMENT TEXT 0-78 OK "The best of the crop was last week's season premiere of \"In the Heat of the Night,\" the NBC series based on a 1967 feature film about a black Philadelphia police detective in a small Southern town."

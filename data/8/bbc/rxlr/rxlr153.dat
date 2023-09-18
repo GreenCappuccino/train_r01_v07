@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr153.dat
+.SEGMENT TEXT 0-34 OK "@ FPL Grp 1.20 ... 1.30 (4) 7.69 Source: Zacks Investment Research"

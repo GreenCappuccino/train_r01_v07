@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape10/app1081.dat
+.SEGMENT WORD 0-5 ? "Fax"
+.SEGMENT WORD 6-8 ? "her"
+.SEGMENT WORD 9-12 ? "the"
+.SEGMENT WORD 13-20 ? "results"
+.SEGMENT WORD 21-24 ? "Mon"
+.SEGMENT WORD 25-32 ? "morning"

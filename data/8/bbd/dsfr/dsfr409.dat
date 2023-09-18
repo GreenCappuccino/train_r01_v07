@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr409.dat
+.SEGMENT TEXT 0-41 OK "\"It's one thing to say you can sterilize, and another to then successfully pollinate the plant,\" he said."

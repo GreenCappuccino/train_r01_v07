@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1781.dat
+.SEGMENT WORD 0-1 ? "O'"
+.SEGMENT WORD 2-7 ? "Brien"
+.SEGMENT WORD 8-14 ? "Pratt"
+.SEGMENT WORD 15-20 ? "Quinn"
+.SEGMENT WORD 21-27 ? "Russell"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr439.dat
+.SEGMENT TEXT 0-50 OK "On a pretax basis, Itel's third-quarter earnings of 30 cents a share were actually 7.14% higher than the average of estimates."

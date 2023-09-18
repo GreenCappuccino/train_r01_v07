@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr726.dat
+.SEGMENT TEXT 0-45 OK "The leading index recovered from July's revised level of 36.6 on strong performances in consumer durables and machinery orders, among other factors, according to an agency spokeswoman."

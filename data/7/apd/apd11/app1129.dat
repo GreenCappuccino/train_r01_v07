@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1129.dat
+.SEGMENT WORD 0 ? "blue"
+.SEGMENT WORD 1-3 ? "bother"
+.SEGMENT WORD 4 ? "brake"
+.SEGMENT WORD 5 ? "bulb"

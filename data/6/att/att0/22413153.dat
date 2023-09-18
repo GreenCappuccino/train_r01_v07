@@ -1,0 +1,15 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/22413153.dat
+.SEGMENT WORD 43-45 ? "getc"
+.SEGMENT WORD 48-49 ? "fp"
+.SEGMENT WORD 53-54 ? "if"
+.SEGMENT WORD 158-159 ? "here"
+.SEGMENT WORD 160-161 ? "if"
+.SEGMENT WORD 162-164 ? "it"
+.SEGMENT WORD 191-196 ? "character"
+.SEGMENT WORD 202-206 ? "ungetc"
+.SEGMENT WORD 208-208 ? "ch"
+.SEGMENT WORD 250-250 ? "done"
+.SEGMENT WORD 253-256 ? "return"

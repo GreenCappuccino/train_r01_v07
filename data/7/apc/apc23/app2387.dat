@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2387.dat
+.SEGMENT WORD 0-7 ? "Lining"
+.SEGMENT WORD 8-13 ? "Literature"
+.SEGMENT WORD 14-16 ? "Look"
+.SEGMENT WORD 17-20 ? "Magnet"

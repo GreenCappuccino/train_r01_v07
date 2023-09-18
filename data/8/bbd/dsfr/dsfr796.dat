@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr796.dat
+.SEGMENT TEXT 0-31 OK "When the balloon is cruising along at a steady altitude there is little sense of motion."

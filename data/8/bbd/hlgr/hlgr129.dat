@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/hlgr/hlgr129.dat
+.SEGMENT TEXT 0-73 OK "Great Northern surged 20 1/8 to 62 7/8, well above Georgia-Pacific's offering price of $58 a share, amid speculation that other suitors for the company would surface or that the bid would be raised."

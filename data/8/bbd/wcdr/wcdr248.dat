@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr248.dat
+.SEGMENT TEXT 0-29 OK "All 700 Toronto-based employees will be offered positions in Calgary, the company said."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr277.dat
+.SEGMENT TEXT 0-63 OK "If it promotes fashion too much, the shop risks alienating its old-line customers; by emphasizing \"value,\" it risks watering down its high-minded mystique."

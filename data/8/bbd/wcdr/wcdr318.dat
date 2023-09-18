@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr318.dat
+.SEGMENT TEXT 0-65 OK "Mr. Gatward has spent a lot of time since late September at MTM's headquarters; he eliminated three departments and fired six executives, according to the TVS spokesman."

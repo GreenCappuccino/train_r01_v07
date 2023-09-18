@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr505.dat
+.SEGMENT TEXT 0-22 OK "He's not thinking about home runs anymore, just base hits."

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa15/app1539.dat
+.SEGMENT TEXT 0-38 ? "@ 12:34:56 _Jugglers_ _will_ _descend_."

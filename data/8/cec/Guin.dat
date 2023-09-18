@@ -1,0 +1,18 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Guin.dat
+.SEGMENT TEXT 121-145 ? "It could run upto two hours"
+.SEGMENT TEXT 146-188 ? "In the afternoon I am busy with another meeting"
+.SEGMENT TEXT 189-203 ? "You can stop by whenever"
+.SEGMENT TEXT 204-230 ? "It shouldn't take too long"
+.SEGMENT TEXT 231-285 ? "In any case I am planning hold another meeting on Tuesday , June 30th ."
+.SEGMENT TEXT 372-428 ? "He says I suspect that the Tuesday session won't be long either"
+.SEGMENT TEXT 429-475 ? "If you can't make it I can update you on it later"
+.SEGMENT TEXT 476-496 ? "The floor needs to be replaced completely"
+.SEGMENT TEXT 568-594 ? "The basement seems to be OK"
+.SEGMENT TEXT 638-664 ? "All the carpets have been ruined"
+.SEGMENT TEXT 702-736 ? "The fire was caused by the wood burning stove"
+.SEGMENT TEXT 737-765 ? "Be grateful that nobody was hurt"
+.SEGMENT TEXT 787-821 ? "Their insurance policy should cover everything"
+.SEGMENT TEXT 822-852 ? "I am guessing that it will cost"

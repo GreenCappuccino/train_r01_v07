@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc23/app2357.dat
+.SEGMENT WORD 0-3 ? "People"
+.SEGMENT WORD 4-9 ? "Pillow"
+.SEGMENT WORD 10-14 ? "Planning"
+.SEGMENT WORD 15-23 ? "Practical"

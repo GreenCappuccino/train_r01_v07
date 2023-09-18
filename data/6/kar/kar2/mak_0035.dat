@@ -1,0 +1,22 @@
+.VERSION 1.0
+.INCLUDE kar/kar2.doc
+.INCLUDE kar/data/kar2/mak_0035.dat
+.SEGMENT WORD 39-46 ? "culture"
+.SEGMENT WORD 47-57 ? "ellerbrock"
+.SEGMENT WORD 58-66 ? "eudoxia"
+.SEGMENT WORD 153-159 ? "lesharo"
+.SEGMENT WORD 167-177 ? "maritime"
+.SEGMENT WORD 178-182 ? "mook"
+.SEGMENT WORD 191-202 ? "nonbinding"
+.SEGMENT WORD 203-212 ? "obsession"
+.SEGMENT WORD 213-221 ? "ohlinger"
+.SEGMENT WORD 238-243 ? "paske"
+.SEGMENT WORD 266-272 ? "rutzen"
+.SEGMENT WORD 273-283 ? "sobieski"
+.SEGMENT WORD 302-314 ? "sturdivant"
+.SEGMENT WORD 323-328 ? "thede"
+.SEGMENT WORD 329-334 ? "tier"
+.SEGMENT WORD 357-361 ? "ucci"
+.SEGMENT WORD 362-370 ? "utopian"
+.SEGMENT WORD 371-376 ? "vanden"
+.SEGMENT WORD 382-391 ? "worthley"

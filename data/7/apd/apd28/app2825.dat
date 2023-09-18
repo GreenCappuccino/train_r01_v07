@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd28/app2825.dat
+.SEGMENT WORD 0-3 ? "USA"
+.SEGMENT WORD 4-15 ? "Australia"
+.SEGMENT WORD 16-20 ? "U.K."
+.SEGMENT WORD 21-29 ? "Canada"

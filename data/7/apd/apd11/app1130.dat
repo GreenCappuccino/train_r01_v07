@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1130.dat
+.SEGMENT WORD 0 ? "puppy"
+.SEGMENT WORD 1-4 ? "qualities"
+.SEGMENT WORD 5-7 ? "quietly"
+.SEGMENT WORD 8 ? "rarely"

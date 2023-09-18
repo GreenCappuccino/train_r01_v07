@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apa/app.doc
+.INCLUDE apa/data/apa13/app1362.dat
+.SEGMENT TEXT 0-31 ? "8:4 & 4:2 & 2:1; > Similar?"

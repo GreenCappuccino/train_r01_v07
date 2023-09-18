@@ -1,0 +1,12 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape01/app0189.dat
+.SEGMENT WORD 0-2 ? "The"
+.SEGMENT WORD 3-6 ? "new"
+.SEGMENT WORD 7-15 ? "president"
+.SEGMENT WORD 16-18 ? "of"
+.SEGMENT WORD 19-32 ? "Microsoft's"
+.SEGMENT WORD 33-35 ? "name"
+.SEGMENT WORD 36-38 ? "is"
+.SEGMENT WORD 39-45 ? "Steven"
+.SEGMENT WORD 46-49 ? "Bell"

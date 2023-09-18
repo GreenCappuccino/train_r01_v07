@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl115.dat
+.SEGMENT TEXT 0-28 OK "U.S. Memories needs a catalyst, he said, to inspire others to join."

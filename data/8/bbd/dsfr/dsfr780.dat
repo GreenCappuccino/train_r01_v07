@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr780.dat
+.SEGMENT TEXT 0-32 OK "I'm not referring to the traditional champagne drenching during the back-on-terra-firma toast."

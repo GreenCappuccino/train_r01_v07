@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a1911454.dat
+.SEGMENT TEXT 30-42 ? "! = 1 ) { if ( krud"
+.SEGMENT TEXT 43-55 ? "! = 1 ) { if ( krud"
+.SEGMENT TEXT 149-166 ? "\" ? Bad input \\ n \" ) ;"
+.SEGMENT TEXT 167-185 ? "\" ? Bad input \\ n \" ) ;"
+.SEGMENT TEXT 186-207 ? "exit ( 1 ) ; } # elif"

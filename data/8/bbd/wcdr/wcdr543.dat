@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr543.dat
+.SEGMENT TEXT 0-62 OK "Faced with a similar situation, Paul Volcker let the dollar soar, (though monetary aggregates also grew so rapidly monetarists issued egg-on-the-face warnings of inflation)."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr657.dat
+.SEGMENT TEXT 0-37 OK "Volume on the First Section was estimated at 900 million shares, up from 582 million shares Monday."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr535.dat
+.SEGMENT TEXT 0-58 OK "While no doubt agreeing with Mr. Lawson on everything else, Sir Alan is a dyed-in-the-wool monetarist, inclined to defend floating rates to the death."

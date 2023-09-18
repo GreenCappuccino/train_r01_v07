@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0749.dat
+.SEGMENT WORD 0-2 ? "Charlie"
+.SEGMENT WORD 3-4 ? "Dr."
+.SEGMENT WORD 5 ? "German"
+.SEGMENT WORD 6-7 ? "Indian"

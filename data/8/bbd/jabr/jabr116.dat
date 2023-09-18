@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jabr/jabr116.dat
+.SEGMENT TEXT 0-61 OK "Norton Co. said net income for the third quarter fell 6% to $20.6 million, or 98 cents a share, from $22 million, or $1.03 a share."

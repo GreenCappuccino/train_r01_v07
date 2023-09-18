@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app19/app1908.dat
+.SEGMENT TEXT 0-34 ? "QUICKLY FORGOT HOW TO WALTZ"

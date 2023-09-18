@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE pri/data/pri2/150.9.dat
+.SEGMENT TEXT 0-96 ? "Those bomb commercials were the start of dirty political ads on television."

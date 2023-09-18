@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl184.dat
+.SEGMENT TEXT 0-87 OK "Devastation from Hurricane Hugo, which slammed into the Southeast coast in late September, diminished personal income by about $4 billion, the department said, but it called the effect on the roughly $5 trillion economy \"negligible.\""

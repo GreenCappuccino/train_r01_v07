@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr155.dat
+.SEGMENT TEXT 0-41 OK "The company agreed definitively to be acquired by Ogden Corp. in a stock swap valued at about $82.5 million."

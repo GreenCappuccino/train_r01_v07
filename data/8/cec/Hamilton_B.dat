@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Hamilton_B.dat
+.SEGMENT TEXT 0-36 ? "Besides Jackson is better on natural turf ."
+.SEGMENT TEXT 37-77 ? "This is a quick evaluation of the damage ."
+.SEGMENT TEXT 78-106 ? "The floor has to be replaced completely"
+.SEGMENT TEXT 107-153 ? "We will also need extensive repairs on the walls and ceiling"
+.SEGMENT TEXT 154-188 ? "The upstairs needs a new paint job ."
+.SEGMENT TEXT 214-254 ? "I'ts going to be very expensive to fix"
+.SEGMENT TEXT 350-380 ? "Be greateful that no body was hurt"
+.SEGMENT TEXT 381-423 ? "Most of the valueables were rescued from the blaze ."
+.SEGMENT TEXT 457-485 ? "The deductible doesn't apply here ."

@@ -1,0 +1,10 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1397.dat
+.SEGMENT WORD 0-7 ? "E.T.C."
+.SEGMENT WORD 8-15 ? "Carpet"
+.SEGMENT WORD 16-21 ? "Mills"
+.SEGMENT WORD 22-27 ? "IBM"
+.SEGMENT WORD 28-32 ? "Sharp"
+.SEGMENT WORD 33-41 ? "General"
+.SEGMENT WORD 42-53 ? "Electric"

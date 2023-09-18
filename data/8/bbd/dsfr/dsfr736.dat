@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr736.dat
+.SEGMENT TEXT 0-58 OK "Martin Marietta Corp. said it won a $38.2 million contract from the U.S. Postal Service to manufacture and install automated mail-sorting machines."

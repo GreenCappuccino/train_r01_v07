@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb42/app4208.dat
+.SEGMENT TEXT 0-22 ? "12345 78901 08976 68532"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr529.dat
+.SEGMENT TEXT 0-68 OK "Liberty National Bancorp said its acquisition of Florence Deposit Bank, Florence, Ky., first announced in April, has been completed in a transaction valued at $13.1 million."

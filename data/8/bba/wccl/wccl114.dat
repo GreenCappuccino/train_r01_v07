@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl114.dat
+.SEGMENT TEXT 0-61 OK "Mr. Kane said he expects two or three major corporations to announce their participation in U.S. Memories soon after the group finishes a business plan, probably late this week."

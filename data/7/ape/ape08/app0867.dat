@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0867.dat
+.SEGMENT WORD 0-10 ? "Riccione"
+.SEGMENT WORD 11-14 ? "Hong"
+.SEGMENT WORD 15-18 ? "King"
+.SEGMENT WORD 19-24 ? "Buenos"
+.SEGMENT WORD 25-31 ? "Aires"
+.SEGMENT WORD 32-35 ? "Sydney"

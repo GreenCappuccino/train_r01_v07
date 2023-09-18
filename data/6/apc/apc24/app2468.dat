@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc24/app2468.dat
+.SEGMENT WORD 0-8 ? "Invite"
+.SEGMENT WORD 9-19 ? "Illustrate"

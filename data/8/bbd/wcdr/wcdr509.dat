@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr509.dat
+.SEGMENT TEXT 0-70 OK "Although the polyester and rayon markets remain mostly bleak, Akzo has high hopes for some emerging fiber businesses, such carbon fibers and aramid, extremely strong fibers used to reinforce tires and metals and to make such products as bullet-proof vests."

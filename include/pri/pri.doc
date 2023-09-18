@@ -1,0 +1,75 @@
+.VERSION 1.0
+
+.COMMENT #####################
+         ### DOCUMENTATION ###
+	 #####################
+
+.DATA_SOURCE 	Princeton_University
+.DATA_ID 	pri
+
+.ALPHABET	"0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+		"A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+		"N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+		"a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+		"n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+		"~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+		"=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+		"," "." ";" "'" "`" "_" " "
+
+.HIERARCHY      TEXT WORD CHARACTER
+
+.DATA_CONTACT 
+         Name:		Eric Sven Ristad
+         Affiliation:	Princeton University
+         Address:    	35 Olden Street, Princeton, NJ 08544, USA.
+         Phone: 	609-258-4455
+         Fax:   	609-258-1771
+         Email: 	ristad@princeton.edu
+
+.SETUP   Site:  	35 Olden Street, Rm.418a.
+         Time:  	intermittently, January 1994 to present.
+         Conditions:	supervised recording conditions,
+			subject sitting at desk writing on video tablet.
+         Writers:	predominantly but not exclusively paid students.
+         Form layout:	wide-ruled paper simulated on video tablet.
+
+.DATA_INFO    
+         Set type: training or test
+         ^^^^^^^^         
+         Alphabet: English keyboard alphanumerics and symbols 
+                   from the ASCII set
+         Lexicon: 		unconstrained.
+         Label distribution:
+         Quantity:
+         Quality: 		GOOD
+         Number of Writer(s): 
+         Writing Style: 	unconstrained.
+         Segmentation: 
+
+.PAD     Machine name:	Kurta KVTS-5.
+         Display:	monochrome passive-matrix lcd screen (VGA, 640x480)
+         Sensor:	electro-magnetic with battery-powered pen transmission.
+         Pen:		unteathered pen w/ tip switch and 1 barrel button.
+         Driver:        homemade DOS driver written in MSC 7.0 using Ray Gwynn's 
+			X00 fossil v.5 driver running on dedicated 486/DX66 machine.
+			Time stamps direct from 8253 timer at millisecond accuracy.
+
+.COMMENT #####################
+         ###  DATA LAYOUT  ###
+         #####################
+
+.X_DIM   7760
+.Y_DIM   5870
+
+
+.COMMENT #####################
+         ###  UNIT SYSTEM  ###
+         #####################
+
+.X_POINTS_PER_MM 	40
+.Y_POINTS_PER_MM 	40
+.POINTS_PER_SECOND 	135
+.COORD             	X Y
+
+
+

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr261.dat
+.SEGMENT TEXT 0-24 OK "One ad shows a bright red jacket paired with a black leather skirt."

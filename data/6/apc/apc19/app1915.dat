@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1915.dat
+.SEGMENT WORD 0-2 ? "thus"
+.SEGMENT WORD 3-8 ? "tropical"
+.SEGMENT WORD 9-15 ? "underground"
+.SEGMENT WORD 16-24 ? "upstairs"

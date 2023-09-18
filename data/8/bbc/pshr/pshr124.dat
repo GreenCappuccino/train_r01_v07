@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr124.dat
+.SEGMENT TEXT 0-62 OK "According to Salomon Brothers' \"stub\" stock index of 20 companies whose debt is giant compared with shareholder equity, investors are already beginning to retreat from shares of debt-laden companies."

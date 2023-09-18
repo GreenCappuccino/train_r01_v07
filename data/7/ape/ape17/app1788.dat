@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape17/app1788.dat
+.SEGMENT WORD 0-5 ? "Agoura"
+.SEGMENT WORD 6-11 ? "Hills"
+.SEGMENT WORD 12-16 ? "Paris"
+.SEGMENT WORD 17-22 ? "Ft."
+.SEGMENT WORD 23-31 ? "Lauredale"
+.SEGMENT WORD 32-37 ? "Munich"

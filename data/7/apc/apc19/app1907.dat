@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc19/app1907.dat
+.SEGMENT WORD 0-4 ? "port"
+.SEGMENT WORD 5-15 ? "primarily"
+.SEGMENT WORD 16-22 ? "puzzled"
+.SEGMENT WORD 23-25 ? "proud"

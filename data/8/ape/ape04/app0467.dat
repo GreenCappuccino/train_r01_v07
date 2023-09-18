@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape04/app0467.dat
+.SEGMENT TEXT 0-29 ? "Call bank. Find out latest interest rates"

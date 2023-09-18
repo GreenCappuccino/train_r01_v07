@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr110.dat
+.SEGMENT TEXT 0-30 OK "Previously he had been senior vice president in charge of the savings bank's trust division."

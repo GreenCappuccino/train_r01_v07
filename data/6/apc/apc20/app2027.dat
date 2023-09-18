@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc20/app2027.dat
+.SEGMENT WORD 0-3 ? "Same"
+.SEGMENT WORD 4-9 ? "Scheme"
+.SEGMENT WORD 10-16 ? "Select"
+.SEGMENT WORD 17-21 ? "Shore"

@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape09/app0972.dat
+.SEGMENT TEXT 0-83 ? "The Splendid Feast Yosh for Hair National, Inc. Glass Foothill Lanscaping"

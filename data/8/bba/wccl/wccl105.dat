@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl105.dat
+.SEGMENT TEXT 0-25 OK "Apple said that its money would be better spent in areas such as research and development."

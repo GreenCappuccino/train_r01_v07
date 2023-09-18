@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb08/app0802.dat
+.SEGMENT TEXT 0-50 ? "Schedule shareholders meeting Wed morning at 9:30"

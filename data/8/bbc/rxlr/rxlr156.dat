@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/rxlr/rxlr156.dat
+.SEGMENT TEXT 0-17 OK "It didn't release terms of the transaction."

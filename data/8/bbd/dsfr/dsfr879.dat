@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr879.dat
+.SEGMENT TEXT 0-38 OK "Aside from Europe, the Pacific division is where Coke will be focusing much of its attention for years to come."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dskl/dskl271.dat
+.SEGMENT TEXT 0-54 OK "He was convicted of charging interest rates much higher than what the law permitted, and attempting to evade income taxes by using a double accounting system."

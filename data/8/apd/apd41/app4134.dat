@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd41/app4134.dat
+.SEGMENT TEXT 0-55 ? "Cupertino Florist Ford El Camino Hospital Century 21"

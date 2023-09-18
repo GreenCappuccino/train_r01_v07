@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2190.dat
+.SEGMENT WORD 0-7 ? "Notice"
+.SEGMENT WORD 8-19 ? "Official"
+.SEGMENT WORD 20-22 ? "Odd"
+.SEGMENT WORD 23-27 ? "Older"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2293.dat
+.SEGMENT WORD 0-7 ? "fruit"
+.SEGMENT WORD 8-11 ? "fun"
+.SEGMENT WORD 12-16 ? "gate"
+.SEGMENT WORD 17-20 ? "gear"

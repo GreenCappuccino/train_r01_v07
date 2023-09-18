@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ceb/ced1.doc
+.INCLUDE ceb/ced0.lex
+.INCLUDE ceb/data/Balgi.dat
+.SEGMENT CHARACTER 461 ? "3"
+.SEGMENT CHARACTER 483 ? "2"
+.SEGMENT CHARACTER 502 ? "1"

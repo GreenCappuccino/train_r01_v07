@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape08/app0874.dat
+.SEGMENT TEXT 0-39 ? "Pacific Mortgage Seville Properties Compton's JVC"

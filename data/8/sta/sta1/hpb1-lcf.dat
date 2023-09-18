@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-lcf.dat
+.SEGMENT TEXT 184-207 OK "Seven and eighty years have gone by ,"
+.SEGMENT TEXT 228-253 OK "gave to this land a new nation ."

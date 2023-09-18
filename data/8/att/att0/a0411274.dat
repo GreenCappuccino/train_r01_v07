@@ -1,0 +1,14 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0411274.dat
+.SEGMENT TEXT 0-17 ? "} / * modified"
+.SEGMENT TEXT 18-35 ? "} / * modified"
+.SEGMENT TEXT 36-54 ? "version of fscanf"
+.SEGMENT TEXT 55-73 ? "version of fscanf"
+.SEGMENT TEXT 97-119 ? "SKIPS OVER COMMENTS"
+.SEGMENT TEXT 120-133 ? "comments start"
+.SEGMENT TEXT 148-163 ? "with a hash ( # )"
+.SEGMENT TEXT 181-191 ? "and run to the"
+.SEGMENT TEXT 192-202 ? "and run to the"
+.SEGMENT TEXT 203-216 ? "end of the line"

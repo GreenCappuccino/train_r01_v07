@@ -1,0 +1,6 @@
+.VERSION 1.0
+.INCLUDE att/ccode.lex
+.INCLUDE att/att0.doc
+.INCLUDE att/data/att0/a0513084.dat
+.SEGMENT TEXT 113-133 ? "structure , etc."
+.SEGMENT TEXT 134-150 ? "structure , etc."

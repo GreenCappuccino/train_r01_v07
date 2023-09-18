@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd07/app0707.dat
+.SEGMENT WORD 0-8 ? "Word!"

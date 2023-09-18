@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE sta/hpb1.doc
+.INCLUDE sta/basic.lex
+.INCLUDE sta/data/sta1/hpb1-jdc.dat
+.SEGMENT TEXT 0-41 OK "The grass has a sweet smell ."
+.SEGMENT TEXT 178-214 OK "No one will see them ."
+.SEGMENT TEXT 454-507 OK "from the day when our fathers"
+.SEGMENT TEXT 508-558 OK "gave to this land a new nation ."
+.SEGMENT TEXT 559-592 OK "To be or not to be ;"

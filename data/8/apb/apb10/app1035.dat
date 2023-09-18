@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb10/app1035.dat
+.SEGMENT TEXT 0-42 ? "Leaving for Utah and Mexico 5/13"

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3839.dat
+.SEGMENT WORD 0-2 ? "nothing"
+.SEGMENT WORD 3 ? "none"
+.SEGMENT WORD 4 ? "number"
+.SEGMENT WORD 5 ? "odor"

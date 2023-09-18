@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0326.dat
+.SEGMENT TEXT 0-7 ? "CA UT Ma FL"

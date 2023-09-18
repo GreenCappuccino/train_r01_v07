@@ -1,0 +1,13 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0590.dat
+.SEGMENT WORD 6-10 ? "just"
+.SEGMENT WORD 11-18 ? "arrived"
+.SEGMENT WORD 24-26 ? "can"
+.SEGMENT WORD 27-29 ? "you"
+.SEGMENT WORD 30-36 ? "please"
+.SEGMENT WORD 37-40 ? "tell"
+.SEGMENT WORD 41 ? "me"
+.SEGMENT WORD 42-46 ? "where"
+.SEGMENT WORD 52-59 ? "supposed"
+.SEGMENT WORD 60-61 ? "to"

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/ctwr/ctwr124.dat
+.SEGMENT TEXT 0-36 OK "The abrupt management change sparked widespread speculation that Mr. Roman had been pushed out of Ogilvy's top spot by Mr. Sorrell."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE ced/ced3.lex
+.INCLUDE ced/ced3.doc
+.INCLUDE ced/data/sifg9828_s_11.dat
+.SEGMENT CHARACTER 66 ? "-"

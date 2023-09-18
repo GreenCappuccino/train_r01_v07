@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1808.dat
+.SEGMENT TEXT 0-20 ? "Jet Just Joy Kettle"

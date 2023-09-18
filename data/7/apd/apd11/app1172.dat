@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1172.dat
+.SEGMENT WORD 0 ? "ray"
+.SEGMENT WORD 1 ? "really"
+.SEGMENT WORD 2-3 ? "responsible"
+.SEGMENT WORD 4-5 ? "ring"

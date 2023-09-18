@@ -1,0 +1,19 @@
+.VERSION 1.0
+.INCLUDE cec/ced2.doc
+.INCLUDE cec/ced0.lex
+.INCLUDE cec/data/Limpert.dat
+.SEGMENT TEXT 78-130 ? "The main characters are old acquaintances who meet again by chance ."
+.SEGMENT TEXT 205-259 ? "But the main characters seem only to be happy when the two of them are together ."
+.SEGMENT TEXT 260-288 ? "agonize over whether or not they are in love ."
+.SEGMENT TEXT 289-333 ? "Their friends think that they are perfect for each other ."
+.SEGMENT TEXT 334-362 ? "The man and the woman have a falling out ."
+.SEGMENT TEXT 467-505 ? "But the film is more than just fun ."
+.SEGMENT TEXT 541-581 ? "It makes us think about whether a man and woman can be friends ."
+.SEGMENT TEXT 582-606 ? "The movie never gives us an answer ."
+.SEGMENT TEXT 607-615 ? "Dear Jennifer"
+.SEGMENT TEXT 616-636 ? "How are you and Suzanne ?"
+.SEGMENT TEXT 746-766 ? "We are enjoying ourselves thoroughly ."
+.SEGMENT TEXT 800-846 ? "He keeps zipping in and out of the house all of the time ."
+.SEGMENT TEXT 847-871 ? "The month has gone by very quickly ."
+.SEGMENT TEXT 985-1021 ? "Did you want us to get you anything special ?"
+.SEGMENT TEXT 1063-1117 ? "It is a bit late to ask , but I hope you have been feeding Fido ."

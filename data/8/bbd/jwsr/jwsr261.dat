@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr261.dat
+.SEGMENT TEXT 0-45 OK "Most revisions it will propose will be geared toward slowing down program trading during stressful periods, said officials working with the exchange."

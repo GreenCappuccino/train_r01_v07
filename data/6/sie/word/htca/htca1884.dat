@@ -1,0 +1,3 @@
+.VERSION 1.0
+.INCLUDE sie/data/word/htca/htca1884.dat
+.SEGMENT WORD 0-2 ? "Essen"

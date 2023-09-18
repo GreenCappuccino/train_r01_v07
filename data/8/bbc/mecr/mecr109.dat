@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/mecr/mecr109.dat
+.SEGMENT TEXT 0-31 OK "\"We think we're on target in looking for renewed economic deterioration,\" he said."

@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE kai/word.lex
+.INCLUDE kai/kai2.doc
+.INCLUDE kai/data/kai2/scoh5.dat
+.SEGMENT WORD 5 OK "a"
+.SEGMENT WORD 24 OK "a"
+.SEGMENT WORD 49 OK "a"
+.SEGMENT WORD 51 OK "a"

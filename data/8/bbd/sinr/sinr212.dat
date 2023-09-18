@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr212.dat
+.SEGMENT TEXT 0-33 OK "The main factors for the September increase from the previous month were higher prices for services, food and housing."

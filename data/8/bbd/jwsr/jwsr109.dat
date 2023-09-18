@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr109.dat
+.SEGMENT TEXT 0-64 OK "To avoid default, lawmakers must pass legislation raising the limit to $3.12 trillion from $2.80 trillion by next Wednesday, according to the Treasury."

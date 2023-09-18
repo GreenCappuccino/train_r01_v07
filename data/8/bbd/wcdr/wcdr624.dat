@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr624.dat
+.SEGMENT TEXT 0-57 OK "Wells, Rich, Greene named Cheryl Heller as an executive vice president and creative partner in its image group, which concentrates on fashion and visually oriented advertising."

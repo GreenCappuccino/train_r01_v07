@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr128.dat
+.SEGMENT TEXT 0-35 OK "A company spokesman said the Veslefrikk field's gross reserves were estimated in 1987 at 229 million barrels."

@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr890.dat
+.SEGMENT TEXT 0-60 OK "Fraser & Neave, which also has interests in packaging, beer and dairy products, holds the Coke licenses for Malaysia and Brunei, where per-capita consumption isn't as high as in Singapore."

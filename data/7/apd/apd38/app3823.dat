@@ -1,0 +1,9 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd38/app3823.dat
+.SEGMENT WORD 0-7 ? "George's"
+.SEGMENT WORD 8-17 ? "Radiator"
+.SEGMENT WORD 18-23 ? "Fresh"
+.SEGMENT WORD 24-28 ? "Clean"
+.SEGMENT WORD 29-36 ? "Family"
+.SEGMENT WORD 37-48 ? "Dentistry"

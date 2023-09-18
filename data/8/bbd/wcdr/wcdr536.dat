@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr536.dat
+.SEGMENT TEXT 0-63 OK "To make matters even more confusing, the earlier U.S. experience made clear that Mr. Lawson's tax cuts would have profound effects on Britain's international accounts and the value of sterling."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd13/app1391.dat
+.SEGMENT WORD 0-3 ? "he'd"
+.SEGMENT WORD 4-8 ? "honor"
+.SEGMENT WORD 9-12 ? "ice"
+.SEGMENT WORD 13-22 ? "improved"

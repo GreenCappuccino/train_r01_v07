@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/ajcr/ajcr102.dat
+.SEGMENT TEXT 0-62 OK "Officials said South Korean exports to Europe dropped 5.3% to $3.02 billion while imports from there went up 17% to $2.61 billion."

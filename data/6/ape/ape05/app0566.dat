@@ -1,0 +1,8 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape05/app0566.dat
+.SEGMENT WORD 0-3 ? "In"
+.SEGMENT WORD 4-6 ? "case"
+.SEGMENT WORD 7-9 ? "of"
+.SEGMENT WORD 10-17 ? "emergency"
+.SEGMENT WORD 18-23 ? "dial"

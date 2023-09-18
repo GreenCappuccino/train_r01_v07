@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr903.dat
+.SEGMENT TEXT 0-64 OK "As a result of the transaction, which is expected to be approved at a shareholders meeting Nov. 24, Giovanni Agnelli & Co. will control 79.18% of IFI's ordinary shares."

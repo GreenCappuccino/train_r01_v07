@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr341.dat
+.SEGMENT TEXT 0-20 OK "Lawyers for the two sides weren't immediately available for comment."

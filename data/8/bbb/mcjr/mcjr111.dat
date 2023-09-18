@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbb/bbn.lex
+.INCLUDE bbb/bbnD1.doc
+.INCLUDE bbb/data/mcjr/mcjr111.dat
+.SEGMENT TEXT 0-53 OK "And because the pachinko industry is regularly at the top of annual lists for tax evasion, some observers estimate the real income could be as much as 20 trillion yen."

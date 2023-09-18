@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr663.dat
+.SEGMENT TEXT 0-69 OK "The Tokyo Stock Price Index of all issues listed in the First Section, which declined 5.16 on Monday, was up 16.05, or 0.60%, at 2692.65 on Tuesday."

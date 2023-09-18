@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/wcdr/wcdr272.dat
+.SEGMENT TEXT 0-46 OK "In keeping with men's broader fashion scope today, businessmen are dabbling in English and Italian suits that are conservative but not stodgy."

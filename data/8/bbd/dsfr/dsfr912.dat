@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr912.dat
+.SEGMENT TEXT 0-39 OK "Mediobanca said during the weekend that it agreed to sell the shares back to Giovanni Agnelli for 333 billion lire."

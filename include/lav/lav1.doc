@@ -1,0 +1,85 @@
+.VERSION	1.0
+
+.DATA_SOURCE 	Laval_University
+
+.DATA_ID	lav1
+
+.ALPHABET       "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" 
+                "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M"
+                "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" 
+                "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m"
+                "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z" 
+                "~" "!" "@" "#" "$" "%" "^" "&" "*" "(" ")" "-" "+"
+                "=" "|" "\\" "/" "{" "}" "?" "[" "]" "\"" ":" "<" ">"
+                "," "." ";" "'" "`" "_" "\ "
+
+.ALPHABET_FREQ  0 0 0 0 0 0 0 0 0 0
+                0 0 0 0 0 0 0 0 0 0 0 0 0
+                0 0 0 0 0 0 0 0 0 0 0 0 0
+                1 1 1 1 1 1 1 1 1 1 1 1 1
+                1 1 1 1 1 1 1 1 1 1 1 1 1
+                0 0 0 0 0 0 0 0 0 0 0 0 0
+                0 0 0 0 0 0 0 0 0 0 0 0 0
+                0 0 0 0 0 0 0
+
+.HIERARCHY	WORD
+
+.DATA_CONTACT	Name: 		Marc Parizeau
+		Affiliation: 	Electrical Engineering Department
+				Laval University
+		Address:	Ste-Foy, Quebec, G1K 7P4, Canada
+		Phone: 		(418) 656-7912
+		Fax: 		(418) 656-3159
+		Email: 		parizeau@gel.ulaval.ca
+
+.SETUP   Site:  				university research lab.
+         Time:  				1991
+         Writer population:			students, research staff
+         Writer motivation:			volunteer
+         Writer physical position:		sitting
+         Instructions given to the writer:      use clean natural handwriting
+         Duration of one session:               approx. 15 minutes
+         Recognizer feedback: 			no
+         Form layout:
+
+
+.DATA_INFO    
+         Set type: 	test
+         Alphabet: 	lower case characters of the roman alphabet
+         Lexicon: 	100 randomly generated words of 5, 6 or 7 characters
+         Label distribution: 	respect letter frequency of a 32,000 words
+				French dictionary
+         Quantity:	100 words per writer
+         Quality: 	no cleaning
+         Number of Writer(s): 	10
+         Writing Style: mixed
+         Segmentation: 	no
+
+.PAD     Machine name: 		Pencept PenPad 300
+         Brand:			Pencept
+         Type:			PenPad 300
+         Serial Nr.:
+         Sensor:		Electromagnetic
+         Pen:			Tip switch and side button
+				Tip switch used for PenUp/PenDown determination
+         Driver:		Custom under DOS using interrupt subroutine
+         Sampling mode:		stream mode (continuous sampling)
+         Sampling rate:		100 Hz
+         Resolution:		0.001 in
+         Accuracy:              0.005 in (as specified by the manufacturer)
+         Width:                 11 in
+         Height:                11 in
+         Display:		No
+         Inking: 		No
+
+.X_DIM   2000
+
+.Y_DIM   1000
+
+.X_POINTS_PER_INCH 1000
+
+.Y_POINTS_PER_INCH 1000
+
+.POINTS_PER_SECOND 100
+
+.COORD             X Y

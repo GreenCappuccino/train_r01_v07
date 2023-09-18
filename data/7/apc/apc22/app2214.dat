@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc22/app2214.dat
+.SEGMENT WORD 0-7 ? "Driver"
+.SEGMENT WORD 8-14 ? "Dusty"
+.SEGMENT WORD 15-19 ? "Eagle"
+.SEGMENT WORD 20-26 ? "Easily"

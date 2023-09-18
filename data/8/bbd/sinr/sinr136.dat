@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/sinr/sinr136.dat
+.SEGMENT TEXT 0-60 OK "Tenneco Credit Corp. - $150 million of 9 1/4% senior notes due Nov. 1, 1996, priced at 99.625 to yield 9.324%."

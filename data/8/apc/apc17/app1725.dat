@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc17/app1725.dat
+.SEGMENT TEXT 0-35 ? "italicized investigate jar jet"

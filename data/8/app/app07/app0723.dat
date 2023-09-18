@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE app/app.doc
+.INCLUDE app/data/app07/app0723.dat
+.SEGMENT TEXT 0-27 ? "[OR ELSE {you know what!}]."

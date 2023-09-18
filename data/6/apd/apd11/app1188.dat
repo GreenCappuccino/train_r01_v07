@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apd/app.doc
+.INCLUDE apd/data/apd11/app1188.dat
+.SEGMENT WORD 0-1 ? "dinosaur"
+.SEGMENT WORD 2-5 ? "distant"
+.SEGMENT WORD 6-8 ? "drift"
+.SEGMENT WORD 9 ? "donkey"

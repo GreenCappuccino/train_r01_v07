@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/aksr/aksr121.dat
+.SEGMENT TEXT 0-51 OK "The chips use materials, such as lead zirconate titanate, to form microscopic switches that retain their data without electricity."

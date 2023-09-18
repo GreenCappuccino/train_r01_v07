@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc18/app1854.dat
+.SEGMENT WORD 0-6 ? "Insect"
+.SEGMENT WORD 7-10 ? "Jars"
+.SEGMENT WORD 11-17 ? "Joined"
+.SEGMENT WORD 18-21 ? "Jump"

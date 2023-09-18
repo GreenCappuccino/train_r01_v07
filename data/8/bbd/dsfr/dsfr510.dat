@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr510.dat
+.SEGMENT TEXT 0-44 OK "Even expect stolen bases, says the wiry and fit Mr. Campaneris: \"If you know how to slide, it's no problem,\" he says."

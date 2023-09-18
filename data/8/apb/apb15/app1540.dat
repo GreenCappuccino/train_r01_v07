@@ -1,0 +1,4 @@
+.VERSION 1.0
+.INCLUDE apb/app.doc
+.INCLUDE apb/data/apb15/app1540.dat
+.SEGMENT TEXT 0-44 ? "Please pick up suit from cleaners on your way home"

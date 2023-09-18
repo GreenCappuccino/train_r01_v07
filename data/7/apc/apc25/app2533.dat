@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc25/app2533.dat
+.SEGMENT WORD 0-3 ? "aboard"
+.SEGMENT WORD 4-9 ? "aircraft"
+.SEGMENT WORD 10-13 ? "again"
+.SEGMENT WORD 14-15 ? "anger"

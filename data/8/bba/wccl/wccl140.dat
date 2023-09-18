@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bba/bbn.lex
+.INCLUDE bba/bbnE.doc
+.INCLUDE bba/data/wccl/wccl140.dat
+.SEGMENT TEXT 0-89 OK "\"The interpretation\" of the executive order, Mr. Stoltz said, \"and the way in which the various committees have over time interpreted it, has led in my view to a proper caution on the part of operators, including me.\""

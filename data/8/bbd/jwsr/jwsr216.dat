@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/jwsr/jwsr216.dat
+.SEGMENT TEXT 0-54 OK "Ogden Projects, which has interests in solid-waste recovery and hazardous-waste cleanup, said it has 13 facilities in operation, up from seven a year ago."

@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE ape/app.doc
+.INCLUDE ape/data/ape03/app0309.dat
+.SEGMENT WORD 0-2 ? "Keiko"
+.SEGMENT WORD 3-4 ? "Laura"
+.SEGMENT WORD 5 ? "Mo"
+.SEGMENT WORD 6 ? "Nancy"

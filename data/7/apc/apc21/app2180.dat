@@ -1,0 +1,7 @@
+.VERSION 1.0
+.INCLUDE apc/app.doc
+.INCLUDE apc/data/apc21/app2180.dat
+.SEGMENT WORD 0-8 ? "Gravity"
+.SEGMENT WORD 9-14 ? "Hats"
+.SEGMENT WORD 15-23 ? "Herself"
+.SEGMENT WORD 24-28 ? "Here"

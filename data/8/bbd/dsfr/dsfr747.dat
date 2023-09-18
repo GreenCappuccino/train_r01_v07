@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbd/bbn.lex
+.INCLUDE bbd/bbnT.doc
+.INCLUDE bbd/data/dsfr/dsfr747.dat
+.SEGMENT TEXT 0-34 OK "Banks that adjusted payouts on CDs in the most recent week made only fractional moves, he said."

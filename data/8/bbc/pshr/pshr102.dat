@@ -1,0 +1,5 @@
+.VERSION 1.0
+.INCLUDE bbc/bbnD2.doc
+.INCLUDE bbc/bbn.lex
+.INCLUDE bbc/data/pshr/pshr102.dat
+.SEGMENT TEXT 0-57 OK "Mr. Downey's previous show, a one-hour shout fest, syndicated by MCA Inc. and produced by Quantum Media Inc., was canceled in July after advertisers and stations abandoned it."
