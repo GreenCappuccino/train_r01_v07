@@ -6,7 +6,7 @@
 .COMMENT  ################ Writer information ##################
 .WRITER_ID ic
 .COUNTRY England
-.AGE Unknown
+.AGE ?
 .HAND R
 .STYLE	  MIXED
 

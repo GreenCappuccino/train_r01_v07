@@ -1,4 +1,4 @@
-.INCLUDE ../../imp0.doc
+.INCLUDE imp/imp0.doc
 .DATE 09 14 94
 .STYLE MIXED
 .COMMENT previously: .WRITER_ID brown_69
