@@ -1,0 +1,164 @@
+/*****************************************************************************\
+*                                                                             *
+*                                                                             *
+*   This is the first UNIPEN distribution of the iUF                          *
+*                                                                             *
+*   This distribution comprises NIST train_r01_v07                            *
+*                                                                             *
+*  http://www.unipen.org/                                                     *
+*                                                                             *
+*  Source code: C/Linux at                                                    *
+*  http://www.sourcefiles.org/Scientific/Other_Sciences/uptools3.tar.gz       *
+*                                                                             *
+*                                                                             *
+*           The International Unipen Foundation, December 1999                *
+*                                                                             *
+*                                                                             *
+*******************************************************************************
+*                                                                             *
+*                                                                             *
+*  DISCLAIMER AND COPYRIGHT NOTICE FOR ALL DATA CONTAINED ON THIS CDROM:      *
+*                                                                             *
+*                                                                             *
+*  1) PERMISSION IS HEREBY GRANTED TO USE THE DATA FOR RESEARCH               *
+*     PURPOSES. IT IS NOT ALLOWED TO DISTRIBUTE THIS DATA FOR COMMERCIAL      *
+*     PURPOSES.                                                               *
+*                                                                             *
+*     Copyright 1999, International Unipen Foundation - All rights reserved   *
+*                                                                             *
+*  2) PROVIDER GIVES NO EXPRESS OR IMPLIED WARRANTY OF ANY KIND AND ANY       *
+*     IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PURPOSE ARE       *
+*     DISCLAIMED.                                                             *
+*                                                                             *
+*  3) PROVIDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL,         *
+*     INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THIS      *
+*     DATA.                                                                   *
+*                                                                             *
+*  4) THE CONDITIONS OF USE REQUIRE PROPER REFERENCE TO THIS DATABASE         *
+*     AS DESCRIBED IN ACCOMPANYING DOCUMENT 'unipen-conditions-of-use.html'   *
+*                                                                             *
+\*****************************************************************************/
+
+Contents of the CDROM:
+----------------------
+
+1) This file, called CDROM-README
+2) The nist distribution, of which part of the directory tree is listed here.
+
+train_r01_v07
+	include
+		abm  apb  app  atu  bbd  ced  gmd  ibm  kai  lou  pap  pri  sta  uqb
+		aga  apc  art  bba  cea  cee  hpb  imp  kar  mot  par  rim  syn  val
+		anj  apd  ata  bbb  ceb  cef  hpp  imt  lav  nic  pcl  scr  tos
+		apa  ape  att  bbc  cec  dar  huj  int  lex  not  phi  sie  ugi
+
+	data
+		1a
+			aga  apb  art  ceb  gmd  imp  pri  tos  val
+			apa  app  cea  ced  ibm  lou  syn  uqb
+		1b  1c  1d  2   3   4   5   6   7   8
+
+All files on the the CDROM were tested on UNIPEN integrity using uplib.
+The description of the contents is given below:
+
+
+Description of the contents:
+----------------------------
+
+For a description and examples of the UNIPEN format, see http://www.unipen.org/
+
+The UNIPEN files contained in this release are organized in 10 categories, listed
+below. The number of .SEGMENTS and number of files for each category are given:
+
+ cat   nsegm  nfiles
+  1a  15953     634  isolated digits 
+  1b  28069    1423  isolated upper case 
+  1c  61351    2145  isolated lower case 
+  1d  17286    1222  isolated symbols (punctuations etc.) 
+  2  122628    2735  isolated characters, mixed case 
+  3   67352    1949  isolated characters in the context of words or texts 
+  4      0        0  isolated printed words, not mixed with digits and symbols 
+  5      0        0  isolated printed words, full character set 
+  6  75529     3298  isolated cursive or mixed-style words (without digits and symbols) 
+  7  85213     3393  isolated words, any style, full character set 
+  8  14544     4563  text: (minimally two words of) free text, full character set 
+
+In each directory representing a category, e.g., data/1a, a number of
+sub-directories are contained. The name of a subdirectory is a
+three-letter word identifying the contributor of the data.
+
+Consider for example the UNIPEN files contributed by 'aga' of category
+1a (isolated digits). The files containing .SEGMENT entries are contained
+in the 'data' directory:
+	data/1a/aga
+
+Most files in this distribution contain one or more .INCLUDE statements.
+The corresponding files are found in the 'include' directory, in this case:
+	include/aga
+Some files (such as the 'imp' contributions) use nested .INCLUDE statements.
+The software contained in the uptools3 distribution contains code to find
+files to be included based on an environment variable.
+
+
+Distribution of categories per contributor:
+-------------------------------------------
+
+         1a    |    1b    |    1c    |    1d    |     2     |    3      |     6      |     7      |     8
+--------------------------------------------------------------------------------------------------------------
+abm |          |          |          |          |           |           |   628    4 |   646    4 |    7   3 | 
+aga |  405  14 | 1115  14 | 1063  14 |  221  14 |  2804  14 |           |            |            |  605  14 | 
+anj |          |          |          |          |           |           |  1435    6 |  1435    6 |          | 
+apa |  692  74 | 2236 247 | 7414 391 | 1953 268 | 12295 527 | 12295 527 |            |            |  527 527 | 
+apb | 2033 138 | 3450 466 | 8869 434 |  946 233 | 15298 590 | 15298 590 |            |            |  590 590 | 
+apc |          |          |          |          |           |           |  1724  441 |  1798  444 |  444 444 | 
+apd |          |          |          |          |           |           |  1958  453 |  2448  507 |  507 507 | 
+ape |          |          |          |          |           |           |  1384  286 |  1848  322 |  322 322 | 
+app | 1046 115 | 3010 353 |10370 556 | 2886 400 | 17312 745 | 17312 745 |            |            |  745 745 | 
+art |  170   6 | 1042   6 | 2301   6 |  202   6 |  3715   6 |  3715   6 |   687    6 |   933    6 |  186   6 | 
+att |          |          |          |          |           |           |   932   29 |  2253   29 |  819  30 | 
+atu |          |          |          |          |           |           |            |            |   92  92 | 
+bba |          |          |          |          |           |           |            |            |   63  63 | 
+bbb |          |          |          |          |           |           |            |            |   51  51 | 
+bbc |          |          |          |          |           |           |            |            |   61  61 | 
+bbd |          |          |          |          |           |           |            |            |  858 858 | 
+cea |    7   3 |   57   6 | 1402   6 |   35   6 |  1501   6 |  1501   6 |   311    6 |   345    6 |   38   6 | 
+ceb |   16   2 |   30   4 |  488   4 |    8   3 |   542   4 |   542   4 |   116    4 |   129    4 |   22   4 | 
+cec |          |          |          |          |           |           |  4880   35 |  5625   35 |  604  35 | 
+ced | 1369  42 | 2691  42 | 2619  43 | 1077  43 |  7756  43 |  7756  43 |            |            | 1100  43 | 
+cee |          |          |          |          |           |           |  3977   29 |  3978   29 |          | 
+dar |          |          |          |          |           |           |   277    2 |   316    2 |   36   2 | 
+gmd | 1145   3 |          | 2921   3 |  832   3 |  4898   3 |           |            |            |          | 
+hpb |          |          |          |          |           |           |  1524    7 |  2292    7 | 1832  23 | 
+hpp |          |          |          |          |           |           |  8323   32 | 10820   32 | 2591  29 | 
+huj |          |          |          |          |           |           |   104    1 |   104    1 |          | 
+ibm | 1571  22 | 4264  22 | 4354  22 | 1994  22 | 12183  22 |           |  1196    9 |  1196    9 |          | 
+imp |  257  50 |  645  50 |  656  50 |  851  50 |  2409  50 |           |  1119   22 |  1119   22 |          | 
+imt |          |          |          |          |           |           |   242    1 |   242    1 |          | 
+int |          |          |          |          |           |           |  2012    4 |  2012    4 |          | 
+kai |          | 1961  28 | 8663  46 | 1585  22 | 12209  57 |  8933  28 |  1013   28 |  1663   28 |          | 
+kar |          |          |          |          |           |           |  1809   33 |  1860   33 |          | 
+lav |          |          | 1324   9 |          |  1324   9 |           |   213    5 |   213    5 |          | 
+lex |          |          |          |          |           |           |  5660   13 |  7235   13 | 1937  13 | 
+lou |    7   1 |   11   1 |   15   1 |    2   1 |    35   1 |           |  1538    7 |  1599    7 |          | 
+mot |          |          | 2701   8 |          |  2701   8 |           |            |            |          | 
+nic |          |          |          |          |           |           |  6813   66 |  6813   66 |          | 
+not |          |          |          |          |           |           |  1452    8 |  1452    8 |          | 
+pap |          |          |          |          |           |           |  2203   39 |  2213   41 |          | 
+par |          |          |          |          |           |           |   496    8 |   512    8 |          | 
+pcl |          |          |          |          |           |           |   616   21 |   616   21 |          | 
+phi |          |          |          |          |           |           |  2506   12 |  2506   12 |   91   4 | 
+pri |   78  15 |  212  15 |  191  15 |  230  15 |   711  15 |           |   106    3 |   110    3 |   49  18 | 
+rim |          |          |          |          |           |           |   277   21 |   277   21 |          | 
+scr |          |          |          |          |           |           |            |            |  211  44 | 
+sie |          |          |  377 377 |          |   377 377 |           |  1593 1593 |  1593 1593 |          | 
+sta |          |          |          |          |           |           | 15808   61 | 16415   61 |  156  29 | 
+syn | 4554  17 |  637   8 |  589   8 |  415   8 |  6195  17 |           |            |            |          | 
+tos |  543 108 | 1432 108 | 1381 108 | 1660 108 |  4985 108 |           |            |            |          | 
+ugi |          |          |          |          |           |           |   597    3 |   597    3 |          | 
+uqb |  598   4 | 1514   4 |          | 1327   4 |  3439   4 |           |            |            |          | 
+val | 1462  20 | 3762  49 | 3653  44 | 1062  16 |  9939 129 |           |            |            |          | 
+--------------------------------------------------------------------------------------------------------------
+    |          |          |          |          |           |           |            |            |          | 
+tot |15953 634 |28069 1423|61351 2145|17286 1222|122628 2735|67352 1949 | 75529 3298 | 85213 3393 |14544 4563| 
+--------------------------------------------------------------------------------------------------------------
+         1a    |    1b    |    1c    |    1d    |     2     |    3      |     6      |     7      |     8
